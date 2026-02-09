@@ -1,0 +1,854 @@
+
+
+=== START OF FILE: COURT ORDERS/Motion for Summary Judgment Denied.pdf ===
+
+
+
+
+IN THE CIRCUIT COURT FOR BALTIMORE COUNTY 
+ANDREW BRENNER, et
+ al., 
+       Plaintiffs/Substitute Trustees, 
+JEFFREY SCHATZ, 
+    
+Defendant. 
+* 
+* Case No:. C-03-CV-24-00321
+8 
+*
+*
+DEFENDANT'S MOTION FOR SUMMARY JUDGMENT 
+Defendant, Jeffrey Michael Schatz ("Defendant" or "Schatz"), in propria persona, 
+respectfully moves this Honorable Court, pursuant to Maryland Rule 2-501, to enter 
+summary judgment in his favor and to dismiss with prejudice the foreclosure action initiated 
+by the purported Substitute Trustees, Andrew Brenner, et al. (the "Plaintiffs"). 
+This action is a legal nullity, the culmination of a fraudulent enterprise that began with the 
+origination of a defective FHA loan and has now devolved into a bad-faith foreclosure 
+prosecuted through a series of perjurious statements, willful discovery abuse, and a 
+profound contempt for this Court's authority. The undisputed material facts, established by 
+the Plaintiffs' own binding judicial admissions, public SEC filings, and the clear record of 
+this case, demonstrate conclusively that the Plaintiffs lack legal standing, that the chain of 
+title is catastrophically and incurably broken, and that the trust they implicitly represent is a 
+defunct legal entity. 
+The Plaintiffs' case is not merely flawed; it is an incoherent legal fiction. For the reasons set 
+forth herein, there are no genuine disputes of material fact, and Defendant is entitled to 
+judgment as a matter of law. 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz 
+Case No. C-03-CV-24-003218
+Page 1 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+E-FILED; Baltimore County Circuit Court
+Docket: 9/23/2025 9:45 AM; Submission: 9/23/2025 9:45 AM
+Envelope: 23044729
+E-FILED; Baltimore County Circuit Court
+Docket: 10/17/2025 10:05 AM; Submission: 10/17/2025 10:05 AM
+Envelope: 23408368
+E-SERVED Baltimore County Circuit Court 10/17/2025 10:05 AM System SystemEnvelope:23408368
+
+Promissory Note (the "Note") for $254,308, secured by a Deed of Trust against the property at 18 
+Edmondson Ridge Road, Catonsville, MD 21228 (the "Property") (See Exhibit A). The loan is insured 
+by the FHA. This loan was originated during a period when Wells Fargo was engaged in a widespread, 
+systematic fraudulent enterprise involving FHA loans. As established by a $1.2 billion Department of 
+Justice settlement, Wells Fargo admitted to "reckless" underwriting and intentionally
+ failing to report 
+thousands of materially defective loans to the FHA. This created an urgent incentive for Wells Fargo to 
+offload this "toxic asset" into a private-label securitization
+ to conceal its defects from HUD. 
+2.The Special Indorsement: The Note contains a single, unambiguous
+indorsement: "WITHOUT RECOURSE PAY TO THE ORDER OF WELLS FARGO 
+BANK,N.A." (See Exhibit A). This is a "special indorsement" under Maryland law; the Note is not 
+indorsed in blank. 
+3.The
+ Void Appointment: On August 7, 2024, an "Appointment of Substitute Trustees"
+was executed by Caitlyn Green on behalf of Wells Fargo, naming the Plaintiffs in this action (See 
+Exhibit B). This document falsely asserts that Wells Fargo is the "present beneficiary" and was filed in 
+the Land Records of Baltimore County on August 12, 2024 in violation of MD Criminal Law § 
+8-606
+4.The
+ Judicial Admission of Non-Possession: In a sworn response to Defendant's
+Interrogatory No. 1, Plaintiffs admitted the current physical custodian of the Note is with 
+"DEUTSCHE BANK 
+ATT MARK KELLY 
+1761 EAST ST ANDREWS 
+PL 
+SANTA ANA, CA 92705" . 
+(
+See Exhibit C) This is a binding judicial  admission that Wells Fargo N.A., the special indorsee, 
+does not have physical possession of the Note. 
+            STATEMENT OF UNDISPUTED MATERIAL FACTS 
+1.T
+he Fra  udulent Origination: On April 13, 2010, Defendant executed a
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 2 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+5.The Intended Securitization Trust: The loan-level data for the Sequoia
+Mortgage Trust 2010-H1 (SEMT 2010-H1) lists a mortgage with a principal balance that 
+directly corresponds to the Defendant's loan (line item "74 Citiquik process 1 year Y 
+-253,473.09"), confirming it was part of the intended collateral pool (See Exhibit D). The
+public Prospectus for this trust explicitly names Wells Fargo Bank, N.A. as both the Trustee 
+and the Custodian for the t
+rust which provided the mechanism for Wells Fargo N. A. to “stuff” 
+the Note into this collateral pool days before it closed. The Catastrophic Failures of Transfer: 
+The transfer of the Note into the SEMT 2010-H1 
+trust was legally void, even of practically 
+possible, for at least three distinct reasons established by the trust's own Prospectus: 
+a.The "Impossible Loan": The prospectus required loans to be originated
+from May 2009 through December 2009. The Note, originated in April 2010, was facially 
+ineligible (See Exhibit E) . 
+b.The "Improper Transfer": The prospectus required the Note to be
+"endorsed in
+ blank without recourse" . The Note bears a special indorsement to Wells Fargo 
+(Compare Exhibit E with Exhibit A). 
+c.The "Misdelivered Note": The prospectus names Wells Fargo as the
+"Custodian". Plaintiffs admit the custodian is Deutsche Bank (Compare Exhibit E with 
+Exhibit C).. 
+6.T
+he  Defunct  Trust:  On  April  4,  2016,  SEMT  2010-H1  filed  an  SEC  Form 15,
+terminating its registration  and certifying it    had an  "Approximate  number  of  holders  of record 
+as of the certification or notice date: Zero (0)” (See Exhibit F).  
+7.Furthermore, the trust's Form 10-K for the year ended December 31, 2015,
+contains 
+an Explanatory Note stating the trust was terminated in 
+2015 pursuant to a "Plan of 
+Liquidation." 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 3 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+8.The Pattern of Perjury and Deception: Throughout this litigation, Plaintiffs
+have submitted contradictory sworn statements to the Court, including: 
+a.Falsely swearing the Note is "indorsed in blank," a calculated
+falsehood designed to create "bearer paper" t  o fabricate standing (See Exhibit G). 
+b.F
+alsely swearing the Note was "never transferred," a falsehood
+designed to hide the failed securitization and the fatal separation of ownership and 
+possession (See Exhibit H). 
+c.Willful Obstruction and Contempt: On August 15, 2025, this
+Court entered an Order compelling Plaintiffs to produce the original Note by September 4, 
+2025. Plaintiffs willfully disobeyed this lawful Order, providing instead a bad-faith 
+"docume
+nt dump" of irrelevant papers while continuing to withhold the dispositive 
+evidence. 
+9.Fraudulent
+ Certificate of Service: Plaintiffs' counsel, Christine N. Johnson,
+signed a Certificate of Service attesting a document were “[O]R WILL BE” mailed on 
+September 9, 2025 (See Exhibit I). The envelope's postmark 
+proves it was not mailed until 
+September 10, 2025, constituting a fraud on the court and potential Mail Fraud under 18 
+U.S.C. § 1341. (See Exhibit J) A timeline of Plaintiffs’ fraudulent activities is attached as 
+Exhibit K. 
+LEGAL ARGUMENT AND AUTHORITIES 
+10.St
+andard for Summary Judgment: Summary judgment is appropriate where
+there is no genuine dispute as to any material fact and t
+he moving party is entitled to 
+judgment as a matter of law. 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 4 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+12.Standing is a threshold jurisdictional
+ issue that is never waived. See Grant v. State, 414
+Md. 483 (2010) and County Com'rs of Carroll County v. Carroll Craft Retail, Inc., 384 Md. 23 
+(2004). 
+13.In Maryland, only the "holder" of a note may appoint substitute trustees to
+foreclose. 
+A "holder" must have possession of the instrument . In Anderson v. Burson, 424 Md. 
+232 (2011), the Court of Appeals emphasized that possession is a "core prerequisite for 'holder' 
+status. 
+14.B
+ecause Plaintiffs have judicially admitted that Wells Fargo lacks possession of
+the specially indorsed Note, Wells Fargo was not the holder when it appointed the trustees. 
+Therefore, the appointment is a void legal nullity. 
+15.II. The Chain of Title is Irrevocably Broken Due to a Failed Securitization
+16.The transfer of the Note into the SEMT 2010-H1 Trust
+ was void ab initio for
+violating the trust's governing documents. 
+a.Under New York law, which governs the trust, "every sale,
+ conveyance or
+other act of the trustee in contravention of the trust... is void". The argument is grounded in New 
+York's Estates,
+ Powers & Trusts Law, which dictates the legal effect of a  trustee's actions that 
+violate the trust's own rules. New York Estates, Powers & Trusts Law § 7-2.4 ("Act of 
+trustee in contravention of trust") states: 
+"If the trust
+ is expressed in the instrument creating the estate 
+of the trustee,
+ every sale, conveyance or other act of the 
+trustee in contravention of the trust, except as authorized by 
+this article and by any other provision of law, is void
+." 
+11.I.  Plaintiffs Lack Standing Because Their Appointment is  Void Ab Initio.
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 5 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+b.
+The New York Supreme 
+Court, Appellate Division, applied this exact
+statute
+ to
+ 
+case with
+ an almost identical fact pattern, involving a failed transfer of a promissory 
+note into a securitized trust. In Wells Fargo Bank, N.A. v. Erobobo, 9 N.Y.S.3d 312 (N.Y. 
+App. Div. 2015), confirming that the acceptance of a note by a trustee in violation of the PSA is 
+a void act that deprives the plaintiff of standing, the court held: 
+"Pursuant to EPTL 7-2.4, 'every sale, conveyance or other act of the 
+trustee 
+in contravention of the trust is void.' Therefore, the acceptance 
+of the note by the trustee after the date the trust closed was void.” 
+17.These authorities definitively establish that a transfer that violates the trust's governing
+documents is a legal nullity, not merely a mistake that can be corrected later. 
+18.The catastrophic failure of the securitization, compounded by the trust's legally defunct
+status (See Exhibit F), creates an impossible legal trilemma where no party can establish the right to 
+foreclose. The undisputed facts trap the Plaintiffs in a logical paradox from which there is no escape. 
+There 
+are only three conceivable theories of the Note's ownership, and each one is fatal to Plaintiff’s 
+case: 
+a.Theory 1: The Loan IS in the 
+Trust. This theory fails because the transfer was
+void ab initio for violating the trust's governing documents (See Exhibits A, C, E), and the trust itself 
+is now defunct and cannot authorize legal action (See Exhibit F). 
+b.T
+heory 2: The Loan is NOT in the Trust (Wells Fargo Owns It). This theory
+fails because Wells Fargo has judicially admitted it lacks possession of the Note (See Exhibit C) and 
+is therefore not the "holder" with authority to appoint the trustees who filed this case. 
+c.Theory 3: Some OTHER Undocumented Transfer Occurred.
+This theory fails for a complete lack of evidence and because any such transfer would 
+be legally impossible. The Note is specially indorsed only to Wells Fargo (See Exhibit 
+A), and without a subsequent valid indorsement from Wells Fargo, no other party can 
+legally claim ownership. 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 6 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+19.This special indorsement was not a mistake; it was a mechanism of
+fraud. The Note 
+was intentionally and exclusively indorsed to Wells Fargo, N.A. 
+so that it could be comingled with other assets and hidden in plain sight. It was 
+designed to be easily retrievable by Wells Fargo—and Wells Fargo alone—once 
+the loan, 
+which they knew was a "toxic asset," inevitably defaulted. This would 
+allow them to collect the final, premeditated profit from their scheme: a 
+fraudulent FHA insurance payout 
+triggered by a fraudulent foreclosure. 
+20.However, as shall be shown herein, this fraudulent scheme was
+entirely dependent on a condition that is fortunately absent here: a passive and 
+compliant defendant. The success 
+of the enterprise required that the homeowner 
+not challenge the foreclosure, so that no one would ever scrutinize the defective 
+chain of title and 
+fraud. 
+21.This concealment would have allowed the Custodian/Trustee/
+Special-Indorsee, Wells Fargo, N.A., to profit multiple times from the same loan
+—paid in full during the initial securitization, perhaps paid again when the Note 
+was removed or liquidated, 
+paid again when  accepting a $40,000 partial claim 
+from HUD, and then 
+finally, by foreclosing on the property and defrauding the 
+government by collecting  an insurance payout for a legally unqualified loan 
+without a clean title. The results are already well documented, detailed in the 
+DOJ cases and fines, but 
+now the mechanics are apparent, and present.
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 7 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+22.III.    The Plaintiffs' Entire Case Collapses
+Under a Nine-Point    Chain of Failure.
+23.The cumulative effect of these undisputed facts creates
+an 
+unbroken, nine-point chain of failure that renders the Plaintiffs' authority 
+a legal nullity which deprives this Court of jurisdiction: 
+a.The note was specially endorsed only to Wells Fargo Bank, N.A.
+(See Exhibit A).
+b.Therefore, only Wells Fargo, N. A. can be the "holder" with the right 
+to enforce the note.
+c.To be the holder, Wells Fargo must have possession (actual or 
+constructive).
+d.Plaintiffs have admitted under oath that Wells Fargo does not have 
+actual possession (See Exhibit C).
+e
+.For Wells Fargo to have constructive possession, Deutsche Bank 
+must be their legally authorized agent. However, Plaintiffs also 
+swore under oath that the Note was "never transferred" (See 
+Exhibit H). Under Maryland Commercial Code § 3-203, the delivery 
+of a note to an agent custodian for the purpose of enforcement is a 
+transfer.
+f.This creates an inescapable paradox: If their "never transferred" 
+statement is true, then Deutsche Bank is not an agent, and Wells 
+Fargo has no possession and no standing. If Deutsche Bank is an 
+agent, then their "never transferred" statement is perjury. Either 
+they have no standing, or they have committed perjury. There is no 
+third option.
+g.Therefore, the Deed of Appointment is void as it was signed by an 
+entity with no proven authority.
+h.Therefore, the “Substitute Trustees” have no legal authority to act.
+i.Therefore, the Plaintiffs lacked standing when they filed this 
+case, and thus,
+This Honorable
+ Court lacks jurisdiction. 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 8 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+24.V. The Foreclosure is Barred by Failure to Comply with Mandatory FHA
+Conditions Precedent. 
+25.As the servicer of an FHA-insured loan, Wells Fargo was required to comply with
+mandatory federal regulations that are conditions precedent to foreclosure. The Plaintiffs have 
+fail
+ed to plead or prove compliance with the mandatory face-to-face interview requirement (24 
+C.F.R. § 203.604) and the loss mitigation waterfall. This failure is consistent with Wells Fargo's
+documented history of FHA abuse, including its admission of a software "glitch" that caused 545 
+wrongf
+ul foreclosures . 
+IV.This Action Must Be Dismissed Due to a Pervasive and Conti
+nuous Fraud
+Upon the Court. 
+2
+6.Willful Contempt and Obstruction: When a party withholds evidence after
+being ordered to produce it, "...fairness dictates that the mortgagee produce the necessary 
+proof, when that 
+matter is put at issue properly." Anderson v. Burson, 424 Md. 232 (2011) . 
+Plaintiffs' defiance of this Court's order creates a powerful adverse inference that the evidence 
+they are hiding is fatal to their case. 
+2
+7.A Last-Minute Production of Documents Would Be a Confession, Not a
+Cure: Any attempt by Plaintiffs to now produce the documents they unlawfully withheld is 
+futile. 
+a.The "Standing at Inception" Doctrine is Absolute: Maryl
+and law is
+clear: a plaintiff must have standing on the day   the lawsuit is filed. This is a jurisdictional 
+requirement that cannot be cured retroactively. See Deutsche Bank v. Brock, 430 Md. 714 
+(2013) . 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz 
+Case No. C-03-CV-24-003218
+Page 9 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+b.Willful Discovery Abuse Warrants Sanctions: If the documents did
+exist, Plaintiffs' refusal to produce them in defiance of a Court Order was a bad-faith act of 
+fraudulent concealment. The appropriate sanction is to 
+bar them from using the 
+very evidence they unlawfully withheld. 
+c.Documented History of Misconduct: This conduct is not an anomaly.
+BWW Law Group partner George Jacob Geesing was suspended for a systemic “robo-signing" 
+scheme (Attorney Grievance Co
+mm'n of Maryland v. Geesing, 436 Md. 56 (2013)) , and the 
+firm was held potentially liable for filing false affidavits in Crowley v. BWW Law Group, LLC 
+(D. Md.  
+           CONCLUSION 
+The core principle in viewing the totality of the Plaintiffs' and their clients' actions in 
+this case 
+and generally is fraus et dolus nemini patrocinari debent—that fraud and deceit should excuse 
+no one—a principle established in English common law as early as 1235 in Henry de Bracton's 
+foundational treatise, De Legibus et Consuetudinibus 
+Angliae (On the Laws and Customs of 
+England). 
+In this case, the Plaintiffs and their client and alleged client, Wells Fargo and Deutsche Bank, 
+come before this Court with profoundly unclean hands. Their hands are stained by a continuous 
+course of fraudulent conduct, including the filing of a void appointment in the public land 
+records to get them in the door, the submission of multiple, 
+contradictory sworn statements to 
+this Court and the willful defiance of a lawful discovery Order to maintain the facade, and the 
+use of a fraudulent Certificate of Service to co
+nceal their procedural failures. 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 10 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+These parties engage in this pattern of deception not to collect a debt, but to secure their 
+"equitable remedy"—payment in triplicate. They profited first from the loan's fraudulent 
+origination and its nearly instant payment in full via securitization; second, from years of 
+collecting servicing fees on a legally defective instrument; and now they seek a third payout 
+through wrongful foreclosure. This foreclosure was designed to trigger a government-backed 
+FHA insurance claim on a loan that was hidden in a private-label trusts and vaults for the very 
+reason that its originator, Wells Fargo, was under federal investigation for issuing thousands of 
+unqualified FHA loans, including this one.  
+The special indorsement on the Note was the key to this scheme. Had these parties chosen almost 
+any other homeowner, this foreclosure would likely already be over. Wells Fargo could have 
+quietly retrieved their "orphan" Note from its "stash spot" in Santa Ana, California. With its 
+single, clean indorsement, the Note would create the illusion of a clean and simple chain of title, 
+and they could have proceeded to the FHA "check-cashing window" with no one the wiser. 
+However, Defendant’s meddling in their scheme now makes that final act of fraud impossible. 
+By challenging their standing and exposing their lies, Defendant has locked in the fact that the 
+Note is not, and has never been, in Wells Fargo's possession. Even if Plaintiffs were to somehow 
+obtain a foreclosure judgment, Defendant would know to alert the FHA that the sudden, clean 
+arrival of the Note for an insurance claim would itself be the final proof of the fraud that was 
+perpetrated on this Court. 
+This Court of equity cannot allow its process to be abused in such a manner, and it must not 
+grant relief to parties who have built this entire case and their business models on 
+foundations of deceit. 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 11 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+The undisputed facts establish that the Plaintiffs lack standing, their appointment is void, the 
+chain of title is catastrophically broken, and their case is maintained only through a pattern of 
+bad faith and deception. Defendant is entitled to judgment as a matter of law.  
+WHEREFORE, Defendant Jeffrey Schatz respectfully prays that this Court: 
+A.Grant this Motion for Summary Judgment;
+B.Enter an Order dismissing the Plaintiffs' Order to Docket Foreclosure with prejudice; and
+C.Grant such other and further relief as this Court deems just and proper.
+Respectfu
+lly submitted, 
+Dated: September 23, 2025 
+Jeffrey Michael Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228 
+(240) 490-0053
+thecornerspore@gmail.com
+Defendant, in propria persona
+/s/ 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 12 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+POINTS AND AUTHORITIES 
+I.MARYLAND STATUTES AND RULES
+MD Criminal Law § 8-606. 
+Md. Rule 
+2-501(f) (Summary Judgment) 
+Md. Commercial Law (CL) § 1-201(b)(21) (Definition of "Holder") 
+Md. CL § 3-205(a) (Special Indorsement) 
+Md. CL § 3-301 (Person Entitled to Enforce Instrument) 
+Md. 
+Real Property § 7-105(d)(5) (Appointment of Trustees) 
+Md. Criminal Law § 8-606 (Filing a False Document) 
+Md. Criminal Law § 9-101 
+(Perjury) 
+II.MARYLAND CASE LAW
+Anderson v. Burson, 424 Md. 232 (2011) (Possession
+ of the instrument is a core prerequisite for 
+achieving "holder" status). 
+County Com'rs of Carroll County v. Carroll Craft Retail, Inc., 384 Md. 23 
+(2004). 
+Attorney Grievance Comm'n of Maryland v. Geesing, 436 
+Md. 56 (2013) (Sanctioning BWW 
+Law Group partner for systemic "robo-signing" scheme). 
+Deutsche Bank Nat'l Trust Co. v. Brock, 430 Md. 714 (2013) (The right to enforce the deed of 
+trust follows the right to enforce the promissory note). 
+Grant v.
+ State, 414 Md. 483 (2010) (Standing is a threshold jurisdictional issue). 
+Wells 
+Fargo Home Mortgage v. Neal, 398 Md. 705 (2007) (Recognizing the enforceability of 
+HUD servicing duties in Maryland). 
+III.FEDERAL STATUTES
+ AND REGULATIONS
+18 U.S.C. § 1341 (Mail Fraud) 
+24 C.F.R. § 203.500 (FHA Foreclosure Intent) 
+24 C.F.R. § 203.604(b) (FHA Face-to-Face Interview) 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 13 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+IV. OTHER AUTHORITIES
+New York Statute 
+N.Y. Est. Powers & Trusts Law § 7-2.4 (Act of trustee in contravention of trust): This statute is 
+the source of the rule that any act by a trustee that violates the trust's governing documents is void
+. 
+New York Case Law 
+Wells Fargo Bank, N.A. v. Erobobo, 9 N.Y.S.3d 312 (N.Y. App. Div. 2015): This is the key case 
+where a New York court applied N.Y. Est. Powers & Trusts Law § 7-2.4 to a failed mortgage 
+securitization, confirming that a transfer that violates the PSA is a void act that deprives the 
+p
+laintiff of standing. 
+V. HISTORICAL TREATISES AND MAXIMS
+Henry de Bracton, De Legibus et Consuetudinibus Angliae (On the Laws and Customs of 
+England) (c. 1235): Establishes the foundational common law principle that fraud vitiates every 
+transaction and that no party should be permitted to benefit from their own fraudulent acts (fraus et 
+dolus nemini patrocinari debent).
+Exhibit A: True and Accurate Photograph of a copy of the Promissory Note’s Signature Page with 
+Special Indorsement to Wells Fargo Bank, N.A. 
+Exhibit B: Appointment of Substitute Trustees, executed August 7, 2024. 
+Exhibit C: Plaintiffs' sworn discovery response admitting Deutsche Bank has physical possession 
+of the Note. 
+Exhibit D: Excerpt of SEMT 2010-H1 Collateral Term Sheet showing Defendant's loan balance. 
+Exhibit E:
+ Prospectus Supplement for Sequoia Mortgage Trust 2010-H1. 
+Exhibit F: SEC Form 15, Termination of Registration for SEMT 2010-H1, certifying "Zero (0)" 
+holders of record. 
+Exhibit G: Excerpt of Plaintiffs' sworn filing falsely claiming the Note is "indorsed in blank." 
+Exhibit H: Excerpt of Plaintiffs' sworn filing falsely claiming the Note was "never transferred." 
+Exhibit I: Certificate of Service signed by Christine N. Johnson, dated September 9, 2025. 
+Exhibit J: Postmarked envelope, postmarked September 10, 2025. 
+LIST OF EXHIBITS IN SUPPORT OF MOTION FOR SUMMARY JUDGMENT 
+Andrew Brenner et. al, 
+v. Jeffrey Schatz
+Case No. C-03-CV-24-003218
+Page 14 of 15
+Jeffrey Schatz 
+18 Edmondson Ridge Road 
+Catonsville, MD 21228
+
+AFFIDAVIT
+OFJEFFREYSCHATZ
+I,
+Jeffrey
+Michael
+Schatz,
+herebysolemnly
+SWEARand
+AFFIRM
+underthe
+penalties
+of
+perjury
+thatthestatementsmade
+in
+the
+foregoing
+motionaretrueandcorrecttothebestof
+my
+personalknowledge,
+information,
+andbelief.
+Respectfully
+submitted,
+Dated:
+September
+23,
+2025
+eTeffrey
+O47
+(Schatz
+Jeffrey
+MichaelSchatz
+18Edmondson
+Ridge
+Road
+Catonsville,
+MD
+21228
+(240)
+490-0053
+thecornerspore@gmail.com
+Defendant,
+in
+propriapersona
+Digitallysignedby
+Jeffrey
+M.
+Schatz
+DN:
+cn=Jeffrey
+M.
+Schatz,
+o=TheCorner
+Spore,
+ou=Executive,
+email=thecornerspore@t
+hecornerspore.org,
+c=US
+Date:2025.09.23
+08:38:24-04'00'
+AdobeAcrobatversion:
+2025.001.20693
+10/16/202511:24:58AM
+TheMotionfor
+SummaryJudgment
+doesnotmeetthe
+requirements
+ofRule2-501.
+TheMotionandthe
+Request
+for
+Hearing
+areDENIED.
+f
+AndrewBrenneret.
+al,
+Page
+15of15
+Jeffrey
+Schatz
+v.
+Jeffrey
+Schatz18Edmondson
+Ridge
+Road
+CaseNo.C-03-CV-24-003218
+Catonsville,
+MD
+21228
+
+
+=== END OF FILE: COURT ORDERS/Motion for Summary Judgment Denied.pdf ===
+
+
+
+
+=== START OF FILE: COURT ORDERS/C-03-CV-24-003218 - Judicial notation and Exception to Report of Sale.pdf ===
+
+
+
+
+IN THE CIRCUIT COURT FOR BALTIMORE COUNTY, MARYLAND 
+ 
+ 
+ 
+ 
+ANDREW BRENNER, et al. 
+ 
+    Plaintiffs,  
+v.    
+ 
+JEFFREY SCHATZ, 
+         Defendant.  
+___________________________________ 
+ 
+JEFFREY SCHATZ, 
+ 
+Counterclaimant,  
+v.  
+ 
+ANDREW BRENNER, et al., 
+ 
+Counterclaim-Defendants, 
+ 
+WELLS FARGO N.A., 
+ 
+     Counterclaim Defendant, 
+ 
+DEUTSCHE BANK 
+NATIONAL TRUST COMPANY, 
+ 
+                 Counterclaim-Defendant.  
+ 
+JOHN DOE 1-10, 
+ 
+      Counterclaim-Defendant.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case No.: C-03-CV-24-003218 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEFENDANT’S EXCEPTIONS  
+TO FORECLOSURE SALE BASED 
+ON PROCEDURAL DEFECTS  
+AND IRREGULARITIES 
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANDREW BRENNER et. al. 
+v. 
+JEFFREY SCHATZ
+Page 1 of 4
+JEFFREY M. SCHATZ 
+18 EDMONDSON RIDGE RD 
+CATONSVILLE,MD 21228
+E-FILED; Baltimore County Circuit Court
+Docket: 11/28/2025 8:44 AM; Submission: 11/28/2025 8:44 AM
+Envelope: 24022241
+
+DEFENDANT’S EXCEPTIONS TO FORECLOSURE SALE  
+BASED ON PROCEDURAL DEFECTS AND IRREGULARITIES  
+(MD. RULE 14-305(e)) 
+COMES NOW the Defendant, Jeffrey M. Schatz, pursuant to Maryland Rule 
+14-305(e), and files these Exceptions to the foreclosure sale conducted on 
+November 20, 2025. The presumption of validity is rebutted because the sale 
+was not "fairly and properly made." Bates v. Cohn, 417 Md. 309, 318-19 
+(2010). 
+I. EXCEPTION 1: The Sale is Void Because the Interested Trustee 
+Acted as Auctioneer in Violation of Md. Rule 14-305(c)(2). 
+1. The independent auctioneer (Alex Cooper) withdrew on 
+November 19, 2025. The Substitute Trustee conducted the sale personally. 
+2. Maryland Rule 14-305(c)(2) mandates the auctioneer file an 
+affidavit stating they have "no direct or indirect interest in the property 
+sold." 
+3. The Substitute Trustee, as the legal representative of the 
+Plaintiff, is an interested party by definition. 
+ 
+ 
+ANDREW BRENNER et. al. 
+v. 
+JEFFREY SCHATZ
+Page 2 of 4
+JEFFREY M. SCHATZ 
+18 EDMONDSON RIDGE RD 
+CATONSVILLE,MD 21228
+
+4.The Affidavit Trap: The Trustee cannot truthfully execute the
+mandatory Affidavit of Auctioneer. Failure to file a compliant affidavit 
+prevents ratification. The sale is procedurally void due to this inherent 
+conflict of interest. 
+II. EXCEPTION 2: The Sale Was Commercially Unreasonable and the
+Bidding Was Chilled. 
+5.Trustees breached their fiduciary duty to maximize the sale price.
+Maddox v. Cohn, 424 Md. 379 (2012).
+6.Conducting a sale (i) by an interested party, (ii) while allegations of
+criminal forgery were pending Sub Curia and on appeal, and (iii) under
+publicized cloud of fraud, guaranteed a depressed price.
+7.The result—zero third-party bids and a buyback by the Plaintiff—is
+prima facie evidence that the bidding was chilled by the "radioactive"
+title. The market delivered a unanimous verdict that the title was
+unmarketable, and the sale was commercially unreasonable.
+ANDREW BRENNER et. al. 
+v. 
+JEFFREY SCHATZ
+Page 3 of 4
+JEFFREY M. SCHATZ 
+18 EDMONDSON RIDGE RD 
+CATONSVILLE,MD 21228
+
+Noted.Tobeaddressedonanewdatetohearmotions.TBD
+Ill.EXCEPTION3:Failureto
+NotifyNecessary
+JuniorLienholder
+(HUD).
+8.Plaintiffsfailedto
+provide
+the
+required
+noticeofsaletoHUD
+(holder
+of
+therecordedPartial
+Claim)pursuant
+toMd.Rule14-210andfailedto
+filethe
+required
+affidavitofnotice.Thisdefect
+requires
+thesaletobe
+vacated
+prior
+toratification.
+CONCLUSION
+WHEREFORE,
+Defendant
+prays
+thatthisCourtsustainthese
+Exceptions
+andVACATEtheforeclosuresaleheldonNovember
+20,
+2025.
+Respectfully
+submitted,
+Dated:November
+26,
+2025
+/s/
+HATZ
+Entered:
+Clerk,
+CircuitCourtfor
+18Edmondson
+Ridge
+Road
+Baltimore
+County,
+MD
+Catonsville,
+Maryland
+21228
+December
+10,
+2025
+(240)
+490-0053
+thecornerspore@gmail.com
+Plaintiff,
+in
+propriapersona
+Page
+4
+of
+4
+JEFFREYM.SCHATZ
+18EDMONDSONRIDGE
+RD
+CATONSVILLE,MD
+21228
+ANDREW
+BRENNER
+et.al.
+v.
+JEFFREYSCHATZ
+
+
+=== END OF FILE: COURT ORDERS/C-03-CV-24-003218 - Judicial notation and Exception to Report of Sale.pdf ===
+
+
