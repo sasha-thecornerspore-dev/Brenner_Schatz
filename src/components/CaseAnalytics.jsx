@@ -49,10 +49,10 @@ export function CaseAnalytics() {
     ]
 
     const OPPOSING_COUNSEL = {
-        firm: 'Dewey, Cheatem & Howe LLP',
-        attorney: 'Richard Shark, Esq.',
+        firm: 'Reed Smith, LLP',
+        attorney: 'Daniel Hurbst, Esq.',
         responseRate: '67%',
-        avgResponseTime: '18 days',
+        avgResponseTime: '13 days',
         commonTactics: ['Delay', 'Boilerplate Objections', 'Robo-signed Affidavits']
     }
 
@@ -79,8 +79,8 @@ export function CaseAnalytics() {
                             key={range}
                             onClick={() => setTimeRange(range)}
                             className={`px-4 py-1.5 text-sm rounded-md transition-all ${timeRange === range
-                                    ? 'bg-primary text-primary-foreground'
-                                    : 'text-muted-foreground hover:text-white'
+                                ? 'bg-primary text-primary-foreground'
+                                : 'text-muted-foreground hover:text-white'
                                 }`}
                         >
                             {range === 'all' ? 'All Time' : range.charAt(0).toUpperCase() + range.slice(1)}
@@ -141,9 +141,9 @@ export function CaseAnalytics() {
                                 className="flex items-center gap-4 p-3 rounded-lg bg-white/5 hover:bg-white/10 transition-all cursor-pointer group"
                             >
                                 <div className={`w-10 h-10 rounded-lg flex items-center justify-center ${event.status === 'favorable' ? 'bg-green-500/20 text-green-400' :
-                                        event.status === 'adverse' ? 'bg-red-500/20 text-red-400' :
-                                            event.status === 'pending' ? 'bg-amber-500/20 text-amber-400' :
-                                                'bg-blue-500/20 text-blue-400'
+                                    event.status === 'adverse' ? 'bg-red-500/20 text-red-400' :
+                                        event.status === 'pending' ? 'bg-amber-500/20 text-amber-400' :
+                                            'bg-blue-500/20 text-blue-400'
                                     }`}>
                                     <event.icon className="w-5 h-5" />
                                 </div>
@@ -152,9 +152,9 @@ export function CaseAnalytics() {
                                     <div className="text-xs text-muted-foreground">{event.date}</div>
                                 </div>
                                 <div className={`text-xs px-2 py-1 rounded-full ${event.status === 'favorable' ? 'bg-green-500/20 text-green-400' :
-                                        event.status === 'adverse' ? 'bg-red-500/20 text-red-400' :
-                                            event.status === 'pending' ? 'bg-amber-500/20 text-amber-400' :
-                                                'bg-blue-500/20 text-blue-400'
+                                    event.status === 'adverse' ? 'bg-red-500/20 text-red-400' :
+                                        event.status === 'pending' ? 'bg-amber-500/20 text-amber-400' :
+                                            'bg-blue-500/20 text-blue-400'
                                     }`}>
                                     {event.status}
                                 </div>
