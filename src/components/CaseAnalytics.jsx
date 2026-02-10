@@ -41,26 +41,27 @@ export function CaseAnalytics() {
     }, [])
 
     const CASE_EVENTS = [
-        { date: '2025-02-05', type: 'motion', title: 'Motion to Compel Filed', status: 'pending', icon: FileText },
-        { date: '2025-01-28', type: 'hearing', title: 'Status Conference', status: 'completed', icon: Gavel },
-        { date: '2025-01-15', type: 'order', title: 'Motion to Dismiss Denied', status: 'adverse', icon: XCircle },
-        { date: '2025-01-02', type: 'discovery', title: 'Interrogatories Served', status: 'completed', icon: FileSearch },
-        { date: '2024-12-20', type: 'motion', title: 'Motion for Extension Granted', status: 'favorable', icon: CheckCircle },
+        { date: '2026-01-13', type: 'hearing', title: 'Hearing on MSJ', status: 'completed', icon: Gavel },
+        { date: '2025-11-19', type: 'motion', title: 'Motion to Waive Filing Fee', status: 'pending', icon: FileText },
+        { date: '2025-11-01', type: 'order', title: 'Foreclosure Sale Scheduled', status: 'adverse', icon: AlertTriangle },
+        { date: '2025-10-15', type: 'discovery', title: 'Request for Production', status: 'completed', icon: FileSearch },
+        { date: '2025-09-20', type: 'motion', title: 'Motion to Stay', status: 'pending', icon: Clock },
     ]
 
     const OPPOSING_COUNSEL = {
-        firm: 'Reed Smith, LLP',
-        attorney: 'Daniel Hurbst, Esq.',
-        responseRate: '67%',
-        avgResponseTime: '13 days',
-        commonTactics: ['Delay', 'Boilerplate Objections', 'Robo-signed Affidavits']
+        firm: 'Law Offices of Daniel Herbst',
+        attorney: 'Daniel Herbst, Esq.',
+        responseRate: 'About Average',
+        avgResponseTime: '15-20 days',
+        commonTactics: ['Procedural Delays', 'Standing Challenges', 'Lost Note Affidavits']
+        // Updated based on case context (Schatz/Herbst)
     }
 
     const FINANCIAL_SUMMARY = {
-        principal: 245000,
-        alleged: 312450,
-        disputed: 67450,
-        fees: 24300
+        principal: 580000, // Estimated
+        alleged: 625450,
+        disputed: 45450, // Fees/Interest
+        fees: 18500
     }
 
     return (

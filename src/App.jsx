@@ -7,6 +7,7 @@ import { FileManager } from './components/FileManager'
 import { AssistantView } from './components/AssistantView'
 import { MotionDrafter } from './components/MotionDrafter'
 import { CaseAnalytics } from './components/CaseAnalytics'
+import { SearchView } from './components/SearchView'
 import { Bot } from 'lucide-react'
 
 
@@ -19,7 +20,10 @@ function App() {
       <aside className="w-64 border-r border-white/10 p-6 flex flex-col">
         <div className="flex items-center gap-2 mb-10">
           <Scale className="w-8 h-8 text-primary" />
-          <h1 className="text-xl font-bold tracking-tight">LegalMind</h1>
+          <div>
+            <h1 className="text-xl font-bold tracking-tight">LegalMind</h1>
+            <div className="text-xs text-muted-foreground">Brenner v. Schatz</div>
+          </div>
         </div>
 
         <nav className="space-y-2">
@@ -30,10 +34,10 @@ function App() {
             onClick={() => setActiveTab('assistant')}
           />
           <NavItem
-            icon={<BookOpen />}
-            label="Deep Research"
-            active={activeTab === 'research'}
-            onClick={() => setActiveTab('research')}
+            icon={<Search />}
+            label="Document Search"
+            active={activeTab === 'search'}
+            onClick={() => setActiveTab('search')}
           />
           <NavItem
             icon={<LayoutDashboard />}
@@ -76,11 +80,11 @@ function App() {
         <div className="mt-auto pt-6 border-t border-white/10">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center text-xs font-bold text-primary">
-              JD
+              JS
             </div>
             <div className="text-sm">
-              <div className="font-medium">Jane Doe. Esq</div>
-              <div className="text-muted-foreground text-xs">Partner</div>
+              <div className="font-medium">Jeffrey [Client]</div>
+              <div className="text-muted-foreground text-xs">Plaintiff</div>
             </div>
           </div>
         </div>
@@ -93,6 +97,7 @@ function App() {
             onNavigate={(tab) => setActiveTab(tab)}
           />
         )}
+        {activeTab === 'search' && <SearchView />}
         {activeTab === 'research' && <ResearchView />}
         {activeTab === 'dashboard' && <DashboardView />}
         {activeTab === 'timeline' && <TimelineComponent />}
