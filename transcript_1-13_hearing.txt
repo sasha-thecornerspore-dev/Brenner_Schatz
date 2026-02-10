@@ -1,0 +1,3840 @@
+TRANSCRIPT OF PROCEEDINGS
+
+IN THE CIRCUIT COURT FOR BALTIMORE COUNTY, MARYLAND
+
+
+
+BRENNER, ET AL.
+
+Plaintiffs,
+
+
+
+v.							Case No. C-03-CV-24-003218
+
+
+
+JEFFREY SCHATZ,
+
+Defendant.
+
+
+
+
+
+DATE: January 13, 2026
+
+BEFORE: The Honorable Judge Rhodes
+
+LOCATION: Circuit Court for Baltimore County, Towson, Maryland
+
+
+
+APPEARANCES:
+
+FOR THE SUBSTITUTE TRUSTEES (Plaintiffs):
+
+Matthew Cohen, Esquire
+
+FOR THE COUNTERCLAIM DEFENDANTS AND THIRD-PARTY DEFENDANTS:
+
+Daniel Herbst, Esquire
+
+BWW Law Group, LLC
+
+PRO SE DEFENDANT:
+
+Jeffrey Schatz
+
+
+
+
+
+
+
+PROCEEDINGS
+
+THE COURT: And if you're not a person at the trial table, thank you. You may be seated. I'm sorry. I thought you all were coming up.
+
+
+
+Okay, this is Brenner et al. v. Schatz, CV 24-3218. Counsel for the record.
+
+
+
+MR. COHEN: Matt Cohen for the trustees.
+
+
+
+THE COURT: I'm sorry, sir.
+
+
+
+MR. COHEN: Matt Cohen for the trustees.
+
+
+
+THE COURT: Good morning.
+
+
+
+MR HERBST: Dan Herbst on behalf of the counterclaim defendants and third-party defendants.
+
+
+
+MR. SCHATZ: Jeffrey Schatz on behalf of himself.
+
+
+
+THE COURT: Yeah. Okay, I'm going to narrow this to basically two issues that we are here for today. One involves this agreement, this custodial agreement between Bank of America and Deutsche Bank regarding the note, which also applies to the discovery issues that were potentially raised in this case. And the other is the exceptions to the foreclosure. So let's get right to it.
+
+
+
+The agreement. Do we have this agreement here today?
+
+
+
+MR HERBST: Yes, Your Honor. I brought copies of the agreement for the court.
+
+
+
+THE COURT: Can we hand that up and can we have the copy for the court marked please as a court exhibit?
+
+
+
+MR HERBST: Sure. And for the record, Your Honor, as I put in my papers, the agreement is confidential so we'd like—you know, there's certain terms we can discuss.
+
+
+
+DISCUSSION RE: PROTECTIVE ORDER AND CONFIDENTIALITY
+
+THE COURT: So I have a question about that. If you're in litigation and someone files for discovery of an agreement, your confidentiality is between you and the other party that signed the agreement. How does that overcome a discovery issue?
+
+
+
+MR HERBST: Well, there are limitations within both the Maryland rules and with regard to confidential discovery. Just because someone asks for something in discovery doesn't mean they're entitled to it.
+
+
+
+THE COURT: Tell me where in the discovery rules, sir.
+
+
+
+MR HERBST: Yes, Your Honor.
+
+
+
+THE COURT: Tell me in the discovery rules where you would be prohibited from disclosing this document in its entirety during the discovery process.
+
+
+
+MR HERBST: Your Honor, our position is not that we're prohibited from disclosing it. Our position is that that was an objection upon which we did not produce it to Mr. Schatz. We have offered to bring it to court and produce it in court for inspection.
+
+
+
+THE COURT: Did you file for some sort of—did you file a motion for non-disclosure or some other form of confidentiality with respect to that document?
+
+
+
+MR HERBST: Yes, sir. We filed a motion for protective order which more broadly addresses several issues, but including the issue with respect to the confidentiality of the agreement. In addition, Mr. Schatz moved—in addition to moving to compel it in an original motion, followed a second motion to compel it on an emergency basis—and again we offered to produce it for chamber inspection in the court. If the court wishes to enter a protective order to protect the confidentiality of the agreement, which is within the Maryland rules, you know, we will follow the court's order. But we've taken the position, Your Honor, that the agreement is confidential and proprietary. It contains terms between private contracting parties that are not an issue before the court, that have no bearing on Mr. Schatz's claims, and that are entitled to protection from public disclosure either on the record or from disclosure to Mr. Schatz. And we've cited reasons why we have concerns about that in our papers.
+
+
+
+THE COURT: Mr. Herbst, what was the date of your protective order filing?
+
+
+
+MR HERBST: I'm sorry, there's just so many pleadings in this case.
+
+
+
+THE COURT: I understand, Your Honor.
+
+
+
+MR HERBST: We initially filed it—I'll find the exact date—and then it was rejected because we filed a combined motion for protective order and motion to compel, and we refiled it. I believe it was December 16th, Your Honor. But it may not have been accepted until the following day. Looks like we filed it on the 15th, Your Honor. There was a deficiency and the deficiency notice was eventually withdrawn. Sorry, December 15th, Your Honor.
+
+
+
+THE COURT: Maybe I'm mistaken, but I don't see where your motion addresses the proprietary nature of the document.
+
+
+
+MR HERBST: Your Honor, it's at page 10 to 11 of the document. It's the section, subsection E, that says the custodial agreement between—
+
+
+
+THE COURT: I'm looking at that.
+
+
+
+(Pause)
+
+
+
+THE COURT: Okay, all I'm looking at in this document is you, on behalf of your client, saying that it's a highly confidential agreement. What about this makes the court understand that there's something proprietary about the agreement?
+
+
+
+MR HERBST: Sure, Your Honor. If I understand your question, you're asking what makes us contend that it's confidential and proprietary.
+
+
+
+THE COURT: Yes. How would I know that other than you saying that this agreement is highly confidential?
+
+
+
+MR HERBST: I'm happy to show it to you, Your Honor, but it contains negotiated terms between two private parties, including pricing terms that would impact potential markets that other related parties are aware of. The document is very sensitive, and that's how it's been presented to me.
+
+
+
+THE COURT: Okay, tell me—when I ask a question, you have this habit of continuing to talk as if I should be ignored up here, and I don't appreciate it.
+
+
+
+MR HERBST: My apologies, Your Honor. I mean no disrespect at all.
+
+
+
+THE COURT: Other than the pricing portion of it—and I'm not asking you to tell me what that specifically is—what other than the pricing agreement makes it proprietary?
+
+
+
+MR HERBST: Your Honor, I think there are negotiated terms here that are private. This is not a public document. There are other similar documents or different types of documents—
+
+
+
+THE COURT: Almost no contracts between two corporations are public documents.
+
+
+
+MR HERBST: Right, exactly. That was the argument that we should produce it, but it contains negotiated terms between two private parties. Only one party is a party to this case. Mr. Schatz has made contentions regarding the agreement, and we think the agreement is very helpful to us. We have taken the steps to protect the proprietary nature of my client's document. It's sort of against our interests in advancing the case, so it's not that we're trying to hide the document. We are happy to present it to the court.
+
+
+
+THE COURT: I have seen protective orders for proprietary reasons before. I have seen some case law regarding those protective orders. This is not it, not even close to being it. And even what you have described to me today as the basis for arguing that it's proprietary is not even close to what this court would be required to consider in granting such a motion for protective order. And telling me, or continuing to tell me, that this is an agreement between two entities of which Mr. Schatz is not a party has zero outcome on the court's consideration of such a motion.
+
+
+
+MR HERBST: Understood, Your Honor. May I respond?
+
+
+
+THE COURT: Yes, sir.
+
+
+
+MR HERBST: Your Honor, it's our view that these are proprietary trade secrets in terms of these negotiated deals. There are two terms, specifically the pricing terms, but in addition the provisions regarding duties and obligations and indemnification. You know, several of the terms of the agreement are essentially trade secrets, Your Honor. And I think there is ample case law. In fact, I don't have the rulebook in front of me, but one of the reasons for entering a protective order, I believe, one of the factors is whether there's proprietary trade secret information. And maybe I haven't articulated it well enough to you, Your Honor. But my client in no uncertain terms said this is a really highly sensitive document. And so maybe I didn't ask "why" so I can present it to you well today. But there is sensitive information here, Your Honor. And so I hear the court's view—I understand the court is very pro-discovery here and we are not trying to obstruct discovery. We have offered and I have brought it today so that the court and the parties can inspect the document. We're not trying to keep it hidden because I think the terms very simply put to rest Mr. Schatz's argument. It's a helpful document to us. So we're not trying to hide it to gain some advantage in the case. It is because there's sensitivity around this document. And so in our view, it contains trade secrets, it contains proprietary information. If the court doesn't believe we've met the standard there, I understand. I will respect whatever the court's decision is. And the court is welcome to look at the document and make its own determination. But in our view, it shouldn't just be put on the public record, it shouldn't just be disclosed to Mr. Schatz. If the court would like to enter some sort of restrictions on the disclosure of the document, or if we are able to produce it with redactions—we're worried about getting that type of objection—we can come to an arrangement. But I think just a cursory review of the document sort of puts to rest any issue that would impact the merits of this case. So again, against sort of our own litigation interests we've taken this position. It is not to gain some sort of advantage.
+
+
+
+THE COURT: Okay. And I did not mean to indicate that I considered that you were doing that. If in fact this was a motion, a request for protective order based on proprietary information or trade secrets, there is a very specific motion that should have been filed so that the court could then consider that protective order. And what you filed—almost anyone under any contract can come in and do exactly what you did in this motion, which was to say, "Judge, our agreement is highly confidential and for that reason we do not wish to have it disclosed and publicly available." And because this is an issue, it has become quite frankly the issue, ad nauseam, in this case. It clearly is relevant, so it's to say to me that it's an agreement between two parties of which Mr. Schatz is not one holds zero weight in this court's mind. But there may be other basis for your request for the protective order. I just don't have that before me. Not a sufficient request for one.
+
+
+
+What I will do as of today: I will accept that document as a court's exhibit. Mr. Schatz will be allowed to view his copy. He will not be allowed to remove that copy from this courtroom, nor take photos, copies of it, or anything else.
+
+
+
+Mr. Herbst, I will give you another week if you wish to file a different pleading with respect to your protective order. I will consider it at that time. If appropriate, I may grant it. If it's not appropriate, I will issue an order directing that this agreement be disclosed.
+
+
+
+As of right now, the court would like to see the agreement. If you would hand Mr. Schatz a copy as well, we can all review the agreement while we're here.
+
+
+
+MR HERBST: Yes, sir.
+
+
+
+THE COURT: And because I don't want to be the person who seems like I am limiting the time for which Mr. Schatz could review—which is clearly not a two-page document—the court's going to take a recess to review this document. Mr. Schatz will have an opportunity to review that document.
+
+
+
+Mr. Schatz, you are not allowed to leave this courtroom with that document. If you need to take a bathroom break or something, the document must remain in the courtroom.
+
+
+
+Thank you. I will address it more when I come back, but is there anything else that you all need me to address right now? I will address the document. I will address the foreclosure exceptions when I return.
+
+
+
+MR HERBST: No, Your Honor.
+
+
+
+THE COURT: I think you've sufficiently addressed it. If there's something else, let me know. I know it's been a difficult morning in the way that maybe I have addressed you, sir. I meant no disrespect when I did it. I just needed clarification, and perhaps I should have gone about it a different way.
+
+
+
+MR HERBST: Likewise, Your Honor, I meant no disrespect, but I appreciate you giving me the opportunity.
+
+
+
+THE COURT: Mr. Cohen?
+
+
+
+MR. COHEN: Thank you, Your Honor.
+
+
+
+THE COURT: Got it. Okay. We'll take a recess.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROCEEDINGS AFTER RECESS
+
+
+
+THE COURT: Good morning again. Thank you. You may be seated. Okay, we're back on the record with Brenner versus Schatz, CV 24-3218. Mr. Schatz, did you have a chance to review?
+
+
+
+MR. SCHATZ: I certainly did, Your Honor.
+
+
+
+THE COURT: Okay. Sir, I will hear you with respect to your motions.
+
+
+
+ARGUMENT BY MR. SCHATZ RE: CUSTODIAL AGREEMENT AND STANDING
+
+
+
+MR. SCHATZ: Okay, Your Honor. Firstly, with this—well, I should say with not only this document, but also the note that was here last time—my primary issue with either of these is that none of this has been authenticated by anyone at all. We've yet to hear the voice of Deutsche Bank. I mean, I respect these gentlemen as lawyers, but they are not witnesses. They're not somebody I can question about these documents. They can't authenticate themselves. They can only present them to the court and ask you to accept them on their word, which is a failure of evidence. The burden of proof to prove their authority to foreclose is their own.
+
+
+
+THE COURT: You recognize that they are here with this document at the request of the court, and the court did not request them to bring certified copies of this document.
+
+
+
+MR. SCHATZ: I understand that, Your Honor, but I mean, the custodial agreement has to be authenticated at some point if—I understand that Your Honor did ask for them to bring it, but if they said that they would—
+
+
+
+THE COURT: I actually did. My ruling in one of the motions was that I was holding it to review the issue of this document in court today.
+
+
+
+MR. SCHATZ: Fair enough, Your Honor. Oh, and by the way, I'm sorry. I know earlier, because I was reading case law, I referred to Bank of America and Deutsche Bank, and that clearly meant Wells Fargo.
+
+
+
+THE COURT: I understand.
+
+
+
+MR. SCHATZ: Your Honor, as to the custodial agreement, the issue goes a little bit beyond that because this is a custodial agreement, but the custodial agreement is not a bailee letter either, and this is also something that was asked for along with the custodial agreement. And in order for them to show who they are in relation to this custodial agreement, they would have to have that bailee letter as well. This is an agreement that's made that talks about what they're going to do with thousands and thousands of loans. It doesn't, per se, apply to my loan. The bailee letter would be the only thing that would do that. And again, that would also have to be authenticated, just as the note would have to be authenticated by Mrs. Mills, who I asked to deposition.
+
+
+
+I think, really, Your Honor, I think I might be able to shorten this whole issue for you—is that it really doesn't matter because their position is that that note was bearer paper. So they gave their bearer paper to another party, and that is a negotiation by delivery alone.
+
+
+
+THE COURT: Mr. Schatz, I think what I'm hearing from you, which I've heard a number of times, is that somehow they transferred it.
+
+
+
+MR. SCHATZ: They did. A bearer paper is transferred by just exchange of physical possession. That's really—the UCC says that directly. And also, I mean, if I may, this doesn't have anything to do with the substitute trustees. Nowhere in this agreement does it say Andrew Brenner or substitute trustees. They have no privity in this contract. They cannot claim constructive possession through Wells Fargo's agent, Your Honor. They are the plaintiffs, the substitute trustees. That cannot convey from Deutsche Bank to Wells Fargo to the substitute trustees. So they're really, you know, this is good to end the game.
+
+
+
+And as I began to say about the bearer paper, there's no such thing as constructive possession of bearer paper, Your Honor. A thief can take a bearer paper, a note endorsed in blank, and be the holder. So when they shipped that note, endorsed in blank, to Deutsche Bank, Deutsche Bank became the holder. And they became the only party that would have been able to appoint the substitute trustees, because the substitute trustees can only be appointed by a holder. So Wells Fargo, not having that note at that time, because it was at Deutsche Bank, couldn't have appointed these substitute trustees. And the substitute trustees—they didn't have the note. Then that is a requirement.
+
+
+
+There's three ways that you can bring a foreclosure case in Maryland. And that's UCC 3-301. It says that you can be the holder in possession. It says that you can be—
+
+
+
+THE COURT: I know all three.
+
+
+
+MR. SCHATZ: And it has been cited a number of times.
+
+
+
+THE COURT: Absolutely.
+
+
+
+MR. SCHATZ: And they were none of these people. These substitute trustees were not a holder. They did not have the note. They admit that it was at Deutsche Bank when they filed the case. They admit that they're not a non-holder in possession with the rights of a holder. And they didn't file a lost note affidavit. So what of the three persons were they when they filed this case? That's a statutory requirement. That's not something that's waivable. It's not something that's curable. And it's not, say, standing per se. It's the entitlement to enforce the note. They did not have that. And it's not waivable. It's not curable. It just isn't waivable.
+
+
+
+(Long pause)
+
+
+
+It's not something that this court has the authority or power to grant them to be okay. Respectfully, you cannot waive this requirement of the UCC in order to allow them to foreclose without a note. Actually, I just filed last night—
+
+
+
+THE COURT: Sir, whatever you filed last night is not before me, so I'm not hearing it.
+
+
+
+MR. SCHATZ: I understand. But the argument will remain—is that a party can't foreclose without possession of the note. And they admit to non-possession. They cannot claim constructive possession. And this contract, if you read this, Your Honor, it says they are strictly a bailee for Wells Fargo. It doesn't say they are strictly a bailee for their substitute trustees. So they have no privity in this contract. So the constructive possession claims that would even remotely—and still wouldn't allow them, if we got to that point—but this doesn't grant the substitute trustees any kind of authority or constructive possession over that note. It just doesn't. I mean, that's—it doesn't, Your Honor.
+
+
+
+So again, if this is to be entered into evidence, it has to be authenticated by someone from Deutsche Bank or Wells Fargo. And that being pointed, the substitute trustees cannot get up on the stand and say, "Yes, Your Honor, this is a true and correct copy of this contract that we're a party to." Just as I'm not a party to it, neither are they. So they have a serious problem here.
+
+
+
+And I think it's more of a—the last time we were here, and much of my early pleadings sort of did attack what I called "standing," what I've come to understand—it's not standing. It's not jurisdictional standing. It's entitlement to enforce a negotiable instrument. And they did not have that. And it is not something that's waivable. It is ingrained in the law.
+
+
+
+And if we get beyond that point, as I said, bearer paper is bearer paper. You can't—this custodial agreement can't change the nature of a bearer instrument. Otherwise, what do we—we can just say like, "Oh, that's no longer a bearer instrument." If that were true, then, you know, if this contract that I'm not party to can change the nature of my note that I signed—I didn't sign this. I didn't say sign me up for a custodial agreement. This can't change the nature of my note in relation to what it's going to do. And if it does, it becomes a—it opens different defenses under contract law. It, it's no longer a—
+
+
+
+THE COURT: Where is there the argument that it changed the nature of your agreement?
+
+
+
+MR. SCHATZ: Well, if they're saying that it's no longer bearer paper, because Deutsche Bank's not the holder—is Deutsche Bank the holder, or is Wells Fargo the holder? And can they both be the holder? They cannot. They're two distinct entities. So, and this is, you know, it goes to the—you know—and in reading this document again, goes to show the inherent conflict that Mr. Herbst has, has found himself in, if he truly represents the bank and the custodian.
+
+
+
+(Pause)
+
+
+
+These are—these things, it says in here, we're not going to be—you know, the owner and the custodian, these two are set at odds with each other here in this contract, all throughout the contract. So how could he possibly represent both of these?
+
+
+
+THE COURT: On that issue, I've already denied your motion with respect to this.
+
+
+
+MR. SCHATZ: Yes, Your Honor.
+
+
+
+THE COURT: I mean, it just seems to be inherent. I mean, this is new—
+
+
+
+THE COURT: Understood, but I've denied that motion, so please don't relitigate it.
+
+
+
+MR. SCHATZ: So granted, these new conflicts are shown here in, you know, and made bare. But, you know, and I can let go of that issue to, you know, to the effect that I don't think it really matters because nothing here is going to fix the fact that the substitute trustees commenced a foreclosure case and did not have the note in their hands. They weren't the person entitled to enforce any negotiable instrument that is relevant to this case. So I don't see how that can be fixed. And they continued to—I mean, up in here, we've been, you know, five to 600 days. And, you know, this just takes a large amount of time out of my life and I'm not getting paid for this. You know, I'm on the ropes already. So, you know, they've caused me extreme damage in my life, you know, and have done so inequitably.
+
+
+
+THE COURT: You keep—why would you say that they've caused you this? You had a contract at some point with Wells Fargo to pay a mortgage, and the allegation is that you didn't pay on that mortgage and they started proceeding.
+
+
+
+MR. SCHATZ: I understand that allegation, Your Honor.
+
+
+
+THE COURT: How do you get to the point of saying that they've caused all of these issues?
+
+
+
+MR. SCHATZ: Because they are not the person entitled to enforce them.
+
+
+
+THE COURT: I keep hearing you say that, sir, and I am listening to your argument on that. How is—let's assume that that was true. How did they cause you all of these problems?
+
+
+
+MR. SCHATZ: I'm not saying that they caused me every problem in my life, Your Honor.
+
+
+
+THE COURT: I'm not saying that they caused you—all of these issues or hardships that you—how did they do that? If, in fact, I find in your favor that they are not the holder of this note and didn't have a right to bring the foreclosure proceeding—
+
+
+
+MR. SCHATZ: Yeah, sure. I think I can see the answer to that. It's a waste of time, Your Honor, because these people are—that's like saying that you owe an electric bill and some other guy comes and he's like saying, "Hey, I'm BGE. Here I am, I'm gonna get you for this $800 that you owe me for the electric bill." And he takes you to court and wastes your time for 600 days, Your Honor
+
+
+
+THE COURT: Instead of the people that rightfully could have. I see.
+
+MR. SCHATZ: Absolutely. Your Honor. I'm not saying that they're to blame for anything in my life outside of that, but they have maintained a foreclosure action that they should never have opened and that they knew that they did not have this note in their hand when they started this case. 
+
+MR. SCHATZ: They asked for a protective order so that we wouldn't find out where the note was. That to me—whether they had reasons to ask for a protective order so that they wouldn't have to provide the wet note or provide for inspection—they knew where the note was when they asked for that protective order, and they asked for that protective order because they didn't want us to go, "Oh wait a second here. Is it Deutsche Bank? Wait, you said you had it." They—you know, for that—they had the note to commence this case. And that, you know, and that's what they say led to my—say why, you know, move to strike that document, you know.
+
+
+
+And I say under the summary judgment rule, it's called a sham affidavit rule, that any portion that is materially in conflict with some later truth, it needs to be stricken. It shall be stricken is what it says actually. So I think that that, you know, that puts the custodial agreement completely aside because first we have to deal with the fact that you have a bearer instrument that was not in the possession of anyone in this room—party-wise I should say, well I should say except for the counterdefendant, you know, Deutsche Bank, who didn't come—as they, you know, they were more likely to succeed and probably would have succeeded had they come and foreclosed on me at that point because they were the holder of a bearer instrument. And, you know, how could I defend it? And that's the nature—bearer paper, you're done. I'm the holder, here I am, I've got it in my hand. I have the entitlement to enforce it, you know, but the trustees did not have that and they knew they didn't have it when they started this case. You know, and everything after that became, you know, a dirty-handed, you know, ongoing process of covering that, you know, problem up.
+
+
+
+So, you know, like I said, that's my issue with it—is that, you know, I, and say, it does create the classical double-peak problem. There's—is the owner the person entitled to enforce now, or should I be paying Deutsche Bank because now I understand that they're the holder? Or is it the substitute trustees who now have the note? But even though that doesn't cure the fact that they didn't have it when they were supposed to have it. So, you know, and that's something that the UCC strictly defends against. For the borrower is that you're not supposed to have to guess at who you're supposed to make a payment to. And the UCC also says that if you don't pay the correct person, it doesn't extinguish the debt. So it puts, you know, it puts me as a borrower in a bind. And that's, that's why my issues with Wells Fargo—say, you know, I'll say in the courtroom, out of mediation came to a collapse—is because I was like, "Wait a second, I can't justify paying you right now because I don't know if I'm just throwing money at the wrong party here," you know.
+
+
+
+So this is the—this is the kind of case that, you know, it has a lot of Anderson v. Burson traits, you know, except that I don't concede what they concede. You know, I haven't conceded a drop here because I have known from the start that something wasn't right. And, you know, it's been just over—say the last couple weeks—that I arrived at that.
+
+
+
+MR HERBST: Yes, sir. Your Honor, I just—I would just—Your Honor, I mean, I'm not sure what motion he's arguing. If it's exceptions, it has to be limited to the procedure of the sale.
+
+
+
+
+
+THE COURT: I'm sorry. And this is partially my fault because I broke this into two issues. One being this issue with the agreement between Wells Fargo and Deutsche Bank, and the other being the exceptions. So I wanted to hear that issue, which I think you've fairly covered at this point. And then I would ask for a response as to that. And then I'm going to jump into the exceptions issue, but I think I have a way of short-cutting that whole argument as well. So I'm going to hear this. So we're not discussing the exceptions. We're not doing the exceptions just yet. Anything else on this agreement, sir? Because that will also resolve one way or another a number of the motions other than the exceptions issue.
+
+
+
+MR. SCHATZ: I do have some notes. Also, as to the custodial agreement, it's not privileged. There's nothing in here that warrants a protective order. As you said, Your Honor.
+
+
+
+THE COURT: Did you not agree at some point?
+
+
+
+MR. SCHATZ: I agree that I won't disclose it, absolutely. I'm just saying that it doesn't warrant some kind of like—
+
+
+
+THE COURT: Your response was that you would agree to a protective order. Was it not? Are you changing your—
+
+
+
+MR. SCHATZ: Confidentiality is what I agreed to. A protective order would allow them to just not let me see it.
+
+
+
+THE COURT: No, I don't think that was the purpose of the protective order.
+
+
+
+MR. SCHATZ: That's fine. If that's not the purpose or say—
+
+
+
+THE COURT: I mean, you've seen it at this point, so that's a moot issue.
+
+
+
+MR. SCHATZ: I'm a student, Your Honor. I want to find out what does this mean? What does this language mean? I can get an idea of it, but I can't—I don't have that available for analysis to say, "What does this really mean?" That's all I want. If they want to redact the prices out of there or something like that, that's fine. I don't care about any of that.
+
+
+
+THE COURT: Well, from this point until I receive that protective order, this document is not to be disclosed. Even the court's copy is going to be sealed until that time.
+
+
+
+MR. SCHATZ: Of course, Your Honor. And that's fair. I don't want to—I have no business disclosing it. I don't know who I would even disclose that to, to be honest with you, but I do want to be able to use that to understand their claim, because what this custodial agreement sort of seemed to represent was their route to possession, and whether or not they possessed this note, or could possess this note through this custodian. But this custodial agreement is not the type of agreement that would allow any kind of constructive possession of anyone but Wells Fargo. In their motion, they said, this contract, it says right on there, "for the exclusive use of Wells Fargo." 
+
+MR. SCHATZ: Mr. Cohen, who represents the trustees, and the trustees, they are not Wells Fargo. So how can they claim constructive possession through something that is for the exclusive use of Wells Fargo who is not the plaintiff?
+
+
+
+THE COURT: Anything else?
+
+
+
+MR. SCHATZ: That's all, Your Honor.
+
+
+
+THE COURT: Okay.
+
+
+
+RESPONSE BY MR. HERBST RE: CUSTODIAL AGREEMENT
+
+
+
+MR HERBST: Just briefly, Your Honor. I think the court mentioned the court asked us to bring the document. We offered to bring the document in, and there's been no discussion of authentication. We brought the document that we agreed to produce, and we think it supports our position, but we're not using it to do that. In fact, it was used by Mr. Schatz to try to advocate his position, and he seems to be adjusting his position now.
+
+
+
+It does say—the document says in the obligations of the custodian—that the custodial file, including the documents received, are "for the exclusive use and benefit of the owner." And that's at the bottom of page 8. And so I think it's pretty clear what's happening here. There was no inadvertent transfer. Wells Fargo is the only holder of the note. I think the court has already decided this issue repeatedly, and I don't know why Mr. Schatz keeps misquoting the UCC. You can be a holder, or you can be a non-holder in possession, and that issue has been already set off here. So I don't know why we keep arguing it. It has been the subject of nearly 50 or 60—I think I added it up the other day—60 filings by Mr. Schatz raising this same issue that the court has already decided. And at this point there's just no legal merit to that argument. The court has decided it, the sale has happened, and now we're in the exceptions phase of the case, which will be heard after this.
+
+
+
+I guess the only—I guess, and to the extent it requires a response, because I'm sure the court understands, the note is the debt instrument, and then there's a security instrument, the deed of trust in this case. And the deed of trust was the document based on the default under the note through which Wells Fargo, who was the holder of the note, appointed the substitute trustees in a deed of appointment of substitute trustees. So it's the security instrument that gives the right to the substitute trustees to enforce the default under the note, and those documents are interrelated, but they're different.
+
+
+
+To the extent any further thing needs to be said on confidentiality, I will take the court's opportunity to submit a further motion for protective order. But based on Mr. Schatz's submission previously, he has essentially consented to at least treat the document confidentially. And I will also note that the document itself states on it that it is confidential and proprietary, and there are pricing terms as well as other confidential terms that I would refresh my recollection in the interim while reviewing it. So we would appreciate under Rule 2-403(a) for good cause, which is a pretty low standard, the court may limit the disclosure. 
+
+MR HERBST: And specifically A-8 provides that the court may limit disclosure for trade secrets or other confidential information not to be disclosed or to be disclosed only in a designated way.And we would, again, we'll take the court up on submitting a further written motion if necessary, but we believe that our submission in the protective order met that standard, and would ask the court to grant the protective order and require that Mr. Schatz maintain confidentiality of this document.
+
+
+
+THE COURT: Okay. Let me review this agreement and then I will make a ruling.
+
+
+
+(Court reviews document)
+
+
+
+THE COURT'S RULING RE: CUSTODIAL AGREEMENT AND STANDING
+
+
+
+THE COURT: Okay. So this is the custodial agreement between Bank of America, N.A., and Deutsche Bank National Trust Company. It discusses the obligations of the custodian and the owner—in this case Wells Fargo would be the owner—and details what Deutsche Bank is and is not responsible for.
+
+
+
+On page 8, part B, sub-part 3: "The custodian agrees and acknowledges that the custodial file and the original documents received... are for the exclusive use and benefit of the owner." The custodian "shall be responsible for monitoring the validity, priority, and perfection of the owner's security interest in the mortgages and the mortgage loans hereunder."
+
+
+
+Then on page 16, under Part E: "The custodian is an agent and bailee only and is not intended to be nor shall it be construed to be a trustee or fiduciary under this agreement of or for the owner."
+
+
+
+And further, the fact that under Part I, on page 16, the custodian is not even under an obligation to inspect, review, or examine the custodial files to determine their contents, the genuineness of them, the enforceability nature of them, or anything else—indicates that they are just that: custodian.
+
+
+
+And then on page 20, I note also that when Deutsche Bank signs, they sign specifically as the custodian for this agreement.
+
+
+
+So I do find that the note was not transferred. Wells Fargo continued to be the entity for which Mr. Schatz was obligated to pay. The plaintiffs do have standing to enforce the note, and they complied with the foreclosure rules for pleading the foreclosure action.
+
+
+
+THE COURT'S RULING RE: EXCEPTIONS TO FORECLOSURE
+
+
+
+THE COURT: With respect to the exceptions, I find it even more glaring that Mr. Schatz would have gone to this property on the date of sale and handed out a note—which is this Exhibit C. Exhibit C to the substitute trustee's opposition to the amended exceptions. There's a document that in bold letters at the top in red says, "WARNING: BUYER BEWARE." And then there's an awful lot of information telling the buyers that the property is "fatally defective," that there's an appeal on it, there's evidence of forgery, fabrication, and a number of other issues on here.
+
+
+
+THE COURT: But he wants to stand before this court and say that the bidding process was chilled based on something that the substitute trustees did during the process. I'm not even sure how that's possible after handing out this document, which in this court's eyes was clearly an attempt to preclude buyers from bidding on this property.
+
+
+
+I do find that the sale was fair and reasonable. Even more, I find that Mr. Schatz has not met his burden to show that his exceptions should not be overruled. I will overrule the exceptions.
+
+
+
+However, the court will not ratify the sale at this point. So you all are going to get a copy of the court's non-compliance letter with respect to ratification of this sale.
+
+
+
+I have addressed the issue of the auctioneer's affidavit. I'm going to address that now because I think I was slightly mistaken there. I do find that to some extent this was not done by an auctioneer in the traditional sense of an auctioneer. The auction was done by a substitute trustee. The substitute trustee did file an affidavit in accordance with 14-305. And though the court did have question about whether the substitute trustee is affiliated with someone who had an interest in the property, the court does not find that the auction was conducted in some unfair or unreasonable way or in any way that interfered with the bidding process.
+
+
+
+The court would find even more that if anything interfered with the bidding process and chilled the bidding, it was Exhibit C to the substitute trustee's opposition to defendant's amended exceptions, which is the document that Mr. Schatz was handing out to potential bidders at the property.
+
+
+
+I don't find that anything regarding the liens on the property had any effect at all on the bidding process. So all of your exceptions are overruled, Mr. Schatz.
+
+
+
+I am going to require that the substitute trustees address the mitigation loss issues that are listed—not the auctioneer's issue, but the mitigation loss—and how they are stated in the non-compliance letter, which was just handed to everyone.
+
+
+
+THE COURT'S INSTRUCTIONS RE: PROTECTIVE ORDER AND DISCOVERY
+
+
+
+THE COURT: Just so that—I'm doing my due diligence here, Mr. Herbst—I am still requesting that you file the appropriate document for protective order. And I will consider it after I receive any response from Mr. Schatz regarding that protective order. I will note for the record that Mr. Schatz has already agreed to not disclose the document and to the confidential nature of the document if he were to receive a copy. He may change his mind. I don't know. The court will just take notice of what he's already filed. The only reason I'm doing that is so that he has this document in some form if an appeal is taken from my decision here.
+
+
+
+Once that is done, I think I can rule on the discovery issues as well, because the only issue in discovery that I can see here really is this document. And to the extent there are any other discovery issues, I think they actually are resolved by my rulings here today. Thank you.
+
+
+
+Anything further, Mr. Herbst?
+
+
+
+MR HERBST: No. Thank you, Your Honor. I just wanted to grab the custodial agreement.
+
+
+
+THE COURT: Yes, Mr. Schatz, if you would provide that agreement back now, sir.
+
+
+
+If you all reach an agreement regarding the confidential nature of that document, you can provide it to me without the motion and then Mr. Schatz can get this document.
+
+
+
+MR HERBST: Understood, Your Honor. Thank you.
+
+
+
+THE COURT: Without me making a decision on it.
+
+
+
+DISCUSSION RE: BAILEE LETTER
+
+
+
+MR. SCHATZ: Your Honor, could we talk about the bailee letter that would need to be with that and the qualification of those documents as evidence?
+
+
+
+THE COURT: Can I ask you something, Mr. Herbst? And I'm just curious. Do you all have—I imagine there would be something separate because this does appear to be a general agreement. It's not specific to Mr. Schatz.
+
+
+
+MR HERBST: I'm sorry, Your Honor.
+
+
+
+THE COURT: There would have had to have been something for Deutsche Bank to accept this specific note.
+
+
+
+MR. SCHATZ: It would be the bailee letter, Your Honor.
+
+
+
+MR HERBST: I don't believe so, Your Honor. It would be transferred via—there would be like a spreadsheet of documents. I mean, it would be like thousands of loans in a document that was not included in the materials that I received. I'm not sure I completely understand your question.
+
+
+
+THE COURT: So in looking at this particular document here, there's nothing in here telling me that Deutsche Bank accepted the specific note for this property.
+
+
+
+MR HERBST: I don't believe there would be such a specific document. There would be an acknowledgment of the transfer of the loans. I believe the bailee document Mr. Schatz is referring to is a specific document if the loan is being transferred from Wells Fargo to someone else. That is not the circumstance here. So there's no need for a bailee letter. This would have been a bulk, like, physical transfer of files. And I don't believe there would be an acknowledgment beyond just the receipt of it pursuant to the letter.
+
+
+
+THE COURT: Providing something that would show when this specific note was transferred—
+
+
+
+I'm sorry. Let's not do that. On this specific note.
+
+
+
+MR HERBST: Was placed in the custody of Deutsche Bank. That information was provided already with a custodial log where the loan was transferred, which sort of generated this whole—so we're kind of going in circles here, Your Honor. I mean, I think in light of the court's ruling for the second time—
+
+
+
+MR. SCHATZ: I just need—
+
+
+
+THE COURT: Listen.
+
+
+
+MR. SCHATZ: Sorry, I hear you.
+
+
+
+THE COURT: At some point, this probably isn't going to be the last stop for this case. So I don't want it to go up to another court, and then I get an order saying, "Take additional measures to make sure X, Y, and Z was done."
+
+
+
+MR HERBST: Understood. I'll look into that, Your Honor. I don't know that there would be anything specific to this particular note. I will see if there's some sort of Excel spreadsheet of the list of loans that were included in this.
+
+
+
+THE COURT: Yes, I mean—
+
+
+
+MR HERBST: And I could just—
+
+
+
+THE COURT: Don't.
+
+
+
+MR HERBST: And if I could, you know, redact all the loans except for the—
+
+
+
+CONCLUSION OF PROCEEDINGS
+
+
+
+THE COURT: Okay. I think we've covered everything. Thank you all. We're adjourned.
+
+
+
+END OF TRANSCRIPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CERTIFICATE
+
+I hereby CERTIFY that the foregoing is a true and accurate transcription of the proceedings held on January 13, 2026, in the matter of Brenner, et al. v. Schatz, Case No. C-03-CV-24-003218, before the Honorable Judge Rhodes, Circuit Court for Baltimore County, Maryland, 
+
+as transcribed by Whisper AI audio-to-text output on February 5, 2026.
+
+Respectfully submitted,
+
+
+
+
+
+
+
+
+
+Dated: February 5, 2026                           _/s/
+
+18 Edmondson Ridge Road Catonsville, Maryland 21228
+
+(240) 490-0053
+
+thecornerspore@gmail.com 
+
+Defendant / Counterclaimant,
+
+in propria persona
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAW
+
+Date of Transcription: February 5, 2026 [08:17.560 --> 08:24.420]  and if you're not a person at the trial table, thank you. You may be seated. I'm sorry. I thought you all were coming up
+
+[08:30.000 --> 08:59.000]  okay, this is Brenner at Al v. Schatz, CV 24, 3218, counsel for the record. Matt Cohen for the trustees. I'm sorry, sir. Matt Cohen for the trustees thing. Good morning, Dan Herbst on behalf of the counterclaim defendants and third party defendants.
+
+[09:00.000 --> 09:23.560]  Jeffrey Schatz on behalf of himself. Yeah. Okay, I'm going to narrow this to basically two issues that we are here for today. One involves this agreement, this custodial agreement between Bank of America and
+
+[09:23.560 --> 09:53.460]  Deutsche Bank regarding the note, which also applies to the discovery issues that were potentially raised in this case. And the other is the the exceptions to the foreclosure. So you get right to it. The agreement. Do we have this agreement here today? Yes, your honor. I bought copies of the agreement for the court.
+
+[09:53.560 --> 10:00.060]  Can we hand that up and can we have the copy for the court marked please as court
+
+PS C:\Users\sasha\OneDriv> Get-ChildItem t8t0050*.ogg | ForEach-Object {
+
+>>   python -m whisper $_.Name --model small --language en --output_format txt
+
+>> }
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:02.060]  you
+
+[00:30.000 --> 00:32.060]  you
+
+[01:00.000 --> 01:02.060]  you
+
+[01:30.000 --> 01:32.060]  you
+
+[08:01.000 --> 08:03.000]  you
+
+[08:17.560 --> 08:24.420]  and if you're not a person at the trial table, thank you. You may be seated. I'm sorry. I thought you all were coming up
+
+[08:30.000 --> 08:59.000]  okay, this is Brenner at Al v. Schatz, CV 24, 3218, counsel for the record. Matt Cohen for the trustees. I'm sorry, sir. Matt Cohen for the trustees thing. Good morning, Dan Herbst on behalf of the counterclaim defendants and third party defendants.
+
+[09:00.000 --> 09:23.560]  Jeffrey Schatz on behalf of himself. Yeah. Okay, I'm going to narrow this to basically two issues that we are here for today. One involves this agreement, this custodial agreement between Bank of America and
+
+[09:23.560 --> 09:53.460]  Deutsche Bank regarding the note, which also applies to the discovery issues that were potentially raised in this case. And the other is the the exceptions to the foreclosure. So you get right to it. The agreement. Do we have this agreement here today? Yes, your honor. I bought copies of the agreement for the court.
+
+[09:53.560 --> 10:00.060]  Can we hand that up and can we have the copy for the court marked please as court
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:05.520]  exhibit. Sure and for the record your honor as I put in my papers the
+
+[00:05.520 --> 00:08.840]  agreement is confidential so we'd like you know there's certain terms we can
+
+[00:08.840 --> 00:14.680]  discuss. So I have a question about that. If you're in litigation and someone
+
+[00:14.680 --> 00:21.120]  files for discovery of an agreement your confidentiality is between you and the
+
+[00:21.120 --> 00:27.600]  other party that signed the agreement. How does that overcome a discovery issue?
+
+[00:27.600 --> 00:33.280]  Well there are limitations within both the Maryland rules and with regard to
+
+[00:33.280 --> 00:36.640]  confidential discovery just because someone asked for something the
+
+[00:36.640 --> 00:40.680]  discovery doesn't mean they're entitled to it. Tell me where I'm the
+
+[00:40.680 --> 00:47.840]  discovery sir. Yes your honor. Tell me in the discovery rules where you would be
+
+[00:47.840 --> 00:52.440]  prohibited from disclosing this document and its entirety during the
+
+[00:52.440 --> 00:57.540]  discovery process. Your honor our position is not that we're prohibited
+
+[00:57.540 --> 01:02.920]  from disclosing it. Our position is that that was an objection upon which we did
+
+[01:02.920 --> 01:06.880]  not produce it to Mr. Schatz. We have offered to bring it to court and produce
+
+[01:06.880 --> 01:17.040]  it in court for inspection. Did you file for some sort of did you file a motion
+
+[01:17.160 --> 01:23.840]  for non-disclosure or some other form of confidentiality with respect to that
+
+[01:23.840 --> 01:28.920]  document? Yes sir. We filed a motion for protective order which more broadly
+
+[01:28.920 --> 01:33.640]  addresses several issues but including the issue with respect to the
+
+[01:33.640 --> 01:38.600]  confidentiality of the agreement. In addition Mr. Schatz moved in addition to
+
+[01:38.600 --> 01:42.920]  moving to compel it in an original motion followed a second motion to
+
+[01:42.920 --> 01:48.240]  compel it on an emergency basis and again we offered to produce it for
+
+[01:48.240 --> 01:53.440]  chamber inspection in the court. If the court wishes to enter a protective order
+
+[01:53.440 --> 01:56.600]  to protect it in the confidentiality of the agreement which is within the
+
+[01:56.600 --> 02:01.520]  Maryland rules you know we will follow the court's order but we've taken the
+
+[02:01.520 --> 02:04.960]  position your honor that the agreement is confidential and proprietary. It
+
+[02:04.960 --> 02:10.040]  contains terms between private contracting parties that are not
+
+[02:10.120 --> 02:14.560]  an issue before the court that have no bearing on Mr. Schatz's claims and that
+
+[02:14.560 --> 02:18.360]  are entitled to protection from public disclosure either on the record or
+
+[02:18.360 --> 02:22.840]  from disclosure to Mr. Schatz and we've cited reasons why we have concerns
+
+[02:22.840 --> 02:26.080]  about that in our papers.
+
+[03:40.040 --> 03:58.040]  Mr. Hertz, what was the date of your protective order file?
+
+[03:58.040 --> 04:08.760]  I'm sorry there's just so many pleadings in this case.
+
+[04:08.760 --> 04:11.640]  I understand your honor.
+
+[04:12.640 --> 04:18.640]  We initially filed it, I'll find the exact date, and then it was rejected because we
+
+[04:18.640 --> 04:22.760]  filed a combined motion for protective order and motion to compel it and we
+
+[04:22.760 --> 04:45.160]  filed it. I believe it was December 16th your honor.
+
+[04:45.160 --> 04:54.040]  But it may not have been accepted until the following day.
+
+[05:45.160 --> 05:51.480]  Looks like we filed it on the 15th your honor. There was a deficiency and the
+
+[05:51.480 --> 06:00.600]  deficiency notice was eventually withdrawn. Sorry, December 15th your honor.
+
+[08:22.280 --> 08:31.840]  Maybe I'm mistaken but I don't see where your motion addresses the proprietary
+
+[08:31.840 --> 08:41.760]  nature of the document. Your honor it's at page 10 to 11 of the document.
+
+[08:42.760 --> 08:49.040]  It's the section, subsection E that says the custodial agreement between...
+
+[08:49.040 --> 08:52.200]  I'm looking at that.
+
+[09:12.760 --> 09:22.160]  Okay, all I'm looking at in this document is you on behalf of your client
+
+[09:22.160 --> 09:30.360]  saying that it's a highly confidential agreement. What about this makes the
+
+[09:30.360 --> 09:34.720]  court understand that there's something proprietary about the
+
+[09:34.720 --> 09:39.960]  agreement? Sure, your honor. If I understand your question you're asking
+
+[09:40.000 --> 09:43.960]  what makes us contend that it's confidential and proprietary. Yes, how
+
+[09:43.960 --> 09:47.800]  would I know that other than you saying that this agreement is highly
+
+[09:47.800 --> 09:52.960]  confidential? I'm happy to show it to you your honor but it contains negotiated
+
+[09:52.960 --> 09:56.760]  terms between two private parties including pricing terms that would
+
+[09:56.760 --> 10:01.280]  impact potential markets that other...
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:05.000]  related parties are aware of the document. It's a very sensitive document and that's
+
+[00:05.000 --> 00:07.000]  how it's been presented to me.
+
+[00:07.000 --> 00:08.000]  Okay, tell me.
+
+[00:08.000 --> 00:10.000]  This document is very helpful.
+
+[00:10.000 --> 00:17.000]  When I ask a question, you have this habit of continuing to talk as if I should be ignored
+
+[00:17.000 --> 00:19.000]  up here, and I don't appreciate it.
+
+[00:19.000 --> 00:23.000]  My apologies, Your Honor. I mean, no disrespect at all.
+
+[00:23.000 --> 00:29.000]  Other than the pricing portion of it, and I'm not asking you to tell me what that specifically
+
+[00:29.000 --> 00:36.000]  is, what other than the pricing agreement makes it proprietary?
+
+[00:36.000 --> 00:42.000]  Your Honor, I think there are negotiated terms here that are private. This is not a public document.
+
+[00:42.000 --> 00:45.000]  There are other similar documents or different types of documents.
+
+[00:45.000 --> 00:50.000]  Almost no contracts between two corporations are public documents.
+
+[00:50.000 --> 00:56.000]  Right, exactly. That was the argument that we should produce it, but it contains negotiated
+
+[00:56.000 --> 00:59.000]  terms between two private parties.
+
+[00:59.000 --> 01:02.000]  Only one party is a party due to this case.
+
+[01:02.000 --> 01:08.000]  Mr. Schatz has made intentions regarding the agreement, and we think the agreement is very helpful to us.
+
+[01:08.000 --> 01:14.000]  We have taken the steps to protect the proprietary nature of my client's document.
+
+[01:14.000 --> 01:19.000]  It's sort of against our interests in advancing the case, so it's not that we're trying to hide the document.
+
+[01:19.000 --> 01:21.000]  We are happy to present it to the court.
+
+[01:21.000 --> 01:28.000]  I have seen protective orders for proprietary reasons before.
+
+[01:28.000 --> 01:34.000]  I have seen some case law regarding those protective orders.
+
+[01:34.000 --> 01:40.000]  This is not it, not even close to being it.
+
+[01:40.000 --> 01:46.000]  And even what you have described to me today as the basis for arguing that it's proprietary
+
+[01:46.000 --> 02:01.000]  is not even close to what this court would be required to consider in granting such a motion for protective order.
+
+[02:01.000 --> 02:12.000]  And telling me or continuing to tell me that this is an agreement between two entities of which Mr. Schatz is not a party
+
+[02:12.000 --> 02:26.000]  has zero outcomes on the court's consideration of such a motion.
+
+[02:26.000 --> 02:28.000]  Understood, Your Honor. May I respond?
+
+[02:28.000 --> 02:29.000]  Yes, sir.
+
+[02:29.000 --> 02:36.000]  Your Honor, it's our view that these are proprietary trade secrets in terms of these negotiated deals.
+
+[02:36.000 --> 02:47.000]  There are two terms, specifically the pricing terms, but in addition the provisions regarding duties and obligations and indemnification.
+
+[02:47.000 --> 02:55.000]  You know, the sort of, several of the terms of the agreement are essentially trade secrets, Your Honor.
+
+[02:55.000 --> 02:58.000]  And I think there is ample case law.
+
+[02:58.000 --> 03:03.000]  In fact, I don't have the rulebook in front of me, but one of the reasons for entering a protective order, I believe,
+
+[03:03.000 --> 03:07.000]  one of the factors is whether there's proprietary trade secret information.
+
+[03:07.000 --> 03:11.000]  And maybe I haven't articulated it well enough to you, Your Honor.
+
+[03:11.000 --> 03:17.000]  But my client in no uncertain terms said this is a really highly sensitive document.
+
+[03:17.000 --> 03:23.000]  And so maybe I haven't, I didn't ask how the why so I can present it to you well today.
+
+[03:23.000 --> 03:27.000]  But there are sensitive, there is sensitive information here, Your Honor.
+
+[03:27.000 --> 03:32.000]  And so I hear the court's view.
+
+[03:32.000 --> 03:37.000]  I understand the court is very pro-discovery here and we are not trying to obstruct discovery.
+
+[03:37.000 --> 03:42.000]  We have offered and I have brought it today so that the court and the parties can inspect the document.
+
+[03:42.000 --> 03:48.000]  We're not trying to keep it hidden because I think the terms very simply put to rest,
+
+[03:48.000 --> 03:53.000]  like Mr. Schatz's argument, it's a helpful document to us.
+
+[03:53.000 --> 03:57.000]  So we're not trying to hide it to gain some advantage in the case.
+
+[03:57.000 --> 04:00.000]  It is because there's sensitivity around this document.
+
+[04:00.000 --> 04:05.000]  And so in our view there it contains trade secrets, it contains proprietary information.
+
+[04:05.000 --> 04:12.000]  If the court doesn't believe we've met the standard there, I understand, I will respect whatever the court's decision is.
+
+[04:12.000 --> 04:17.000]  And the court is welcome to look at the document and make its own determination.
+
+[04:17.000 --> 04:23.000]  But in our view it shouldn't just be put on the public record, it shouldn't just be disclosed to Mr. Schatz.
+
+[04:23.000 --> 04:27.000]  If the court would like to enter some sort of restrictions on the disclosure of the document
+
+[04:27.000 --> 04:33.000]  or if we are able to produce it with redactions or we're worried about getting that type of objection,
+
+[04:33.000 --> 04:36.000]  we can come to an arrangement.
+
+[04:36.000 --> 04:43.000]  But I think just a cursor review of the document sort of puts to rest any issue that would impact the merits of this case.
+
+[04:43.000 --> 04:48.000]  So again, against sort of our own litigation interests we've taken this position,
+
+[04:48.000 --> 04:52.000]  it is not to gain some sort of advantage.
+
+[04:52.000 --> 05:01.000]  Okay. And I did not mean to indicate that I considered that you were doing that.
+
+[05:01.000 --> 05:16.000]  If in fact this was a motion, a request for protective order based on proprietary information or trade secrets,
+
+[05:16.000 --> 05:29.000]  there is a very specific motion that should have been filed so that the court could then consider that protective order.
+
+[05:29.000 --> 05:39.000]  And what you filed, almost anyone under any contract can come in and do exactly what you did in this motion,
+
+[05:39.000 --> 05:54.000]  which was to say, Judge, our agreement is highly confidential and for that reason we do not wish to have it disclosed and publicly available.
+
+[05:54.000 --> 06:06.000]  And because this is an issue, it has become quite frankly the issue, ad nauseum in this case.
+
+[06:06.000 --> 06:16.000]  It clearly is relevant, so it's to say to me that it's an agreement between two parties of which Mr. Schatz is not one.
+
+[06:16.000 --> 06:19.000]  Holds zero weight in this court's mind.
+
+[06:19.000 --> 06:25.000]  But there may be other basis for your request for the protective order.
+
+[06:25.000 --> 06:28.000]  I just don't have that before me.
+
+[06:28.000 --> 06:33.000]  Not a sufficient request for one.
+
+[06:33.000 --> 06:42.000]  What I will do as of today, I will accept that document as a court's exhibit.
+
+[06:42.000 --> 06:48.000]  Mr. Schatz will be allowed to view his copy.
+
+[06:48.000 --> 06:53.000]  He will not be allowed to remove that copy from this courtroom,
+
+[06:53.000 --> 06:59.000]  nor take photos, copies of it or anything else.
+
+[06:59.000 --> 07:14.000]  Mr. Herbs, I will give you another week if you wish to file a different pleading with respect to your protective order.
+
+[07:14.000 --> 07:17.000]  I will consider it at that time.
+
+[07:17.000 --> 07:19.000]  If appropriate, I may grant it.
+
+[07:19.000 --> 07:27.000]  If it's not appropriate, I will issue an order directing that this agreement be disclosed.
+
+[07:27.000 --> 07:32.000]  As of right now, the court would like to see the agreement.
+
+[07:32.000 --> 07:39.000]  If you would hand Mr. Schatz a copy as well, we can all review the agreement while we're here.
+
+[07:39.000 --> 07:40.000]  You know for sure?
+
+[07:40.000 --> 07:51.000]  Yes, sir.
+
+[07:51.000 --> 08:01.000]  And because I don't want to be the person who seems like I am limiting the time for which Mr. Schatz could review,
+
+[08:01.000 --> 08:11.000]  which is clearly not a two-page document, the court's going to take a recess to review this document.
+
+[08:11.000 --> 08:15.000]  Mr. Schatz will have an opportunity to review that document.
+
+[08:15.000 --> 08:20.000]  Mr. Schatz, you are not allowed to leave this courtroom with that document?
+
+[08:20.000 --> 08:27.000]  If you need to take a bathroom break or something, the document must remain in the courtroom.
+
+[08:27.000 --> 08:29.000]  Thank you.
+
+[08:29.000 --> 08:35.000]  I will address it more when I come back, but is there anything else that you all need me to address right now?
+
+[08:35.000 --> 08:37.000]  I will address the document.
+
+[08:37.000 --> 08:43.000]  I will address the foreclosure exceptions when I return.
+
+[08:43.000 --> 08:45.000]  No, Your Honor.
+
+[08:45.000 --> 08:48.000]  I think you've sufficiently addressed it.
+
+[08:48.000 --> 08:51.000]  If there's something else, let me know.
+
+[08:51.000 --> 08:58.000]  I know it's been a difficult morning in the way that maybe I have addressed you, sir.
+
+[08:58.000 --> 09:01.000]  I meant no disrespect when I did it.
+
+[09:01.000 --> 09:07.000]  I just needed clarification, and perhaps I should have gone about it a different way.
+
+[09:07.000 --> 09:12.000]  Likewise, Your Honor, I meant no disrespect, but I appreciate you giving me the opportunity.
+
+[09:12.000 --> 09:16.000]  Mr. Cohen?
+
+[09:16.000 --> 09:18.000]  Thank you for the exception, sir.
+
+[09:18.000 --> 09:19.000]  Got it.
+
+[09:19.000 --> 09:20.000]  Okay.
+
+[09:20.000 --> 09:21.000]  We'll take a recess.
+
+[09:46.000 --> 09:48.000]  Thank you.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:02.060]  you
+
+[00:30.000 --> 00:32.060]  you
+
+[01:00.000 --> 01:02.060]  you
+
+[01:30.000 --> 01:32.060]  you
+
+[05:00.000 --> 05:20.000]  you
+
+[05:20.000 --> 05:22.000]  Good morning again. Thank you. You may be seated.
+
+[05:30.000 --> 05:48.000]  Okay, we're back on the record with Brenner versus Shatz CV 24 3218. Mr. Shatz, did you
+
+[05:48.000 --> 05:55.440]  have a chance to review? I certainly did, Your Honor. Okay. Sir, I will hear you with
+
+[05:55.440 --> 06:03.440]  respect to your emotions. Okay, Your Honor. Firstly, with this, well, I should say with
+
+[06:03.440 --> 06:12.440]  not only this document, but also the note that was here last time, my primary issue with
+
+[06:12.440 --> 06:20.440]  either of these is that none of this has been authenticated by anyone at all. We've yet
+
+[06:20.440 --> 06:27.440]  to hear the voice of Deutsche Bank. I mean, I respect these gentlemen or lawyers, but
+
+[06:27.440 --> 06:33.440]  they are not witnesses. They're not somebody I can question about these documents. They
+
+[06:33.440 --> 06:39.440]  can't authenticate themselves. They can only present them to the court and ask you to accept
+
+[06:40.440 --> 06:53.440]  on their word, which is a failure of evidence. The burden to the burden of proof to prove
+
+[06:53.440 --> 07:00.440]  their authority to foreclose is their own. You recognize that they are here with this
+
+[07:00.440 --> 07:05.440]  document at the request of the court and the court did not request them to bring certified
+
+[07:05.440 --> 07:10.440]  copies of this document. I understand that, Your Honor, but I mean, the custodial agreement
+
+[07:10.440 --> 07:19.440]  has to be authenticated at some point if I understand that they said one. I don't know
+
+[07:19.440 --> 07:23.440]  that Your Honor did ask for them to bring it, but if they said that they would, I actually
+
+[07:23.440 --> 07:32.440]  did. My ruling in one of the emotions was that I was holding it to review the issue of this
+
+[07:32.440 --> 07:37.440]  document in court today. Fair enough, Your Honor. Oh, and by the way, I'm sorry. I know
+
+[07:37.440 --> 07:42.440]  earlier, because I was reading case law, I referred to Bank of America and Deutsche Bank
+
+[07:42.440 --> 07:51.440]  and that clearly meant Wells Fargo. I understand. Your Honor, as to the custodial agreement,
+
+[07:51.440 --> 07:58.440]  the issue goes a little bit beyond that because this is a custodial agreement, but the custodial
+
+[07:58.440 --> 08:05.440]  agreement is not a bail-e letter either, and this is also something that was asked for
+
+[08:05.440 --> 08:14.440]  along with the custodial agreement. And in order for them to show who they are in relation
+
+[08:14.440 --> 08:19.440]  to this custodial agreement, they would have to have that bail-e letter as well. This is
+
+[08:19.440 --> 08:26.440]  an agreement that's made that talks about what they're going to do with thousands and
+
+[08:26.440 --> 08:37.440]  thousands of loans. It doesn't, per se, apply to my loan. The bail-e letter would be the
+
+[08:37.440 --> 08:42.440]  only thing that would do that, and again, that would also have to be authenticated, just
+
+[08:42.440 --> 08:50.440]  as the note would have to be authenticated by Mrs. Mills, who I asked to deposition.
+
+[08:51.440 --> 09:01.440]  I think, really, Your Honor, I think I might be able to shorten this whole issue for you
+
+[09:01.440 --> 09:10.440]  is that it really doesn't matter because their position is that that note was bearer paper,
+
+[09:10.440 --> 09:19.440]  so they gave their bearer paper to another party, and that is a negotiation by delivery
+
+[09:19.440 --> 09:20.440]  alone.
+
+[09:20.440 --> 09:26.440]  Mr. Schatz, I think what I'm hearing from you, which I've heard a number of times, is
+
+[09:26.440 --> 09:29.440]  that somehow they transferred it.
+
+[09:29.440 --> 09:37.440]  They did. A bearer paper is transferred by just exchange of physical possession. That's
+
+[09:37.440 --> 09:48.440]  really, the UCC says that directly, and also, I mean, if I may, this doesn't have anything
+
+[09:48.440 --> 09:57.440]  to do with the substitute trustees. Nowhere in this agreement does it say Andrew Brennan
+
+[09:57.440 --> 09:59.440]  or substitute trustees.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:03.800]  They have no privity in this contract.
+
+[00:03.800 --> 00:07.240]  They cannot claim constructive possession
+
+[00:07.240 --> 00:09.920]  through Wells Fargo's agent, your honor.
+
+[00:09.920 --> 00:12.960]  They are the plaintiffs to substitute trustees.
+
+[00:12.960 --> 00:19.480]  That cannot convey from Deutsche Bank to Wells Fargo
+
+[00:19.480 --> 00:22.360]  to the substitute trustees.
+
+[00:22.360 --> 00:27.280]  So they're really, you know, this is good to end the game.
+
+[00:27.280 --> 00:31.880]  And as I began to say about the bearer paper,
+
+[00:31.880 --> 00:33.760]  there's no such thing as constructive possession
+
+[00:33.760 --> 00:35.080]  of bearer paper, your honor.
+
+[00:35.080 --> 00:39.160]  A thief can take a bearer paper, a note endorsed in blank,
+
+[00:39.160 --> 00:41.160]  and be the holder.
+
+[00:41.160 --> 00:46.440]  So when they shipped that note, endorsed in blank,
+
+[00:46.440 --> 00:49.520]  to Deutsche Bank, Deutsche Bank became the holder.
+
+[00:49.520 --> 00:50.920]  And they became the only party that
+
+[00:50.920 --> 00:54.400]  would have been able to appoint the substitute trustees
+
+[00:54.400 --> 00:56.880]  because the substitute trustees can only
+
+[00:56.880 --> 00:59.560]  be appointed by a holder.
+
+[00:59.560 --> 01:04.520]  So Wells Fargo, not having that note at that time,
+
+[01:04.520 --> 01:06.360]  because it was at Deutsche Bank, couldn't have
+
+[01:06.360 --> 01:08.760]  appointed these substitute trustees.
+
+[01:08.760 --> 01:12.120]  And the substitute trustees, they didn't have the note.
+
+[01:12.120 --> 01:14.800]  Then that is a requirement.
+
+[01:14.800 --> 01:18.480]  There's three ways that you can bring a foreclosure case,
+
+[01:18.480 --> 01:19.680]  Maryland.
+
+[01:19.680 --> 01:22.440]  And that's UCC 3301.
+
+[01:22.440 --> 01:26.320]  It says that you can be the holder in possession.
+
+[01:26.320 --> 01:27.560]  It says that you can be the.
+
+[01:27.560 --> 01:29.080]  I know you with all three.
+
+[01:29.080 --> 01:31.560]  And it has been cited a number of times.
+
+[01:31.560 --> 01:32.320]  Absolutely.
+
+[01:32.320 --> 01:35.680]  And they were none of these people.
+
+[01:35.680 --> 01:39.400]  These substitute trustees were not a holder.
+
+[01:39.400 --> 01:40.480]  They did not have the note.
+
+[01:40.480 --> 01:44.600]  They admit that it was at Deutsche Bank when they filed a case.
+
+[01:44.600 --> 01:48.280]  They admit that they're not a non-holder in possession
+
+[01:48.280 --> 01:49.640]  with the rights of a holder.
+
+[01:49.640 --> 01:51.600]  And they didn't file a lost note after David.
+
+[01:51.640 --> 01:56.000]  So what of the three persons were they
+
+[01:56.000 --> 01:57.200]  when they filed this case?
+
+[01:57.200 --> 01:59.640]  That's a statutory requirement.
+
+[01:59.640 --> 02:01.440]  That's not something that's waivable.
+
+[02:01.440 --> 02:04.120]  It's not something that's curable.
+
+[02:04.120 --> 02:07.160]  And it's not, say, standing per se.
+
+[02:07.160 --> 02:11.360]  It's the entitlement to enforce the note.
+
+[02:11.360 --> 02:12.760]  They did not have that.
+
+[02:12.760 --> 02:16.200]  And it's not a waivable, curable thing.
+
+[02:16.200 --> 02:24.640]  It just isn't waivable.
+
+[02:24.640 --> 02:28.680]  It's not something that this court has the authority or power
+
+[02:28.680 --> 02:31.600]  to grant them to be OK.
+
+[02:35.440 --> 02:41.320]  Respectfully, you cannot waive this requirement of the UCC
+
+[02:41.320 --> 02:46.800]  in order to allow them to foreclose without a note.
+
+[02:46.800 --> 02:49.480]  Actually, I just filed last night.
+
+[02:49.480 --> 02:52.040]  Sir, whatever you filed last night is not before me,
+
+[02:52.040 --> 02:53.400]  so I'm not hearing it.
+
+[02:53.400 --> 02:54.920]  I understand.
+
+[02:54.920 --> 03:00.840]  But the argument will remain is that a party can't foreclose
+
+[03:00.840 --> 03:03.200]  without possession of the note.
+
+[03:03.200 --> 03:05.680]  And they admit to non-possession.
+
+[03:05.680 --> 03:08.680]  They cannot claim constructive possession.
+
+[03:08.680 --> 03:11.280]  And this contract, if you read this, Your Honor,
+
+[03:11.280 --> 03:17.160]  it says they are strictly a bailee for Wells Fargo.
+
+[03:17.160 --> 03:19.000]  It doesn't say they are strictly a bailee
+
+[03:19.000 --> 03:21.440]  for their substitute trustees.
+
+[03:21.440 --> 03:24.240]  So they have no privity in this contract.
+
+[03:24.240 --> 03:26.600]  So the constructive possession claims
+
+[03:26.600 --> 03:32.920]  that would even remotely, and still wouldn't allow them,
+
+[03:32.920 --> 03:34.760]  if we got to that point.
+
+[03:34.760 --> 03:38.600]  But this doesn't get grant of substitute trustees.
+
+[03:38.600 --> 03:42.320]  Any kind of authority or constructive possession
+
+[03:42.320 --> 03:44.400]  over that note, it just doesn't.
+
+[03:44.400 --> 03:49.160]  I mean, that's, it doesn't, Your Honor.
+
+[03:49.160 --> 03:54.920]  So again, if this is to be entered into evidence,
+
+[03:54.920 --> 04:01.040]  it has to be authenticated by someone from Deutsche Bank
+
+[04:01.040 --> 04:02.800]  or Wells Fargo.
+
+[04:02.800 --> 04:06.800]  And that being pointed, the substitute trustees
+
+[04:06.840 --> 04:09.440]  cannot get up on the stand and say, yes, Your Honor,
+
+[04:09.440 --> 04:12.920]  this is a true and correct copy of this contract
+
+[04:12.920 --> 04:14.280]  that we're a party to.
+
+[04:14.280 --> 04:17.880]  Just as I'm not a party to it, neither are they.
+
+[04:17.880 --> 04:20.880]  So they have a serious problem here.
+
+[04:20.880 --> 04:26.440]  And I think it's more of a, the last time we're here,
+
+[04:26.440 --> 04:33.280]  and much of my early pleadings sort of did attack what
+
+[04:34.280 --> 04:37.160]  I called standing, what I've come to understand.
+
+[04:37.160 --> 04:38.880]  It's not standing.
+
+[04:38.880 --> 04:41.400]  It's not jurisdictional standing.
+
+[04:41.400 --> 04:46.120]  It's entitlement to enforce a negotiable instrument.
+
+[04:46.120 --> 04:48.000]  And they did not have that.
+
+[04:48.000 --> 04:51.000]  And it is not something that's waivable.
+
+[04:51.000 --> 04:55.200]  It is ingrained in the law.
+
+[04:55.200 --> 05:00.480]  And if we get beyond that point, as I said,
+
+[05:00.520 --> 05:03.160]  bearer paper is bearer paper.
+
+[05:03.160 --> 05:06.240]  You can't, this custodial agreement
+
+[05:06.240 --> 05:09.680]  can't change the nature of a bearer instrument.
+
+[05:09.680 --> 05:12.080]  Otherwise, what do we, we can just say like,
+
+[05:12.080 --> 05:14.240]  oh, that's no longer a bearer instrument.
+
+[05:14.240 --> 05:16.040]  If that were true, then, you know,
+
+[05:16.040 --> 05:20.040]  if this contract that I'm not party to
+
+[05:20.040 --> 05:23.800]  can change the nature of my note that I signed,
+
+[05:23.800 --> 05:24.680]  I didn't sign this.
+
+[05:24.680 --> 05:27.320]  I didn't say sign me up for a custodial agreement.
+
+[05:27.320 --> 05:29.880]  This can't change the nature of my note
+
+[05:30.880 --> 05:33.000]  in relation to what it's going to do.
+
+[05:33.000 --> 05:35.280]  And if it does, it becomes a,
+
+[05:35.280 --> 05:38.880]  it opens different defenses under contract law.
+
+[05:38.880 --> 05:40.920]  It, it's no longer a...
+
+[05:40.920 --> 05:42.440]  Where is there the argument
+
+[05:42.440 --> 05:44.960]  that it changed the nature of your agreement?
+
+[05:44.960 --> 05:48.200]  Well, if they're saying that it's no longer bearer paper,
+
+[05:48.200 --> 05:50.800]  because Deutsche Bank's not the holder,
+
+[05:50.800 --> 05:53.720]  is Deutsche Bank the holder, or is Wells Fargo the holder?
+
+[05:53.720 --> 05:55.200]  And can they both be the holder?
+
+[05:55.200 --> 05:56.280]  They cannot.
+
+[05:56.280 --> 05:58.960]  They're two distinct entities.
+
+[05:58.960 --> 06:03.040]  So, and this is, you know, it goes to the, you know,
+
+[06:03.040 --> 06:05.360]  and in reading this document again,
+
+[06:05.360 --> 06:10.360]  goes to show the inherent conflict that Mr. Herbst has,
+
+[06:10.840 --> 06:14.440]  has found himself in if he truly represents
+
+[06:14.440 --> 06:19.440]  the bank and the custodian.
+
+[06:22.640 --> 06:25.000]  These are, these things, it says in here,
+
+[06:25.040 --> 06:27.320]  we're not going to be, you know,
+
+[06:27.320 --> 06:28.840]  the owner and the custodian,
+
+[06:28.840 --> 06:31.800]  these two are set at odds with each other here
+
+[06:31.800 --> 06:34.920]  in this contract, all throughout the contract.
+
+[06:34.920 --> 06:39.920]  So how could he possibly represent both of these, these...
+
+[06:41.480 --> 06:44.080]  On that issue, I've already denied your motion
+
+[06:44.080 --> 06:44.920]  with respect to this.
+
+[06:44.920 --> 06:45.760]  Yes, there you are.
+
+[06:45.760 --> 06:48.280]  I mean, it just seems to be inherent.
+
+[06:48.280 --> 06:49.520]  I mean, this is new.
+
+[06:49.520 --> 06:51.760]  Understood, but I've denied that motion,
+
+[06:51.760 --> 06:53.520]  so please don't relitigate it.
+
+[06:53.520 --> 06:58.520]  So granted, these new conflicts are shown here in,
+
+[07:02.040 --> 07:06.000]  you know, and made bare of that, you know,
+
+[07:06.000 --> 07:11.000]  and I can let go of that issue to, you know,
+
+[07:11.880 --> 07:16.280]  to the effect that I don't think it really matters
+
+[07:16.280 --> 07:19.960]  because nothing here is going to fix the fact
+
+[07:20.000 --> 07:25.000]  that the substitute trustees commenced a foreclosure case
+
+[07:28.480 --> 07:32.160]  and did not have the note in their hands.
+
+[07:32.160 --> 07:36.480]  They weren't the person entitled to enforce
+
+[07:37.680 --> 07:42.680]  any negotiable instrument that is relevant to this case.
+
+[07:42.720 --> 07:45.840]  So I don't see how that can be fixed
+
+[07:45.840 --> 07:49.200]  and they continued to, I mean, up in here,
+
+[07:49.200 --> 07:52.520]  we've been, you know, five to 600 days.
+
+[07:52.520 --> 07:57.520]  And, you know, this just takes a large amount of time
+
+[07:59.000 --> 08:01.880]  out of my life and I'm not getting paid for this.
+
+[08:01.880 --> 08:05.760]  You know, I'm on the ropes already.
+
+[08:05.760 --> 08:10.760]  So, you know, they've caused me extreme damage
+
+[08:11.200 --> 08:16.200]  in my life, you know, and have done so inequitably.
+
+[08:17.160 --> 08:20.960]  You keep, why would you say that they've caused you this?
+
+[08:20.960 --> 08:23.920]  You had a contract at some point with Wells Fargo
+
+[08:23.920 --> 08:27.720]  to pay a mortgage and the allegation is that you didn't
+
+[08:27.720 --> 08:30.080]  pay on that mortgage and they started proceeding.
+
+[08:30.080 --> 08:31.800]  I understand that allegation, your Honor.
+
+[08:31.800 --> 08:33.160]  How do you get to the point of saying
+
+[08:33.160 --> 08:34.640]  that they've caused all of these issues?
+
+[08:34.640 --> 08:37.240]  Because they are not the person entitled to enforce them.
+
+[08:37.240 --> 08:39.040]  I keep hearing you say that, sir,
+
+[08:39.040 --> 08:42.280]  and I am listening to your argument on that.
+
+[08:42.280 --> 08:46.000]  How is, let's assume that that was true.
+
+[08:46.000 --> 08:48.920]  How did they cause you all of these problems?
+
+[08:48.920 --> 08:50.080]  I'm not saying that they caused me
+
+[08:50.080 --> 08:51.400]  every problem in my life, Your Honor.
+
+[08:51.400 --> 08:53.880]  I'm not saying that they caused you all of these issues
+
+[08:53.880 --> 08:56.940]  or hardships that you, how did they do that?
+
+[08:56.940 --> 09:01.940]  If, in fact, I find in your favor that they are not
+
+[09:02.640 --> 09:05.200]  the holder of this note and didn't have a right
+
+[09:05.200 --> 09:07.720]  to bring the foreclosure proceeding.
+
+[09:07.720 --> 09:08.560]  Yeah, sure.
+
+[09:08.560 --> 09:10.840]  I think I can see that answer to that.
+
+[09:11.800 --> 09:16.800]  It's a waste of time, Your Honor,
+
+[09:17.160 --> 09:19.200]  because these people are, that's like saying
+
+[09:19.200 --> 09:22.760]  that you owe an electric bill and some other guy comes
+
+[09:22.760 --> 09:24.800]  and he's like saying, hey, I'm BGE.
+
+[09:24.800 --> 09:28.080]  Here I am, I'm gonna get you for this $800
+
+[09:28.080 --> 09:30.120]  that you owe me for the electric bill.
+
+[09:30.120 --> 09:31.920]  And he takes you to court and waste your time
+
+[09:31.920 --> 09:34.000]  for 600 days, Your Honor.
+
+[09:34.000 --> 09:36.760]  Instead of the people that rightfully could have.
+
+[09:36.760 --> 09:37.920]  Absolutely.
+
+[09:37.920 --> 09:38.760]  I see.
+
+[09:38.760 --> 09:39.880]  Absolutely, Your Honor.
+
+[09:39.880 --> 09:44.880]  I'm not saying that they're to blame for anything
+
+[09:46.080 --> 09:50.040]  in my life outside of that, but they have maintained
+
+[09:50.040 --> 09:54.960]  a foreclosure action that they should never have opened
+
+[09:54.960 --> 09:59.120]  and that they knew that they did not have this note
+
+[09:59.120 --> 09:59.960]  in their hand.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:06.240]  when they started this case, they asked for a protective order so that we wouldn't find
+
+[00:06.240 --> 00:08.280]  out where the note was.
+
+[00:08.280 --> 00:17.080]  That to me, whether they had reasons to ask for a protective order so that they wouldn't
+
+[00:17.080 --> 00:25.200]  have to provide the wet note or provide for inspection, they knew where the note was when
+
+[00:25.200 --> 00:29.200]  they asked for that protective order and they asked for that protective order because they
+
+[00:29.200 --> 00:33.200]  didn't want us to go, oh wait a second here.
+
+[00:33.200 --> 00:34.200]  Is it Deutsche Bank?
+
+[00:34.200 --> 00:36.200]  Wait, you said you had it.
+
+[00:36.200 --> 00:43.200]  They, you know, for that they had the note to commence this case and that, you know,
+
+[00:43.200 --> 00:48.200]  and that's what they say led to my say why, you know, move to strike that document, you
+
+[00:48.200 --> 00:49.200]  know.
+
+[00:50.200 --> 00:59.200]  And I say under the summary judgment rule, it's called a sham affidavit rule that any portion
+
+[00:59.200 --> 01:08.200]  that is materially in conflict with some later truth, it needs to be stricken.
+
+[01:08.200 --> 01:11.200]  It shall be stricken is what it says actually.
+
+[01:11.200 --> 01:20.200]  So I think that that, you know, that puts the custodial agreement completely aside because
+
+[01:20.200 --> 01:27.200]  first we have to deal with the fact that you have a bearer instrument that was not in the
+
+[01:27.200 --> 01:35.200]  possession of anyone in this room, you know, party wise I should say, well I should say
+
+[01:35.200 --> 01:42.200]  except for the counter defendant, you know, Deutsche Bank, who didn't come as they, you
+
+[01:42.200 --> 01:48.200]  know, they were more likely to succeed and probably would have succeeded had they come
+
+[01:48.200 --> 01:55.200]  and foreclosed on me at that point because they were the holder of a bearer instrument.
+
+[01:55.200 --> 02:00.200]  And, you know, how could I defend it?
+
+[02:00.200 --> 02:04.200]  And that's the nature, bearer paper, you're done.
+
+[02:04.200 --> 02:07.200]  I'm the holder, here I am, I've got it in my hand.
+
+[02:07.200 --> 02:15.200]  I have the entitlement to enforce it, you know, but the trustees did not have that and
+
+[02:15.200 --> 02:19.200]  they knew they didn't have it when they started this case.
+
+[02:19.200 --> 02:29.200]  You know, and everything after that became, you know, a dirty handed, you know, ongoing
+
+[02:29.200 --> 02:33.200]  process of covering that, you know, problem up.
+
+[02:33.200 --> 02:41.200]  So, you know, like I said, that's my issue with it is that, you know, I, and say, who
+
+[02:41.200 --> 02:47.200]  do, who, it does create the, to say the double, the classical double peak problem, there's,
+
+[02:47.200 --> 02:51.200]  is the owner of the person entitled to enforce now or should I be paying Deutsche Bank because
+
+[02:51.200 --> 02:56.200]  now I understand that they're the holder or is it the substitute trustees who now have
+
+[02:56.200 --> 03:00.200]  the note, but even though that doesn't cure the fact that they didn't have it when they
+
+[03:00.200 --> 03:02.200]  were supposed to have it.
+
+[03:02.200 --> 03:07.200]  So, you know, and that's something that the UCC strictly defends against.
+
+[03:07.200 --> 03:13.200]  For the borrower is that you're not supposed to have to guess at who you're supposed to
+
+[03:13.200 --> 03:15.200]  make a payment to.
+
+[03:15.200 --> 03:21.200]  And the UCC also says that if you don't pay the person, the correct person, it doesn't
+
+[03:21.200 --> 03:23.200]  extinguish the debt.
+
+[03:23.200 --> 03:31.200]  So, it puts, you know, it puts me as a borrower in a, in a bind.
+
+[03:31.200 --> 03:37.200]  And that's, that's why my issues with Wells Fargo say, you know, I'll say in the courtroom,
+
+[03:37.200 --> 03:43.200]  out of mediation came to a collapse is because I was like, wait a second, I can't justify
+
+[03:43.200 --> 03:48.200]  paying you right now because I don't know if I'm just throwing money at the wrong party
+
+[03:48.200 --> 03:50.200]  here, you know.
+
+[03:50.200 --> 03:57.200]  So, this is the, this is the kind of case that, you know, it has a lot of Anderson
+
+[03:57.200 --> 04:06.200]  versus Burson traits, you know, except that I don't concede what they concede.
+
+[04:06.200 --> 04:12.200]  You know, I haven't conceded a drop here because I have known from the start that
+
+[04:12.200 --> 04:15.200]  something wasn't right.
+
+[04:15.200 --> 04:21.200]  And, you know, it's been just over say the last couple weeks that I arrived at that.
+
+[04:21.200 --> 04:22.200]  Yes, sir.
+
+[04:22.200 --> 04:28.200]  I just, I would just, Jack, I mean, I'm not sure what motion he's arguing.
+
+[04:28.200 --> 04:34.200]  If it's exceptions, it has to be limited to the procedure of the sale.
+
+[04:34.200 --> 04:36.200]  I'm sorry.
+
+[04:36.200 --> 04:41.200]  And this is partially my fault because I broke this into two issues.
+
+[04:41.200 --> 04:48.200]  One being this issue with the agreement between Wells Fargo and Deutsche Bank and the other
+
+[04:48.200 --> 04:50.200]  being the exceptions.
+
+[04:50.200 --> 04:56.200]  So, I wanted to hear that issue, which I think you've fairly covered at this point.
+
+[04:56.200 --> 05:00.200]  And then I would ask for a response as to that.
+
+[05:00.200 --> 05:08.200]  And then I'm going to jump into the exceptions issue, but I think I have a way of
+
+[05:08.200 --> 05:11.200]  short-cutting that whole argument as well.
+
+[05:11.200 --> 05:14.200]  So, I'm going to hear this.
+
+[05:14.200 --> 05:16.200]  So, we're not discussing the exceptions.
+
+[05:16.200 --> 05:21.200]  We're not doing the exceptions just yet.
+
+[05:21.200 --> 05:24.200]  Anything else on this agreement, sir?
+
+[05:24.200 --> 05:32.200]  Because that will also resolve one way or another a number of the motions other than the exceptions issue.
+
+[05:32.200 --> 05:37.200]  I do have some notes.
+
+[05:37.200 --> 05:44.200]  Also, as to the exception agreement, it's not privileged.
+
+[05:44.200 --> 05:52.200]  There's nothing in here that warrants a protective order.
+
+[05:52.200 --> 05:54.200]  As you said, Your Honor.
+
+[05:54.200 --> 05:56.200]  Did you not agree at some point?
+
+[05:56.200 --> 05:59.200]  I agree that I won't disclose it, absolutely.
+
+[05:59.200 --> 06:03.200]  I'm just saying that it doesn't warrant some kind of like...
+
+[06:03.200 --> 06:06.200]  Your response was that you would agree to a protective order.
+
+[06:06.200 --> 06:07.200]  Was it not?
+
+[06:07.200 --> 06:09.200]  Are you changing your...
+
+[06:09.200 --> 06:12.200]  Confidentiality is what I agreed to.
+
+[06:12.200 --> 06:17.200]  A protective order would allow them to just not let me see it.
+
+[06:17.200 --> 06:20.200]  No, I don't think that was the purpose of the protective order.
+
+[06:20.200 --> 06:21.200]  That's fine.
+
+[06:21.200 --> 06:23.200]  If that's not the purpose or say...
+
+[06:23.200 --> 06:27.200]  I mean, you've seen it at this point, so that's a new issue.
+
+[06:27.200 --> 06:29.200]  I'm a student, Your Honor.
+
+[06:29.200 --> 06:32.200]  I want to find out what does this mean?
+
+[06:32.200 --> 06:34.200]  What does this language mean?
+
+[06:34.200 --> 06:38.200]  I can't get an idea of it, but I can't...
+
+[06:38.200 --> 06:43.200]  I don't have that available for analysis to say,
+
+[06:43.200 --> 06:45.200]  what does this really mean?
+
+[06:45.200 --> 06:47.200]  That's all I want.
+
+[06:47.200 --> 06:50.200]  If they want to redact the prices out of there or something like that,
+
+[06:50.200 --> 06:51.200]  that's fine.
+
+[06:51.200 --> 06:53.200]  I don't care about any of that.
+
+[06:53.200 --> 06:57.200]  Well, from this point until I receive that protective order,
+
+[06:57.200 --> 07:00.200]  this document is not to be disclosed.
+
+[07:00.200 --> 07:04.200]  Even a court's copy is going to be on the seal until that time.
+
+[07:04.200 --> 07:05.200]  Of course, Your Honor.
+
+[07:05.200 --> 07:07.200]  And that's fair.
+
+[07:07.200 --> 07:09.200]  I don't want to...
+
+[07:09.200 --> 07:12.200]  I have no business disclosing it.
+
+[07:12.200 --> 07:16.200]  I don't know who I would even disclose that to, to be honest with you,
+
+[07:16.200 --> 07:23.200]  but I do want to be able to use that to understand their claim,
+
+[07:23.200 --> 07:31.200]  because what this custodial agreement sort of seemed to represent
+
+[07:31.200 --> 07:37.200]  was their route to possession,
+
+[07:37.200 --> 07:40.200]  and whether or not they possessed this note,
+
+[07:40.200 --> 07:46.200]  or could possess this note through this custodian,
+
+[07:46.200 --> 07:52.200]  but this custodial agreement is not the type of agreement
+
+[07:52.200 --> 07:59.200]  that would allow any kind of constructive possession of anyone but Wells Fargo.
+
+[07:59.200 --> 08:02.200]  In their motion, they said,
+
+[08:02.200 --> 08:06.200]  this contract, it says right on there,
+
+[08:06.200 --> 08:10.200]  for the exclusive use of Wells Fargo.
+
+[08:10.200 --> 08:13.200]  Mr. Cohen, who represents the trustees,
+
+[08:13.200 --> 08:16.200]  and the trustees, they are not Wells Fargo.
+
+[08:16.200 --> 08:20.200]  So how can they claim constructive possession
+
+[08:20.200 --> 08:25.200]  through something that is for the exclusive use of Wells Fargo
+
+[08:25.200 --> 08:31.200]  who is not the plaintiff?
+
+[08:31.200 --> 08:32.200]  Anything else?
+
+[08:32.200 --> 08:33.200]  That's all, Your Honor.
+
+[08:33.200 --> 08:36.200]  Okay.
+
+[08:36.200 --> 08:39.200]  Just briefly, Your Honor,
+
+[08:39.200 --> 08:41.200]  I think the court mentioned,
+
+[08:41.200 --> 08:44.200]  the court asked us to bring the document we offered to bring the document in,
+
+[08:44.200 --> 08:49.200]  and there's been no discussion of authentication.
+
+[08:49.200 --> 08:51.200]  We brought the document that we agreed to produce,
+
+[08:51.200 --> 08:53.200]  and we think it supports our position,
+
+[08:53.200 --> 08:55.200]  but we're not using it to do that.
+
+[08:55.200 --> 08:59.200]  In fact, it was used by Mr. Schaas to try to advocate his position,
+
+[08:59.200 --> 09:04.200]  and he seems to be adjusting his position now.
+
+[09:04.200 --> 09:07.200]  It does say, the document says in the obligations of the custodian,
+
+[09:07.200 --> 09:10.200]  that the custodial file, including the documents received,
+
+[09:10.200 --> 09:15.200]  are for the exclusive use and benefit of the owner.
+
+[09:15.200 --> 09:17.200]  And that's at the bottom of page 8.
+
+[09:17.200 --> 09:20.200]  And so I think it's pretty clear what's happening here.
+
+[09:20.200 --> 09:22.200]  There was no inadvertent transfer.
+
+[09:22.200 --> 09:24.200]  Wells Fargo is the only holder of the note.
+
+[09:24.200 --> 09:27.200]  I think the court has already decided this issue repeatedly,
+
+[09:27.200 --> 09:32.200]  and I don't know why Mr. Schaas keeps misquoting the UCC.
+
+[09:32.200 --> 09:35.200]  You can be a holder, or you can be a non-holder in possession,
+
+[09:35.200 --> 09:38.200]  and that issue has been already set off here.
+
+[09:38.200 --> 09:40.200]  So I don't know why we keep arguing it.
+
+[09:40.200 --> 09:43.200]  It has been the subject of nearly 50 or 60,
+
+[09:43.200 --> 09:45.200]  I think I added it up the other day,
+
+[09:45.200 --> 09:48.200]  60 filings by Mr. Schaas raising this same issue
+
+[09:48.200 --> 09:50.200]  that the court has already decided,
+
+[09:50.200 --> 09:54.200]  and at this point there's just no legal merit to that argument.
+
+[09:54.200 --> 09:57.200]  The court has decided it, the sale has happened,
+
+[09:57.200 --> 10:00.200]  and now we're in the exception...
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:05.000]  phase of the case, which will be heard after this.
+
+[00:05.000 --> 00:11.000]  I guess the only, I guess, and to the extent it requires a response, because I'm sure the court understands,
+
+[00:11.000 --> 00:18.000]  the note is the debt instrument, and then there's a security instrument, the deed of trust in this case.
+
+[00:18.000 --> 00:23.000]  And the deed of trust was the document based on the default under the note through which Wells Fargo,
+
+[00:23.000 --> 00:29.000]  who was the holder of the note, appointed the substitute trustees in a deed of appointment of substitute trustees.
+
+[00:29.000 --> 00:36.000]  So it's the security instrument that gives the right to the substitute trustees to enforce the default under the note,
+
+[00:36.000 --> 00:40.000]  and those documents are interrelated, but they're different.
+
+[00:40.000 --> 00:48.000]  To the extent any further thing needs to be said on confidentiality, I will take the court's opportunity to submit
+
+[00:48.000 --> 00:54.000]  a further motion for protective order, but based on Mr. Schatz's submission previously,
+
+[00:54.000 --> 00:59.000]  he is essentially consented to at least treat the document confidentiality.
+
+[00:59.000 --> 01:05.000]  And I will also note that the document itself states on it that it is confidential and proprietary,
+
+[01:05.000 --> 01:13.000]  and there are pricing terms as well as other confidential terms that I would refresh my recollection in the interim while reviewing it.
+
+[01:13.000 --> 01:20.000]  So we would appreciate under Rule 2403A for good cause, which is a pretty low standard.
+
+[01:20.000 --> 01:27.000]  The court may limit the disclosure, and specifically A-8, provides that the court may limit disclosure
+
+[01:27.000 --> 01:34.000]  for trade secrets or other confidential information not to be disclosed or to be disclosed only in a designated way.
+
+[01:34.000 --> 01:38.000]  And we would, again, we'll take the court up on submitting a further written motion if necessary,
+
+[01:38.000 --> 01:44.000]  but we believe that our submission in the sort of under this protective order met that standard,
+
+[01:44.000 --> 01:53.000]  to the court's point, we will submit a subsequent protective order at the court's request. Thank you.
+
+[01:53.000 --> 01:57.000]  Mr. Schatz, I will hear you on the exception, sir.
+
+[01:57.000 --> 01:59.000]  Can I respond just briefly to that?
+
+[01:59.000 --> 02:07.000]  I'd like to hear you on the exception, sir.
+
+[02:07.000 --> 02:12.000]  Well, I'll just give it the first aid that I object to.
+
+[02:12.000 --> 02:19.000]  Is there something that you would like to say in response that you have not, that you have not already addressed, sir?
+
+[02:19.000 --> 02:22.000]  I wanted to address something that he had just said.
+
+[02:22.000 --> 02:29.000]  Is it something you've not addressed? I don't want to hear you tell me the things that you've already told me several times.
+
+[02:29.000 --> 02:31.000]  Yes, sure. It is something.
+
+[02:31.000 --> 02:34.000]  What is it that you would like to tell the court, sir?
+
+[02:34.000 --> 02:40.000]  He's trying to make an argument of separation of the deed of trust and the node.
+
+[02:40.000 --> 02:46.000]  And saying that I'm misquoting the UCC, that is not, that's false.
+
+[02:46.000 --> 02:53.000]  Here he has to take Mr. Herbst, who is misquoting the UCC.
+
+[02:53.000 --> 03:03.000]  What the UCC says is that there is one person who is entitled to enforce, and that is the whole...
+
+[03:03.000 --> 03:06.000]  Mr. Schatz, he's been over this for 20 minutes before.
+
+[03:06.000 --> 03:09.000]  It's been in about 50 different papers.
+
+[03:09.000 --> 03:14.000]  The court can read the UCC.
+
+[03:14.000 --> 03:21.000]  Mr. Schatz, continue, sir.
+
+[03:21.000 --> 03:26.000]  The deed of trust, it secures the debt, but the node is the debt.
+
+[03:26.000 --> 03:29.000]  It's not the deed of trust.
+
+[03:29.000 --> 03:33.000]  It's that doesn't entitle someone to enforce the node.
+
+[03:33.000 --> 03:39.000]  It is the node that entitles to enforce, not the deed of trust, not the security instrument.
+
+[03:39.000 --> 03:46.000]  So he's basically, now they're backing off of the fact that they were the holder of the node.
+
+[03:46.000 --> 03:48.000]  They weren't the holder of the node.
+
+[03:48.000 --> 03:51.000]  Now we're going to back off to the deed of trust.
+
+[03:51.000 --> 03:56.000]  Wells Fargo are the beneficiaries under the deed of trust.
+
+[03:56.000 --> 04:01.000]  So what did I notice in their pleadings is they backed off of that.
+
+[04:01.000 --> 04:05.000]  Now in their pleadings they're saying, what were the beneficiary under the deed of trust?
+
+[04:05.000 --> 04:09.000]  They're no longer saying, we were the holder of the node.
+
+[04:09.000 --> 04:14.000]  Because they know that they were.
+
+[04:14.000 --> 04:16.000]  Thank you. I'll hear you on the exception.
+
+[04:16.000 --> 04:22.000]  Oh, you know what? I did say I would limit this issue on the exceptions.
+
+[04:22.000 --> 04:33.000]  So Mr. Cohen, why don't I have an affidavit auctioneer's affidavit yet?
+
+[04:33.000 --> 04:38.000]  First, we didn't use an auctioneer to call the sale.
+
+[04:38.000 --> 04:44.000]  We did submit an affidavit by the trustee that called the sale.
+
+[04:44.000 --> 04:49.000]  That would comply with all the requirements of the auctioneer's affidavit.
+
+[04:49.000 --> 04:57.000]  If we didn't use the auctioneer to call the sale, there wouldn't be a technical auctioneer's affidavit to file.
+
+[04:57.000 --> 05:04.000]  I mean, I can address all the reasons and why and why not, but it is exceptions.
+
+[05:04.000 --> 05:07.000]  So are you telling me that the property was not auctioned?
+
+[05:07.000 --> 05:09.000]  It was auctioned.
+
+[05:09.000 --> 05:12.000]  Then there should be an auctioneer's affidavit.
+
+[05:12.000 --> 05:18.000]  Well, we didn't use a licensed auctioneer to do the actual auction.
+
+[05:19.000 --> 05:23.000]  I can retitle it and submit it.
+
+[05:23.000 --> 05:29.000]  The affidavit that we attached to our exception says that we were acting into our opposition,
+
+[05:29.000 --> 05:40.000]  says that the trustee that called the sale was acting in the capacity
+
+[05:40.000 --> 05:52.000]  to perform the duties that we would have an auctioneer to otherwise perform.
+
+[06:00.000 --> 06:02.000]  There's no requirement that you use an auctioneer.
+
+[06:02.000 --> 06:08.000]  There's a requirement that you use an auctioneer to conduct the sale in Ultima City in Anarungle County.
+
+[06:08.000 --> 06:11.000]  There's no requirement that you use in Baltimore County.
+
+[06:11.000 --> 06:17.000]  Those are the only two jurisdictions that require it, or anywhere else other than Baltimore County.
+
+[06:20.000 --> 06:23.000]  I could retitle what I submitted.
+
+[06:23.000 --> 06:26.000]  He was a trustee that did the sale.
+
+[06:26.000 --> 06:35.000]  We hired an auctioneer, but as you can see, communications from Mr. Schaff's calls the auctioneer to withdraw
+
+[06:35.000 --> 06:38.000]  at the last minute after the sale had been advertised.
+
+[06:38.000 --> 06:42.000]  We stepped in and did it.
+
+[06:42.000 --> 06:48.000]  I can keep going and discuss the legal mirror, but it is his exception, so it is his burden to prove
+
+[06:48.000 --> 06:55.000]  that if there wasn't a regularity, which I don't think so, that it wasn't a regularity that caused some prejudice.
+
+[06:55.000 --> 06:58.000]  Do you want me to keep going?
+
+[06:58.000 --> 06:59.000]  Yes, sir.
+
+[07:00.000 --> 07:01.000]  Thank you.
+
+[07:04.000 --> 07:11.000]  Like I said, an exception is the burden to prove is on the acceptance to show that there is a procedural irregularity with the sale that caused prejudice.
+
+[07:14.000 --> 07:19.000]  The rules do not require the use of an auctioneer to conduct the sale.
+
+[07:21.000 --> 07:26.000]  There's no argument that the auctioneer was not properly advertised.
+
+[07:27.000 --> 07:42.000]  The only case law, there's no cases law that says that not using an auctioneer when you conduct the sale constitutes a procedural or regularity of the sale that could support exceptions.
+
+[07:43.000 --> 07:55.000]  The only case law that's relevant in this case is that case law that says that the trustee has the discretion to direct the manner of sale.
+
+[07:55.000 --> 08:07.000]  And there's no case law that says that calling the sale yourself instead of using an auctioneer is an abuse of that discretion by the trustee.
+
+[08:08.000 --> 08:13.000]  Like I said, there's no local law in Baltimore County that requires the use of an auctioneer.
+
+[08:17.000 --> 08:23.000]  There's no case law statute rule that prohibits a trustee from calling the sale themselves.
+
+[08:25.000 --> 08:35.000]  While they argue in their exceptions that the trustee is an interested party and therefore cannot call the sale themselves, they don't cite any law to support that statement.
+
+[08:35.000 --> 08:40.000]  They don't say any facts that they have that could support that statement.
+
+[08:40.000 --> 08:49.000]  The case law in Maryland is clear that the foreclosing trustees of fiduciary to all parties, the lien instrument, that has to conduct the sale in a reasonable manner,
+
+[08:49.000 --> 08:58.000]  consistent with the requirements of the mortgage, their conduct is then subject to the court's ratification afterwards.
+
+[08:59.000 --> 09:06.000]  Like I said, Mr. Shass is not proffered any facts to show that Daniel Dreyfus, who's the trustee who conducted the sale in this case,
+
+[09:06.000 --> 09:14.000]  acted partially in any way as his affidavit, which we attached to our opposition, makes clear he read the sale advertisement out loud,
+
+[09:14.000 --> 09:16.000]  then opened the auction up for bidding.
+
+[09:16.000 --> 09:26.000]  There's no allegation or facts proffered that a licensed auctioneer would have done anything different in this case than what Mr. Dreyfus did here.
+
+[09:29.000 --> 09:37.000]  And Rule 14305 law does reference that an auctioneer's affidavit should be filed after sale.
+
+[09:37.000 --> 09:44.000]  It doesn't require that or say anything about that if an auctioneer is not used to conduct the sale.
+
+[09:44.000 --> 09:55.000]  That portion of 14305 is actually relatively new and the rule committee reports and what not makes clear what the purpose of it was,
+
+[09:55.000 --> 10:00.000]  was that there was national auction firms that were coming in.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:07.200]  and it had side deals with foreclosing lenders to conduct the sale, the foreclosure sale
+
+[00:07.200 --> 00:11.600]  in the courthouse steps, and then if it went back to the secured lender to have another
+
+[00:11.600 --> 00:15.720]  sale that they would handle where they would get a much larger commission, and they were
+
+[00:15.720 --> 00:21.360]  therefore being incentivized to not try to sell the property for the maximum amount of
+
+[00:21.360 --> 00:22.360]  the price.
+
+[00:22.360 --> 00:30.400]  Do you have any case law or statutory law indicating that the person who conducted
+
+[00:30.400 --> 00:37.120]  the sale would not be considered an auctioneer in this case?
+
+[00:37.120 --> 00:44.160]  I know you keep saying a professional auctioneer or someone that specifically does that for
+
+[00:44.160 --> 00:49.720]  a living, but is there anything in the statute that would not define the person who conducted
+
+[00:49.720 --> 00:54.040]  the sale in this case as the auctioneer?
+
+[00:54.040 --> 00:57.200]  There's nothing that says that they're not the auctioneer that I'm aware of.
+
+[00:57.200 --> 01:04.480]  And if the auctioneer generally is the person who conducted the auction, whether or not
+
+[01:04.480 --> 01:10.200]  it's what they do for a living or some sort of professional firm, would they not be subject
+
+[01:10.200 --> 01:17.640]  to the requirements under 14305?
+
+[01:17.640 --> 01:25.720]  Well, they would, but just to get back to where I was on track, I was almost unexplained
+
+[01:25.720 --> 01:31.840]  why, the reason why it's completely superfluous to have them file.
+
+[01:31.840 --> 01:34.720]  I could have them file one if that's what the court really was.
+
+[01:34.720 --> 01:38.520]  It's not what I want, it's what the rule requires.
+
+[01:38.520 --> 01:43.800]  Well, okay, but if there's no auctioneer used, I mean we've had deficiency orders on
+
+[01:43.800 --> 01:44.800]  this basis.
+
+[01:44.800 --> 01:52.240]  I think you keep saying there's no auctioneer used as if auctioneer under the statute means
+
+[01:52.240 --> 01:59.520]  what we traditionally think of as one of the firms who conduct auctions.
+
+[01:59.520 --> 02:05.560]  But since there's no specific definition here in the statute, I'm taking the auctioneer
+
+[02:05.560 --> 02:09.240]  to mean the person who conducted the auction.
+
+[02:09.240 --> 02:10.240]  Right.
+
+[02:10.240 --> 02:16.960]  And as I was explaining, we looked into the purpose of the rule and the why it was created
+
+[02:16.960 --> 02:24.560]  and was created to regulate licensed auctioneers, to make sure that they share the same responsibilities
+
+[02:24.560 --> 02:31.000]  that the foreclosing trustee has in marketing the property and not trying to self-deal with
+
+[02:31.000 --> 02:34.920]  a side deal with the lender to do a double auction.
+
+[02:35.240 --> 02:43.440]  Why wouldn't that apply to someone who potentially is not an auctioneer in this general sense
+
+[02:43.440 --> 02:48.040]  that we're talking about, but someone else who may have some other vested interest in
+
+[02:48.040 --> 02:49.480]  this sale?
+
+[02:49.480 --> 03:00.400]  Well, all the same responsibilities and disinterest applies to the trustees and they were trying
+
+[03:00.400 --> 03:01.400]  already.
+
+[03:01.880 --> 03:04.880]  And that's why we filed a report of sale that was true and accurate.
+
+[03:04.880 --> 03:05.880]  I could...
+
+[03:05.880 --> 03:14.480]  I am going to order that the trustees file the affidavit under 14305.
+
+[03:14.480 --> 03:16.240]  And you won't accept the one that we...
+
+[03:16.240 --> 03:24.360]  I am going to require that it be filed in accordance with 14305, and I am going to treat
+
+[03:24.360 --> 03:28.520]  the person who conducted the auction as the auctioneer.
+
+[03:28.520 --> 03:29.520]  Okay.
+
+[03:30.520 --> 03:31.520]  It...
+
+[03:31.520 --> 03:38.880]  Unless you can tell me somewhere otherwise, case law or statute that says that I can't
+
+[03:38.880 --> 03:44.640]  or I shouldn't, I am going to treat it as such because I believe that the purpose of
+
+[03:44.640 --> 03:52.320]  that rule is to make sure that the person conducting the auction does it in a fair manner
+
+[03:52.320 --> 04:01.360]  and is not subject to some other contract or interest that may cause the auction to
+
+[04:01.360 --> 04:02.720]  be done unfairly.
+
+[04:02.720 --> 04:03.720]  Okay.
+
+[04:03.720 --> 04:04.720]  Ken?
+
+[04:04.720 --> 04:05.720]  I understand.
+
+[04:05.720 --> 04:06.720]  I just...
+
+[04:06.720 --> 04:17.240]  Did you take a look at the exhibit B to our response to the exceptions, which contains
+
+[04:17.240 --> 04:23.280]  every single thing that an auctioneer's affidavit would need to have contained, including what
+
+[04:23.280 --> 04:32.040]  you're requesting right now, is just affidavit by the person that did the auction.
+
+[06:17.240 --> 06:41.040]  I'm sorry, Mr. Cole, I think I was looking at something else.
+
+[06:41.040 --> 07:10.840]  No, I'm actually looking at it now.
+
+[09:10.840 --> 09:29.520]  Okay.
+
+[09:29.520 --> 09:34.040]  Would not the substitute trustees be affiliated with Wells Fargo?
+
+[09:34.040 --> 09:39.440]  Which paragraph are you talking about?
+
+[09:39.440 --> 09:40.440]  Five.
+
+[09:40.440 --> 09:51.360]  They're talking about Daniel Dreyfus's... are we affiliated?
+
+[09:51.360 --> 09:52.360]  They've...
+
+[09:52.360 --> 09:55.480]  It's a substitute trustee.
+
+[09:55.480 --> 10:02.640]  Is the substitute trustee not affiliated with Wells Fargo?
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:08.060]  I mean, they're a client of ours, I think they're talking about any of my Daniel Dreyfus'
+
+[00:08.060 --> 00:10.380]  company or anything like that.
+
+[00:10.380 --> 00:14.220]  Well, Daniel Dreyfus here is a substitute trustee.
+
+[00:14.220 --> 00:15.220]  Right.
+
+[00:15.220 --> 00:17.220]  Signed this as a substitute trustee.
+
+[00:17.220 --> 00:23.660]  They were appointed as, as, as well as, affiliated with Wells Fargo.
+
+[00:23.660 --> 00:25.180]  Appointed by Wells Fargo.
+
+[00:26.180 --> 00:32.460]  Okay, you keep using that term as if to say that when they were appointed by Wells Fargo,
+
+[00:32.460 --> 00:36.940]  there's not, that they are not affiliated with Wells Fargo.
+
+[00:36.940 --> 00:42.340]  Well, I don't, you can't, you're going up.
+
+[00:42.340 --> 00:47.180]  Where does the statute say you need to go down in affiliation?
+
+[00:47.180 --> 00:49.780]  It doesn't, but it doesn't make sense to go up.
+
+[00:49.780 --> 00:52.860]  I'm trying to give you the purpose of the statute.
+
+[00:52.860 --> 00:53.860]  Why would not?
+
+[00:53.860 --> 01:02.940]  If, if I hire someone to do some work for me and then the statute wants to make sure
+
+[01:02.940 --> 01:11.580]  that the person that's doing the work for me is not in some way affiliated with me because
+
+[01:11.580 --> 01:17.780]  I want to make sure that the statute wants to make sure that the person conducting this
+
+[01:17.780 --> 01:24.800]  auction doesn't in some way have an interest in the property that you would have some unfair
+
+[01:24.800 --> 01:25.800]  dealings.
+
+[01:25.800 --> 01:27.300]  Isn't that the purpose of the statute?
+
+[01:27.300 --> 01:31.500]  No, it's not to make sure that the lender doesn't have an interest in the auction.
+
+[01:31.500 --> 01:32.500]  No.
+
+[01:32.500 --> 01:37.500]  It's to make sure that the auctioneer or any person affiliated with the auctioneer.
+
+[01:37.500 --> 01:42.380]  So the lender has an interest in every auction.
+
+[01:42.380 --> 01:45.860]  The way that you're reading it, respectfully, it doesn't make any sense.
+
+[01:45.860 --> 01:51.020]  The lender is interested in every auction, foreclosure auction because they're waiting
+
+[01:51.020 --> 01:52.020]  to get the proceeds.
+
+[01:52.020 --> 01:53.520]  No, I didn't say interested.
+
+[01:53.520 --> 01:56.060]  I said affiliated with.
+
+[01:56.060 --> 02:01.980]  The lender is not always affiliated with the auctioneer.
+
+[02:01.980 --> 02:07.660]  Well they hire the trustee and then the trustee hires the auctioneer that the lender pays
+
+[02:07.660 --> 02:13.180]  the auctioneer fees and then we seek recruitment from that on the audit.
+
+[02:13.180 --> 02:18.340]  This is the same in every single foreclosure case.
+
+[02:18.340 --> 02:20.060]  These are recoverable advances.
+
+[02:20.060 --> 02:26.340]  Every foreclosing lender is paying the cost of collection that we then show the court
+
+[02:26.340 --> 02:27.840]  auditor and they approve.
+
+[02:27.840 --> 02:34.740]  I'm going to tell you that I have some questions here because just because you are paying out
+
+[02:34.740 --> 02:49.620]  some money here doesn't necessarily mean you are affiliated with but it's...
+
+[02:49.620 --> 02:59.900]  I am questioning the close nature of Wells Fargo and the person that conducted the auction
+
+[02:59.900 --> 03:16.180]  and then saying that Wells Fargo appointed me to handle this matter but neither of us
+
+[03:16.180 --> 03:23.900]  are affiliated in any manner that we would have a direct or indirect interest in the property
+
+[03:23.900 --> 03:38.460]  sold other than of course the lawful and agreed upon fee for conducting the sale.
+
+[03:38.460 --> 03:46.020]  I feel like that this part of the statute is there to make sure that the person conducting
+
+[03:46.020 --> 03:53.220]  the sale really is only associated with the sale to the extent of I'm getting a fee for
+
+[03:53.220 --> 03:54.220]  conducting the auction.
+
+[03:54.220 --> 03:55.220]  Right.
+
+[03:55.220 --> 04:03.220]  They don't have a side deal with Wells Fargo to sell it again.
+
+[04:03.220 --> 04:06.020]  I don't know that that's what it says.
+
+[04:06.020 --> 04:07.820]  Well we cited the rules for your report.
+
+[04:07.820 --> 04:14.620]  I have the other report I can hand up and I explain the purpose of the statute.
+
+[04:14.620 --> 04:19.060]  It was enacted in 2021.
+
+[04:19.060 --> 04:21.260]  I don't follow.
+
+[04:21.260 --> 04:28.220]  The court was initially concerned with the fact that Daniel Dreyfus had a side deal to
+
+[04:28.220 --> 04:34.660]  resell the property after this sale and now it does...is Daniel Dreyfus affiliated with
+
+[04:34.660 --> 04:37.500]  his client of his law firm?
+
+[04:37.500 --> 04:46.060]  What's funny is that there's a committee note there under section that specifically says
+
+[04:46.060 --> 04:51.620]  that the trustee is not prohibited from hiring an auctioneer.
+
+[04:51.620 --> 04:57.500]  I would just think that it would also indicate that the trustee is not prohibited from being
+
+[04:57.500 --> 05:01.220]  the auctioneer if that were the case.
+
+[05:01.220 --> 05:07.980]  There's a very specific language in the committee note to what you're actually saying.
+
+[05:07.980 --> 05:08.980]  Right.
+
+[05:08.980 --> 05:11.340]  And that's what we did.
+
+[05:11.340 --> 05:15.060]  That the trustee can hire an auctioneer.
+
+[05:16.060 --> 05:17.060]  Right.
+
+[05:17.060 --> 05:22.060]  But now you're saying that this also says the trustee can hire itself to be the auctioneer.
+
+[05:22.060 --> 05:23.060]  He's not hired.
+
+[05:23.060 --> 05:27.060]  He's just a trustee.
+
+[05:27.060 --> 05:30.060]  He's not hiring himself.
+
+[05:30.060 --> 05:31.060]  The auctioneer was there.
+
+[05:31.060 --> 05:32.060]  They're like, we're not doing the sale.
+
+[05:32.060 --> 05:34.060]  We have a trustee at the sales.
+
+[05:34.060 --> 05:36.060]  He stood up, read the advertisement.
+
+[05:36.060 --> 05:38.060]  He says exactly what he did on behalf of David.
+
+[05:38.060 --> 05:43.060]  I know what it says he did and I'm looking at what the rule says he can and can't do.
+
+[05:43.060 --> 05:53.060]  Well, at least what he should have done under the affidavit and I have questions about the
+
+[05:53.060 --> 05:56.060]  trustee acting as the auctioneer.
+
+[05:56.060 --> 05:57.060]  Okay.
+
+[05:57.060 --> 06:02.060]  What questions do you have about that?
+
+[06:02.060 --> 06:07.060]  I'm questioning whether the trustee can act as the auctioneer.
+
+[06:08.060 --> 06:15.060]  Do you have some case law or statute that says that the trustee can act as the auctioneer?
+
+[06:15.060 --> 06:17.060]  That's my question, sir.
+
+[06:17.060 --> 06:18.060]  That's my question.
+
+[06:18.060 --> 06:23.060]  Do you have case law or some statute that says that can happen?
+
+[06:23.060 --> 06:25.060]  There's not a statute.
+
+[06:25.060 --> 06:31.060]  There's case law where trustees have sold the property themselves at auction.
+
+[06:31.060 --> 06:36.060]  And was that an issue in the case?
+
+[06:36.060 --> 06:43.060]  Because if the person never makes issue of it, what does it matter that there's case law?
+
+[06:43.060 --> 06:45.060]  Let's just...
+
+[06:45.060 --> 06:53.060]  I don't concede this point but just taking it, pretending that I have, it's still not a valid
+
+[06:53.060 --> 07:00.060]  exception unless Mr. Shatz can show that it caused the property to be sold for an inadequate price.
+
+[07:00.060 --> 07:01.060]  Okay.
+
+[07:01.060 --> 07:04.060]  So, I don't even think we really need...
+
+[07:04.060 --> 07:09.060]  It's interesting but I don't even think we need to get there unless you can make that show.
+
+[07:25.060 --> 07:28.060]  And the burden is on him.
+
+[07:28.060 --> 07:31.060]  I mean, I don't have the...
+
+[07:31.060 --> 07:35.060]  The law says that foreclosures are presumed valid.
+
+[07:35.060 --> 07:41.060]  I can't, in an exceptions hearing, I don't think the correct procedure is for me to get up first
+
+[07:41.060 --> 07:44.060]  and try to support everything that we've done.
+
+[07:44.060 --> 07:50.060]  You jumped up when I may try to shorten the...
+
+[07:50.060 --> 07:53.060]  Well, it's very long but...
+
+[07:53.060 --> 07:58.060]  On the exceptions part, I tried to shorten the issue that the court was having.
+
+[07:58.060 --> 08:06.060]  I did want him to go first and I do still think we don't even need to get into this unless he can satisfy his burden.
+
+[08:06.060 --> 08:08.060]  I didn't stop him from getting up first.
+
+[08:08.060 --> 08:09.060]  You kind of just...
+
+[08:09.060 --> 08:12.060]  I'll sit down and let him see if he can.
+
+[08:12.060 --> 08:14.060]  Mr. Shatz...
+
+[08:14.060 --> 08:16.060]  I'm just waiting on that.
+
+[08:16.060 --> 08:22.060]  Mr. Shatz, what's the issue on the...
+
+[08:22.060 --> 08:24.060]  On the property being sold?
+
+[08:24.060 --> 08:26.060]  There's several, Your Honor.
+
+[08:26.060 --> 08:31.060]  Let's get by this issue of the trustee being the auctioneer.
+
+[08:31.060 --> 08:35.060]  Which is clearly an issue.
+
+[08:35.060 --> 08:40.060]  Outside of that issue is the...
+
+[08:40.060 --> 08:46.060]  Just the general manner in which the sale was conducted.
+
+[08:46.060 --> 08:55.060]  I spoke with the office of a BWW law group the morning of the sale.
+
+[08:55.060 --> 09:05.060]  And this will actually go to that relationship between the trustees and Wells Fargo.
+
+[09:05.060 --> 09:11.060]  Okay, tell me what happened because you're about to get right back into what I just told you.
+
+[09:11.060 --> 09:15.060]  Stop, please.
+
+[09:15.060 --> 09:26.060]  I want to know what the problem is with the sale, aside from the trustee acting as the auctioneer.
+
+[09:26.060 --> 09:28.060]  Yeah, sure.
+
+[09:28.060 --> 09:36.060]  Well, Fargo directed that the trustees specifically to proceed with the sale.
+
+[09:36.060 --> 09:43.060]  When I spoke with BWW that morning, I was just talking to...
+
+[09:43.060 --> 09:50.060]  I can't remember what you were saying, Brian, I believe, who was a managing partner at BWW.
+
+[09:50.060 --> 09:55.060]  And I said, you know, I agree with you guys trying to push this sale today.
+
+[09:55.060 --> 09:57.060]  Okay, what does it matter?
+
+[09:57.060 --> 10:00.060]  They didn't conduct the sale.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:05.600]  that Wells Fargo is the deciding factor as to what they do, which means they sort of
+
+[00:05.600 --> 00:06.600]  breached their tradition.
+
+[00:06.600 --> 00:12.200]  Okay, they didn't conduct the sale.
+
+[00:12.200 --> 00:14.960]  At least the auctioneer didn't.
+
+[00:14.960 --> 00:17.560]  And you're saying that Wells Fargo breached their duty?
+
+[00:17.560 --> 00:21.600]  Well, Fargo told the trustees, go do it anyway.
+
+[00:21.600 --> 00:24.880]  Go, they were the influencers, say.
+
+[00:24.880 --> 00:28.840]  Okay, and let's say that's what they did, and I find fine, they influenced the trustee
+
+[00:28.840 --> 00:31.060]  to go ahead and make the sale.
+
+[00:31.060 --> 00:32.560]  Tell me the problem with the sale.
+
+[00:32.560 --> 00:38.840]  Well, that's probably because there was a lot of contention around the sale itself.
+
+[00:38.840 --> 00:42.800]  Okay, again, you're not listening to me, sir.
+
+[00:42.800 --> 00:44.080]  We're past that.
+
+[00:44.080 --> 00:47.160]  I said, let's assume that's fine.
+
+[00:47.160 --> 00:49.160]  That's what they did.
+
+[00:49.160 --> 00:50.840]  What was the problem with the sale?
+
+[00:50.840 --> 00:54.280]  Do you mean the manner in which it was conducted or the sale in general?
+
+[00:54.280 --> 01:01.880]  I mean, because the argument is that, let's say they use Scooby-Doo to come in and do
+
+[01:01.880 --> 01:02.880]  the auction.
+
+[01:02.880 --> 01:08.880]  And Scooby-Doo is actually the dog of the owner of Wells Fargo.
+
+[01:08.880 --> 01:14.880]  Well, I guess it would depend on whether, well, trained he is here.
+
+[01:14.880 --> 01:20.960]  Okay, let's say he's not trained at all, and he stood up there and he conducted the sale.
+
+[01:20.960 --> 01:26.680]  And different people decided to bid on the property.
+
+[01:26.680 --> 01:31.880]  And the last highest bid was the bid that was accepted.
+
+[01:31.880 --> 01:33.880]  What's the problem with the sale?
+
+[01:33.880 --> 01:38.440]  Well, first of all, there were no bids on the sale at all.
+
+[01:38.440 --> 01:41.160]  The only bid was the lender.
+
+[01:41.160 --> 01:44.840]  Was it advertised to be auctioned off?
+
+[01:44.840 --> 01:48.640]  Was it advertised to be auctioned by a licensed auctioneer?
+
+[01:48.640 --> 01:49.640]  Okay.
+
+[01:49.640 --> 01:57.800]  And again, if it was advertised to be auctioned, does that mean that anyone who saw the advertisement
+
+[01:57.800 --> 02:01.000]  was available to come and bid on the property?
+
+[02:01.000 --> 02:05.320]  I know that some people that saw the advertisement were.
+
+[02:05.320 --> 02:06.320]  Okay.
+
+[02:06.320 --> 02:09.760]  Which means people were able to come and bid on the property.
+
+[02:09.760 --> 02:12.320]  They did not, if you're honest.
+
+[02:12.320 --> 02:18.760]  Well, again, it doesn't matter to me that they didn't bid unless you're telling me that
+
+[02:18.760 --> 02:24.560]  while Wells Fargo's trustee was standing there, the trustee said, you, you and you
+
+[02:24.560 --> 02:28.760]  can't bid on this property, or something else happened.
+
+[02:28.760 --> 02:36.760]  Well, they didn't recite the fact that there was a $41,000 lien on the property, and that
+
+[02:36.760 --> 02:39.320]  was something that chilled the bid.
+
+[02:39.320 --> 02:48.080]  People were aware of that fact, and aware of the fact that they didn't say anything about
+
+[02:48.080 --> 02:51.400]  it in their advertisement, or there was recitation.
+
+[02:51.400 --> 02:52.840]  I was standing there, Your Honor.
+
+[02:52.840 --> 02:56.360]  I watched the sale, you know.
+
+[02:56.360 --> 03:03.600]  So why didn't they announce to the, you know, bona fide buyers, oh, by the way, there's
+
+[03:03.600 --> 03:08.160]  a $41,000 lien on this property that you're going to be buying as well.
+
+[03:08.160 --> 03:11.920]  So, you know, there aren't serious issues.
+
+[03:11.920 --> 03:18.360]  Are you indicating that more people would have come to the, to bid on the property had
+
+[03:18.360 --> 03:23.000]  they known that there was a $41,000 lien on it before?
+
+[03:23.000 --> 03:26.480]  Your Honor, of course, of course, not more people would have come.
+
+[03:26.480 --> 03:33.880]  So as a result of the, according to you, as a result of them not including that in the
+
+[03:33.880 --> 03:40.640]  advertisement, more people showed up than would have if they had included a $41,000 lien.
+
+[03:40.640 --> 03:41.640]  Absolutely.
+
+[03:41.640 --> 03:46.160]  So who, I don't think anyone would show up if they were offering at that price, it said,
+
+[03:46.160 --> 03:47.160]  oh, by the way.
+
+[03:47.160 --> 03:51.160]  Except for someone who could afford the property with a $41,000 lien.
+
+[03:51.160 --> 03:52.160]  Sure.
+
+[03:52.160 --> 03:56.600]  I mean, if, but that, you've, you've kind of put yourself into the, into the red there.
+
+[03:56.600 --> 04:01.720]  I mean, what do you want to buy a, you know, a house for the, the, they, you know, they
+
+[04:01.720 --> 04:04.760]  were selling it as if there was no lien on the house.
+
+[04:04.760 --> 04:09.320]  They, they, they were, you know, the price that, so anybody would have bought that, they,
+
+[04:09.320 --> 04:13.360]  oh, by the way, you just tack $40,000 on to your price.
+
+[04:13.360 --> 04:14.360]  You know.
+
+[04:14.360 --> 04:17.360]  Well, I just thought about something for, you know, $200,000.
+
+[04:17.360 --> 04:19.840]  And what about that was irregular?
+
+[04:19.840 --> 04:25.160]  Well, first of all, they're supposed to give notice to the, to the junior lien holders.
+
+[04:25.160 --> 04:29.880]  They never gave any, any notice to the junior lien holders and, and they were supposed to
+
+[04:29.880 --> 04:31.720]  give that affidavit as well prior to that.
+
+[04:31.720 --> 04:34.840]  You have standing to do what with respect to the lien holders?
+
+[04:34.840 --> 04:36.120]  I'm sorry, Your Honor?
+
+[04:36.120 --> 04:39.440]  You have standing to do what with respect to the lien holders?
+
+[04:39.440 --> 04:40.920]  I have standing to do what with respect to the lien holders?
+
+[04:40.920 --> 04:44.040]  What standing do you have with respect to the lien holders?
+
+[04:44.040 --> 04:51.280]  None, Your Honor, but I, I do have, I have the, the law, in this case that, that says
+
+[04:51.280 --> 04:56.720]  that they have, you know, sorry, the law of Maryland says they need to give notice to
+
+[04:56.720 --> 04:57.720]  the lien holders.
+
+[04:57.720 --> 04:58.720]  You know.
+
+[04:58.720 --> 05:04.160]  So you have standing, Your Honor, to say, why didn't you notice the lien holders?
+
+[05:04.160 --> 05:06.280]  And that's something that's just a matter of fact.
+
+[05:06.280 --> 05:09.120]  How did that affect the sale?
+
+[05:09.120 --> 05:11.120]  How did, how did it affect the sale?
+
+[05:11.120 --> 05:12.120]  I mean.
+
+[05:12.120 --> 05:13.120]  Yes, sir.
+
+[05:13.120 --> 05:17.120]  That's a good, that's a good question, Your Honor.
+
+[05:17.120 --> 05:18.120]  Do you have an answer for me?
+
+[05:18.120 --> 05:19.120]  How did it affect the sale?
+
+[05:19.120 --> 05:27.840]  Um, yes, yes, Your Honor, if, if, if they had noticed the, the lien holder, the lien
+
+[05:27.840 --> 05:29.840]  holder may have stepped in.
+
+[05:29.840 --> 05:31.080]  To do what?
+
+[05:31.080 --> 05:35.040]  The bid more than what the bid, the closing bid was?
+
+[05:35.040 --> 05:36.040]  Correct.
+
+[05:36.040 --> 05:38.040]  And they have a, they have a rate of redemption as well.
+
+[05:38.040 --> 05:44.280]  The bid holder's only interest is in the 41,000, I'm sorry, the lien holder's interest
+
+[05:44.280 --> 05:47.840]  is to the extent of the $41,000, correct?
+
+[05:47.840 --> 05:51.120]  I mean, they, they made me, I can't say what they, are you telling me that the property
+
+[05:51.120 --> 05:53.800]  sold for less than the lien that was on the property?
+
+[05:53.800 --> 05:56.560]  No, it didn't sell for less than a million.
+
+[05:56.560 --> 05:57.560]  No.
+
+[05:57.560 --> 06:03.040]  And you would agree that anyone who purchases would be subject to paying that lien?
+
+[06:03.040 --> 06:08.720]  Absolutely, which would increase their price, but that lien isn't to me, it's to the federal
+
+[06:08.720 --> 06:09.720]  government.
+
+[06:09.720 --> 06:12.480]  So, it's not going to the price that I'm paying.
+
+[06:12.480 --> 06:16.320]  You don't have standing to argue stuff that the federal government would have standing
+
+[06:16.320 --> 06:17.320]  to argue, sir?
+
+[06:17.320 --> 06:18.320]  I don't, Your Honor.
+
+[06:18.320 --> 06:21.640]  I, I, I, I'll hear whatever other arguments you have.
+
+[06:21.640 --> 06:28.640]  I'm sure it's giving me one more.
+
+[06:28.640 --> 06:41.640]  Um, that's, Your Honor, I, you know, I, I guess I say, I, I have a lot to say about
+
+[06:41.640 --> 06:47.640]  the, the, you know, the facts of the matter of, of, of these, to trustee as an auctioneer.
+
+[06:47.640 --> 06:52.640]  That is definitely an issue that I have some things that I'd like to be heard on.
+
+[06:52.640 --> 07:00.640]  Um, I'd also say that the standard, um, the standard, um, for the, you know, the standard
+
+[07:00.640 --> 07:08.640]  for, for vacating, um, a sale when the, um, property is sold back to the, to the bank
+
+[07:08.640 --> 07:15.640]  when it's an RDO, is, um, that, uh, jealous scrutiny and, uh, Marilyn Lawl says that
+
+[07:15.640 --> 07:20.640]  when the mortgagee purchases the property at their own sales, the courts should examine
+
+[07:20.640 --> 07:27.640]  the sale closely with jealous scrutiny and that, uh, uh, it, it takes only a slight amount
+
+[07:27.640 --> 07:33.640]  of evidence of irregularity to vacate that, that sale.
+
+[07:33.640 --> 07:41.640]  So it's not the same standard as, um, a, a usual sale to a bonafide buyer.
+
+[07:41.640 --> 07:43.640]  A sale to a bonafide buyer.
+
+[07:43.640 --> 07:44.640]  Mr. Schatz?
+
+[07:44.640 --> 07:45.640]  Yes.
+
+[07:45.640 --> 07:48.640]  Uh, uh, because we could go here all day.
+
+[07:48.640 --> 07:54.640]  Your exception once said that the sale is void because the interested trustee acted as
+
+[07:54.640 --> 07:55.640]  the auctioneer.
+
+[07:55.640 --> 07:56.640]  Yes, sir.
+
+[07:56.640 --> 08:02.640]  Uh, what case law or statutory position do you have to tell me that I should void this
+
+[08:02.640 --> 08:06.640]  sale because the trustee acted in place of the auctioneer?
+
+[08:06.640 --> 08:12.640]  Because, um, the, the auctioneer cannot, as this trustee as an auctioneer cannot file
+
+[08:12.640 --> 08:21.640]  a, a truthful, um, non-perjurious, um, affidavit of auctioneer because he can't, he can't say
+
+[08:21.640 --> 08:25.640]  that he has no direct or indirect interest in the property sold.
+
+[08:25.640 --> 08:26.640]  Okay.
+
+[08:26.640 --> 08:27.640]  And let's assume he does.
+
+[08:27.640 --> 08:28.640]  He does have a direct interest.
+
+[08:28.640 --> 08:29.640]  Let's assume he does.
+
+[08:29.640 --> 08:31.640]  Let's assume I find that he does.
+
+[08:31.640 --> 08:38.640]  Tell me what, what case law or statutory law you have that says I should void this sale
+
+[08:38.640 --> 08:39.640]  because of that?
+
+[08:39.640 --> 08:44.640]  Um, because that would be a, a slight amount of evidence of irregularity, Your Honor.
+
+[08:44.640 --> 08:51.640]  Um, and that the trustee with interest in the property, you know, committed the sale.
+
+[08:51.640 --> 08:52.640]  Okay.
+
+[08:52.640 --> 08:53.640]  Okay.
+
+[08:53.640 --> 09:12.640]  What about the sale was conducted unfairly because the trustee did the sale?
+
+[09:12.640 --> 09:16.640]  Well, the trustee was aware of that lien and when challenged about it.
+
+[09:16.640 --> 09:17.640]  Was aware of that what?
+
+[09:17.640 --> 09:26.640]  He was aware of the lien, the, the, um, the unannounced lien and didn't, you know, announce
+
+[09:26.640 --> 09:27.640]  it.
+
+[09:27.640 --> 09:34.640]  And, and, you know, Mr. Cohen said that, you know, he didn't do anything that the, a regular
+
+[09:34.640 --> 09:41.640]  auctioneer wouldn't do, but he did do something that the auctioneer didn't do, which is to
+
+[09:41.640 --> 09:43.640]  conduct the sale.
+
+[09:43.640 --> 09:50.640]  There's a reason that the auctioneer didn't conduct the sale is because they didn't want
+
+[09:50.640 --> 09:52.640]  a part of that.
+
+[09:52.640 --> 09:59.640]  And so the trustee shows his interest there in, in doing Wells Fargo bidding.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:06.720]  you know, to push this sale out today, because, you know, I believe that, you know, they pushed
+
+[00:06.720 --> 00:14.560]  that sale so fast, so quickly, because they knew that, you know, that they've got to get
+
+[00:14.560 --> 00:18.200]  the same before, like, you know, they're sort of exposed on a lot of other issues.
+
+[00:18.200 --> 00:19.200]  Okay.
+
+[00:19.200 --> 00:23.560]  Your exception, number two, was that the sale was commercially unreasonable and the bidding
+
+[00:23.560 --> 00:24.560]  was chilled.
+
+[00:24.560 --> 00:29.280]  It was, Your Honor, there were people who would have otherwise bid on the property that
+
+[00:29.280 --> 00:35.800]  didn't bid on it when they were aware of the facts of the case, you know, if there
+
+[00:35.800 --> 00:39.480]  was a lease pendant on the land records.
+
+[00:39.480 --> 00:40.880]  Wait, wait, what?
+
+[00:40.880 --> 00:43.880]  What people would have bid on this property otherwise?
+
+[00:43.880 --> 00:48.040]  Your Honor, I, and gentlemen came to my back door the day before the sale, came up to
+
+[00:48.040 --> 00:52.400]  my back door, I was like, you know, alarmed at this person, I said, who are you?
+
+[00:52.400 --> 00:54.560]  And he's like, oh, I'm really sorry.
+
+[00:54.560 --> 00:56.480]  I'm a real project of it to your side.
+
+[00:56.600 --> 01:04.640]  Hey, Your Honor, it's not your sale, it's my stop, okay.
+
+[01:04.640 --> 01:09.080]  Someone else would have bid on this property, but for what?
+
+[01:09.080 --> 01:15.000]  But for the knowledge of what was the fraud in this case, Your Honor, first of all, and
+
+[01:15.000 --> 01:16.880]  secondly of the fact that there was a lien.
+
+[01:16.880 --> 01:19.320]  And who was told about this fraud?
+
+[01:19.320 --> 01:20.560]  How did they find out about the fraud?
+
+[01:20.560 --> 01:23.040]  I mean, I talked to that gentleman when he came to my door.
+
+[01:23.040 --> 01:25.120]  So you talked this person out of the sale?
+
+[01:25.160 --> 01:28.560]  I didn't talk him out of the sale, but he didn't bid, and he came to me.
+
+[01:28.560 --> 01:32.080]  Well, actually he told me that I don't, I just look at these properties.
+
+[01:32.080 --> 01:34.480]  But he was there.
+
+[01:34.480 --> 01:36.560]  Why was it commercially unreasonable, sir?
+
+[01:45.920 --> 01:54.640]  The thing of a duty to, well, it's, it was uninsurable.
+
+[01:54.640 --> 02:02.960]  You know, there was a pending appeal at that time, you know,
+
+[02:02.960 --> 02:05.720]  so they probably should have conducted the sale at all.
+
+[02:05.720 --> 02:15.160]  There was a pending emergency 14211 that, you know, alleged on its face something
+
+[02:15.160 --> 02:20.360]  that would have required a hearing, and at least they stayed until a hearing.
+
+[02:20.360 --> 02:23.400]  This issue of criminal forgery was heard by me.
+
+[02:23.400 --> 02:24.520]  Was it not?
+
+[02:25.520 --> 02:30.760]  Did you not argue, am I mistaken, counsel, that there was this issue of forgery
+
+[02:30.760 --> 02:36.680]  on the note argued before, and I actually looked at the note in the prior hearing
+
+[02:36.680 --> 02:39.120]  to compare it to some signatures?
+
+[02:41.680 --> 02:43.960]  It was a separate issue.
+
+[02:43.960 --> 02:48.120]  We had talked about it in the courtroom last time we were here.
+
+[02:48.120 --> 02:52.520]  That was an issue that I said did not have to do with the trustee.
+
+[02:52.520 --> 03:02.680]  And that was an issue that had to do with MDEC and the ways that MDEC processes the file
+
+[03:02.680 --> 03:10.440]  in the note, however, in that motion, in that 14211, after that deal, after November 4th,
+
+[03:10.440 --> 03:16.360]  you know, I discovered a lot more about that note and the nature of it.
+
+[03:16.360 --> 03:18.880]  And there was a lot going on with that note.
+
+[03:18.880 --> 03:20.960]  It was a very layered document.
+
+[03:20.960 --> 03:22.800]  It could not have been a scan.
+
+[03:22.800 --> 03:27.160]  Okay, I am looking at what you filed, and that is what we are going on.
+
+[03:27.160 --> 03:32.640]  You said that the sale was commercially unreasonable and the bidding was chilled.
+
+[03:32.640 --> 03:38.440]  And you said that in conducting the sale, it was by an interested party an issue
+
+[03:38.440 --> 03:41.960]  that I've already heard enough of.
+
+[03:41.960 --> 03:48.360]  It was done while allegations of criminal forgery were pending subcuria and on appeal.
+
+[03:48.360 --> 03:53.280]  Subcuria, I assume you meant that I was holding some motions open?
+
+[03:53.280 --> 03:56.200]  I'm just going off of what the hearing sheet said.
+
+[03:56.200 --> 03:59.960]  And you're referring to your appeal that was dismissed?
+
+[03:59.960 --> 04:03.880]  That appeal was not at that time dismissed, so.
+
+[04:03.880 --> 04:08.040]  Sir, you're referring to that appeal that has now been dismissed?
+
+[04:08.040 --> 04:08.960]  I am referring to that.
+
+[04:08.960 --> 04:10.360]  Okay.
+
+[04:10.360 --> 04:18.440]  And under a publicized cloud of fraud,
+
+[04:18.440 --> 04:24.440]  be guaranteed a depressed price?
+
+[04:24.440 --> 04:25.360]  Right, Your Honor.
+
+[04:25.360 --> 04:31.520]  So with everything that's going on in the case and them just trying to jam this sale in,
+
+[04:31.520 --> 04:39.440]  and then, you know, you have to imagine, here is the Alex Cooper auctioneer standing next to a trustee.
+
+[04:39.440 --> 04:43.920]  And he says, hey, we're not doing this property, you know.
+
+[04:43.920 --> 04:46.760]  And that's that, you know, is that what happened?
+
+[04:46.760 --> 04:47.120]  Yeah.
+
+[04:47.120 --> 04:50.080]  Did that Alex Cooper stand up there?
+
+[04:50.080 --> 04:51.160]  Stop, sir.
+
+[04:51.160 --> 04:59.440]  I'm going to ask the council, did Alex Cooper stand up at the auction next to your trustee
+
+[04:59.440 --> 05:06.200]  and say, hey, folks, we are not conducting this auction and give a reason?
+
+[05:06.200 --> 05:07.080]  Is that what happened?
+
+[05:07.080 --> 05:15.040]  No, I think what happened was that they were there, but they stood aside and they didn't make an announcement like that.
+
+[05:15.040 --> 05:22.400]  Mr. Schatz, was there handing out flyers to bidders that we would attach a copy of one to our opposition to the exceptions,
+
+[05:22.400 --> 05:27.800]  saying fraud, forgery, criminal?
+
+[05:27.800 --> 05:31.720]  Mr. Schatz, did you hand out that document to people that were there?
+
+[05:31.720 --> 05:33.080]  I did, Your Honor.
+
+[05:33.080 --> 05:38.360]  And there's nothing untruthful about it.
+
+[05:38.360 --> 05:40.960]  OK.
+
+[05:40.960 --> 05:51.320]  And, Your Honor, you know, the Alex Cooper auctioneer did say that we're not doing this sale, that the trustees are doing this sale.
+
+[05:51.320 --> 05:55.640]  So if there was, you know, to a bidder standing there, there's a lot going on.
+
+[05:55.640 --> 05:58.760]  Why isn't the auctioneer doing the sale?
+
+[05:58.760 --> 06:10.880]  Do you have anything here to present to me, sir, to tell me that the price, the bid upon price or the winning bid was somehow affected by those things,
+
+[06:10.880 --> 06:16.000]  or wasn't a winning bid that was appropriate, fair, reasonable?
+
+[06:16.000 --> 06:17.440]  It wasn't, Your Honor.
+
+[06:17.440 --> 06:20.840]  The house is valued at over twice the bid.
+
+[06:20.840 --> 06:21.840]  OK.
+
+[06:21.840 --> 06:27.840]  You're not, well, when the case is at an auction, you're not going to get what the house is valued for, sir.
+
+[06:27.840 --> 06:28.840]  Sure.
+
+[06:28.840 --> 06:36.960]  But, you know, I would say that that is a price that kind of shocks the conscience, because it could have brought a lot more, and they were supposed to conduct a sale.
+
+[06:36.960 --> 06:42.400]  While you were out there giving out documents to discourage people from bidding.
+
+[06:42.400 --> 06:45.600]  I didn't, Your Honor, those were factual documents.
+
+[06:45.600 --> 06:46.600]  I didn't say that.
+
+[06:46.600 --> 06:49.480]  I'm not saying that they weren't factual, you can call them what you want.
+
+[06:49.480 --> 06:55.920]  Are you telling me that you passed out some documentation that encouraged people to bid on the home?
+
+[06:55.920 --> 06:59.440]  No, Your Honor, I didn't, but that wasn't my job to do.
+
+[06:59.440 --> 07:05.560]  Was it your job to pass out the other documents that you passed out, sir?
+
+[07:05.560 --> 07:17.400]  No, but I can speak freely in the country, and as long as I'm not, I didn't slander them, I didn't make any misrepresentation of fact in anything that I said to anyone.
+
+[07:17.400 --> 07:24.960]  The auctioneer quit with the bid before, and he did so because, you know, it's not big.
+
+[07:25.000 --> 07:26.480]  Why did the auctioneer quit?
+
+[07:26.480 --> 07:29.360]  Well, I think because they didn't want part of it.
+
+[07:29.360 --> 07:33.120]  You know, they didn't want to touch something that was this.
+
+[07:33.120 --> 07:37.920]  It was, you know, it shouldn't, that auction should not have completed.
+
+[07:37.920 --> 07:44.760]  And, you know, they, they were, they were, they paid, you know, advertisements through Alex Cooper.
+
+[07:44.760 --> 07:51.120]  You know, they paid Alex Cooper, so they, they had the name of Alex Cooper onto this sale.
+
+[07:51.120 --> 07:55.040]  But then the auctioneer didn't do the sale.
+
+[07:55.040 --> 08:08.440]  So if that in itself would have chilled the bidding, you know, if you could, if you show up to an auction and you're like, hey, wait, it says that Alex Cooper was doing this auction, but Alex, Alex Cooper isn't doing the auction.
+
+[08:08.440 --> 08:10.520]  It's a trustee doing it.
+
+[08:10.520 --> 08:14.960]  There's something that, that would chill the bidding in and of itself.
+
+[08:14.960 --> 08:31.080]  And, you know, that if, if I'm not out there saying, you know, anything that's lies or anything like that, you know, and so, you know, and, and these, there's some two trustees are supposed to conduct the sale as, as, as if they were me.
+
+[08:31.080 --> 08:40.080]  And so what I would, I conduct that sale, maybe I'd have waited and said, you know what, let's make sure that's, let's clear this up, you know, and that is their fiduciary duty.
+
+[08:40.080 --> 08:54.440]  And they continued on with the sale, knowing that there was all this stuff going on, that there was all this contention that hadn't been dealt with, and they still did sale and they did so in a highly irregular way.
+
+[08:54.480 --> 08:56.880]  While you were handing out buyer beware.
+
+[08:57.120 --> 08:59.280]  You know, I, I handed those to the sheriff.
+
+[08:59.280 --> 09:05.240]  I said, gentlemen, before I, before I handed anything to anyone, I gave them to the sheriff that were standing right there.
+
+[09:05.360 --> 09:05.600]  Okay.
+
+[09:05.600 --> 09:07.760]  And I said, this is why I'm here.
+
+[09:07.800 --> 09:08.880]  I'm the owner of the property.
+
+[09:09.160 --> 09:10.240]  This is what I have.
+
+[09:10.480 --> 09:11.880]  I don't want to disrupt it.
+
+[09:12.040 --> 09:13.000]  I don't want to be jaded.
+
+[09:13.000 --> 09:16.040]  And you handed it out to the other people that were there.
+
+[09:16.080 --> 09:16.560]  I did.
+
+[09:16.840 --> 09:17.160]  Okay.
+
+[09:18.640 --> 09:25.120]  Exception three, failure to notify necessary June, junior lien holders, I have addressed that issue.
+
+[09:26.800 --> 09:30.080]  The sale was predicated on a perjured affidavit.
+
+[09:30.120 --> 09:34.640]  That is something that we have addressed already a number of times.
+
+[09:35.240 --> 09:40.200]  And of course, plaintiff's lack standing.
+
+[09:40.200 --> 09:56.920]  We have addressed that a number of times as we have the chain of custody issue with Dorsch Bank.
+
+[09:59.720 --> 10:00.000]  Okay.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:02.040]  Okay, sir, what else would you like to tell me?
+
+[00:02.040 --> 00:07.480]  I would say lastly that that makes the sale highly irregular,
+
+[00:07.480 --> 00:17.360]  is that a sale can't be completed by a party that shouldn't be here in the first place.
+
+[00:17.360 --> 00:20.840]  If they weren't the holder of the note, they can't avoid the substitute trustees.
+
+[00:20.840 --> 00:24.800]  The substitute trustees can't conduct a sale that's regular.
+
+[00:24.800 --> 00:28.960]  So the sale in itself was, the entire case is highly irregular.
+
+[00:28.960 --> 00:38.400]  Because you have a party here that wasn't the holder of a note,
+
+[00:38.400 --> 00:43.840]  who has basically given up the claim of being holder of the note,
+
+[00:43.840 --> 00:49.480]  and now is arguing that they're bringing this case not under the note,
+
+[00:49.480 --> 00:53.440]  but under the deed of trust, without the benefit of the note.
+
+[00:53.440 --> 00:57.280]  And that they think that they can change the UCC,
+
+[00:57.280 --> 01:01.760]  so that they can foreclose on a note that they didn't possess.
+
+[01:01.760 --> 01:06.360]  And that is the irregularity itself,
+
+[01:06.360 --> 01:12.840]  is that the case is irregular in that it was brought by a plaintiff that shouldn't be here.
+
+[01:12.840 --> 01:15.400]  They didn't have to know they shouldn't be here.
+
+[01:15.400 --> 01:32.640]  And the standard for vacating the sale is far lower because of the fact that Zib Bank bought it back.
+
+[01:32.640 --> 01:39.640]  And more so that, you know, people didn't bid.
+
+[01:39.640 --> 01:47.000]  So, you know, if that property was, you know, if the bidding was chilled,
+
+[01:47.000 --> 01:52.440]  it was because people were aware of what the plaintiffs have done.
+
+[01:52.440 --> 01:55.880]  Not of like something that, you know, it's not like I said to others,
+
+[01:55.880 --> 01:58.360]  there's mold in the house or anything like that.
+
+[01:58.360 --> 02:01.160]  I said, look, this is what's going on in the case.
+
+[02:01.160 --> 02:04.200]  So it's their actions that chilled the bidding.
+
+[02:04.200 --> 02:07.640]  You know, that I make someone aware of their actions?
+
+[02:07.640 --> 02:09.760]  That doesn't mean that I chilled the bidding.
+
+[02:09.760 --> 02:10.800]  And that's their argument.
+
+[02:10.800 --> 02:15.760]  Like, no, your actions caused those things to be here.
+
+[02:15.760 --> 02:22.520]  They caused all the predicates that are on that document that were handed out.
+
+[02:22.520 --> 02:25.880]  There weren't things that I did that made the house, you know.
+
+[02:25.880 --> 02:27.680]  You know, I messed that house up.
+
+[02:27.680 --> 02:31.440]  Don't buy it because, you know, I took out the washing machine.
+
+[02:31.440 --> 02:35.280]  You know, I screwed up all the drywall or anything like that.
+
+[02:35.280 --> 02:40.000]  It was, no, these plaintiffs are here and there's an appeal going on,
+
+[02:40.000 --> 02:41.720]  which there was at the time.
+
+[02:41.720 --> 02:45.280]  You know, so if that chilled bidding, you know,
+
+[02:45.280 --> 02:48.480]  it's because there were things that were appealable.
+
+[02:48.480 --> 02:52.640]  And that, you know, it can't be said to have chilled the bidding.
+
+[02:52.640 --> 02:59.600]  You know, they, you know, and they barreled on at doing this sale instead of addressing
+
+[02:59.600 --> 03:04.680]  those issues first as a prudent man selling his home wood.
+
+[03:04.680 --> 03:05.800]  And that's their duty.
+
+[03:05.800 --> 03:11.160]  Their duty was to get the maximum price for the house.
+
+[03:11.160 --> 03:16.320]  So at any time, Your Honor, they could have, pardon me,
+
+[03:16.320 --> 03:20.000]  at any time they could have said, you know what, let's wait a second here.
+
+[03:20.000 --> 03:23.440]  Let's hold off, let's address these issues.
+
+[03:23.440 --> 03:25.480]  But, you know, if they're going to foreclose on me, Your Honor,
+
+[03:25.480 --> 03:27.000]  they're going to foreclose on me.
+
+[03:27.000 --> 03:31.400]  If they have, if they're going to be granted, you know,
+
+[03:31.400 --> 03:36.120]  or if they're going to succeed in this endeavor, it's going to happen.
+
+[03:36.120 --> 03:40.520]  You know, why couldn't they wait to address those issues?
+
+[03:40.520 --> 03:44.520]  And I think they can't wait to address those issues because I was not on their tail
+
+[03:44.520 --> 03:51.240]  on issues like the custodial agreement that, you know, have, I think,
+
+[03:51.240 --> 03:58.280]  to hear today shown that their theory of possession fails.
+
+[03:58.360 --> 04:02.960]  So if they didn't get this sale done before you saw this, you know,
+
+[04:02.960 --> 04:08.760]  and here we are after the sale, seeing the document and, Your Honor,
+
+[04:08.760 --> 04:13.800]  I would argue that this, pardon me, this custodial agreement,
+
+[04:13.800 --> 04:18.520]  it shows that they didn't have constructive possession of anything
+
+[04:18.520 --> 04:21.400]  and couldn't have had constructive possession of anything.
+
+[04:21.400 --> 04:27.240]  So if we would have seen this custodial agreement before the sale,
+
+[04:27.240 --> 04:31.320]  we wouldn't be arguing about it because we would have come to the conclusion
+
+[04:31.320 --> 04:39.480]  that they didn't have possession of the note and couldn't have filed this case.
+
+[04:39.480 --> 04:44.680]  And I think, Your Honor, I think that all the other issues really are irrelevant
+
+[04:44.680 --> 04:50.840]  because, you know, if they do foreclose on me, that will be the question.
+
+[04:50.840 --> 05:00.840]  Is Kenna Party in Maryland foreclosed on a home without possessing the note
+
+[05:00.840 --> 05:05.560]  that is a bearer instrument?
+
+[05:05.560 --> 05:10.120]  I don't see that you can do that in Maryland.
+
+[05:10.120 --> 05:15.800]  And I don't see that you can change the nature of bearer paper
+
+[05:15.800 --> 05:19.960]  with a custodial agreement.
+
+[05:20.040 --> 05:28.920]  They still weren't the holder, and they couldn't have brought this case.
+
+[05:28.920 --> 05:29.880]  Mr. Cohen.
+
+[05:29.880 --> 05:31.400]  Thank you.
+
+[05:31.400 --> 05:36.920]  Your Honor, I, with the judge's head as opportunity, there's no evidence
+
+[05:36.920 --> 05:41.800]  that the property would have sold for anything less or an inadequate price
+
+[05:41.800 --> 05:46.440]  as a result of any sort of actions that would constitute
+
+[05:46.440 --> 05:51.640]  or could possibly constitute a procedural irregularity of the sale.
+
+[05:51.640 --> 05:55.960]  As a result, I don't even think we need to reach the remainder of the issues.
+
+[05:55.960 --> 06:00.040]  I would just note that the deed of trust does give the trustee the power
+
+[06:00.040 --> 06:01.400]  to sell the property at auction.
+
+[06:01.400 --> 06:05.560]  It doesn't say anything about an auction here.
+
+[06:05.560 --> 06:07.800]  But regardless, I don't think we need to get there.
+
+[06:07.800 --> 06:12.920]  But I think that when we touched a little bit of base on this,
+
+[06:12.920 --> 06:17.080]  but this is a court of equity and a foreclosure case.
+
+[06:17.080 --> 06:23.320]  And when you take a look at why did the auctioneer step aside?
+
+[06:23.320 --> 06:31.160]  He boasts in a Facebook post that we attached to our response that he did that.
+
+[06:31.160 --> 06:33.080]  He forced the auctioneer into bail on us.
+
+[06:33.080 --> 06:36.920]  Why did people not bid any more than property?
+
+[06:36.920 --> 06:39.640]  I don't know that anybody would have bid more from the property
+
+[06:39.640 --> 06:42.520]  because there's no evidence that it was worth a lot more.
+
+[06:42.520 --> 06:46.120]  But we know that somebody came to his house and he told them about this criminal thing,
+
+[06:46.120 --> 06:51.800]  that he handed out flyers to bidders attempting to prevent them from bidding at the sale.
+
+[06:51.800 --> 06:54.840]  There's really no other inference that can be drawn from that,
+
+[06:54.840 --> 07:00.760]  other than the fact that for some reason, to his detriment,
+
+[07:00.760 --> 07:03.960]  he wanted the property not to be sold for any more.
+
+[07:03.960 --> 07:09.960]  Equity should not allow him to obtain a benefit as a result of his own actions
+
+[07:09.960 --> 07:14.760]  that he's taking to obstruct, to undermine our sale.
+
+[07:14.760 --> 07:18.840]  I think at this point, I mean I printed out the docket for this case.
+
+[07:18.840 --> 07:21.480]  It was 90 pages long yesterday.
+
+[07:21.480 --> 07:25.880]  I don't think there's any end in sight.
+
+[07:25.880 --> 07:34.360]  I think the post-sale advertisement expired on January 2nd is right to be ratified.
+
+[07:34.360 --> 07:39.160]  I really am asking your honor to sign the order attached to our response
+
+[07:39.160 --> 07:43.720]  to the exceptions denying all the filings to this date,
+
+[07:43.720 --> 07:48.920]  ratifying the sale, moving us to the next stage of the proceeding.
+
+[07:48.920 --> 07:54.040]  There's no reason to continually raise the same arguments over and over again
+
+[07:54.040 --> 07:58.840]  regarding standing, which is really, according to Mr. Schatz, nothing else matters,
+
+[07:58.840 --> 08:03.560]  but that you can't raise standing after the sale has occurred procedurally.
+
+[08:03.560 --> 08:07.960]  We have a case law on that in our response.
+
+[08:07.960 --> 08:12.520]  You can't argue a case for the United States as a junior lien holder.
+
+[08:12.520 --> 08:19.080]  In regardless, that exception doesn't even make any sense because junior liens were extinguished by our sale.
+
+[08:19.080 --> 08:24.600]  So it's not like somebody bought the property subject to the junior lien issue
+
+[08:24.600 --> 08:28.200]  and we provided copies of our notices attached to our response.
+
+[08:28.200 --> 08:31.640]  I really think that this is enough, Mr. Schatz's head.
+
+[08:31.640 --> 08:34.840]  Not just his day in court, but two days in court.
+
+[08:34.920 --> 08:42.680]  It's time to move this case forward in this and ratify the sale, please.
+
+[08:42.680 --> 08:44.680]  Your Honor, thank you.
+
+[09:05.800 --> 09:12.360]  First, on the issue as to whether Wells Fargo and I include the substitute trustees in this,
+
+[09:12.360 --> 09:19.960]  when I say that, had any right to make the sale based on possession of the note,
+
+[09:19.960 --> 09:28.920]  the court finds that Wells Fargo did possess the note and was the only party to which Mr. Schatz owed on this loan.
+
+[09:29.080 --> 09:36.600]  The court finds that the note was not transferred according to what Mr. Schatz has argued here.
+
+[09:36.600 --> 09:48.920]  I specifically refer to parts of this agreement between Wells Fargo and Deutsche Bank regarding holding of these notes.
+
+[09:50.920 --> 09:56.760]  On page eight of the agreement, Kastodian shall hold all mortgage documents received
+
+[09:56.760 --> 09:59.880]  by it constituting the Kastodian file for...
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:07.040]  the exclusive use and benefit of the owner shall make disposition thereof only in accordance
+
+[00:07.040 --> 00:09.080]  with this agreement.
+
+[00:09.080 --> 00:15.400]  On page 9, under Part C, the owner hereby acknowledges that custodians shall not be
+
+[00:15.400 --> 00:22.280]  responsible for the monitoring of the validity, priority, and perfection of the owner's security
+
+[00:22.280 --> 00:28.000]  interest in the mortgages and the mortgage loans here under.
+
+[00:28.000 --> 00:38.720]  Then on page 16, under Part E, the custodian is an agent and bailee only and is not intended
+
+[00:38.720 --> 00:46.080]  to be nor shall it be construed to be a trustee or fiduciary under this agreement of or for
+
+[00:46.080 --> 00:49.720]  the owner.
+
+[00:49.720 --> 00:57.080]  And further, the fact that under Part I, on page 16, that the custodian is not even under
+
+[00:57.080 --> 01:04.600]  an obligation to inspect, review, or examine the custodial files to determine their contents,
+
+[01:04.600 --> 01:10.320]  the genuineness of them, and the forcible nature of them, or anything else indicates
+
+[01:10.320 --> 01:12.760]  that they are just that custodian.
+
+[01:12.760 --> 01:19.120]  And then on page 20, I note also that when Dorsch Bank signs, they sign specifically
+
+[01:19.120 --> 01:22.200]  as the custodian for this agreement.
+
+[01:22.200 --> 01:29.480]  So I do find that the note was not transferred whilst Fargo continued to be the entity for
+
+[01:29.480 --> 01:36.320]  which Mr. Schatz was obligated to pay, the plaintiffs do have standing to enforce the
+
+[01:36.320 --> 01:44.640]  note, and that they comply with the foreclosure rules for pleading the foreclosure action.
+
+[01:44.640 --> 01:51.920]  With respect to the exceptions, I find it even more glaring that Mr. Schatz would have
+
+[01:51.920 --> 02:01.960]  gone to this property on the date of sale and handed out a note which is this Exhibit
+
+[02:01.960 --> 02:13.400]  C. Exhibit C to the substitute trustee's opposition to the amended exceptions.
+
+[02:13.400 --> 02:23.520]  There's a document that in bold letters at the top in red says, warning, buyer, beware.
+
+[02:23.520 --> 02:30.440]  And then there's an awful lot of information telling the buyers that the property is fatally
+
+[02:30.440 --> 02:40.560]  defective, that there's an appeal on it, there's evidence of forgery, fabrication, and a number
+
+[02:40.560 --> 02:42.280]  of other issues on here.
+
+[02:42.280 --> 02:47.440]  But he wants to stand before this court and say that the bidding process was chilled based
+
+[02:47.440 --> 02:53.360]  on something that the substitute trustees did during the process.
+
+[02:53.360 --> 02:59.040]  I'm not even sure how that's possible after handing out this document, which in this court's
+
+[02:59.040 --> 03:11.440]  eyes was clearly an attempt to preclude buyers from bidding on this property.
+
+[03:11.440 --> 03:15.840]  I do find that the sale was fair and reasonable.
+
+[03:15.840 --> 03:21.960]  Even more, I find that Mr. Schatz has not met his burden to show that his exceptions should
+
+[03:21.960 --> 03:22.960]  not be overruled.
+
+[03:23.200 --> 03:32.400]  I will overrule the exceptions, however, the court will not ratify the sale at this point.
+
+[03:32.400 --> 03:35.440]  Carly, so do you have those?
+
+[03:35.440 --> 03:40.680]  So you all are going to get a copy of the court's non-compliance letter with respect
+
+[03:40.680 --> 03:45.400]  to ratification of this sale.
+
+[03:45.400 --> 03:52.560]  I have addressed the issue of the auctioneer's affidavit.
+
+[03:52.560 --> 03:58.520]  I'm going to address that now because I think I was slightly mistaken there.
+
+[03:58.520 --> 04:06.880]  I do find that to some extent this was not done by an auctioneer in the traditional sense
+
+[04:06.880 --> 04:07.880]  of an auctioneer.
+
+[04:07.880 --> 04:11.400]  The auction was done by a substitute trustee.
+
+[04:11.400 --> 04:21.040]  The substitute trustee did file an affidavit in accordance with 14305.
+
+[04:21.040 --> 04:30.800]  And though the court did have question about whether the substitute trustee is affiliated
+
+[04:30.800 --> 04:37.400]  with someone who had an interest in the property, the court does not find that the auction was
+
+[04:37.400 --> 04:47.160]  conducted in some unfair or unreasonable way or in any way that interfered with the bidding
+
+[04:47.160 --> 04:48.560]  process.
+
+[04:48.560 --> 04:59.600]  The court would find even more that if anything interfered with the bidding process and chilled
+
+[04:59.600 --> 05:08.920]  the bidding, it was exhibit C to the substitute trustee's opposition to defendant's amended
+
+[05:08.920 --> 05:14.800]  exceptions, which is the document that Mr. Shatz was handing out to potential bidders
+
+[05:14.800 --> 05:15.800]  at the property.
+
+[05:15.800 --> 05:22.160]  I don't find that anything regarding the liens on the property had any effect at all on the
+
+[05:22.160 --> 05:24.800]  bidding process.
+
+[05:24.800 --> 05:31.160]  So all of your exceptions are overruled, Mr. Shatz.
+
+[05:31.160 --> 05:37.760]  I am going to require that the substitute trustees address the mitigation loss issues
+
+[05:37.760 --> 05:46.360]  that are listed, not the auctioneer's issue, but the mitigation loss and how they are stated
+
+[05:46.360 --> 05:57.760]  in the noncompliance letter, which was just handed to everyone.
+
+[05:57.760 --> 06:04.960]  Just so that the, I'm doing my due diligence here, Mr. Hertz, I am still requesting that
+
+[06:04.960 --> 06:12.880]  you file the appropriate document for protective order.
+
+[06:12.880 --> 06:19.520]  And I will consider it after I receive any response from Mr. Shatz regarding that protective
+
+[06:19.520 --> 06:20.520]  order.
+
+[06:20.520 --> 06:28.080]  I will note for the record that Mr. Shatz has already agreed to not disclose the document
+
+[06:28.080 --> 06:33.200]  and to the confidential nature of the document if he were to receive a copy.
+
+[06:33.200 --> 06:34.640]  He may change his mind.
+
+[06:34.640 --> 06:35.640]  I don't know.
+
+[06:35.640 --> 06:42.800]  The court will just take notice of what he's already filed.
+
+[06:42.800 --> 06:50.400]  The only reason I'm doing that is so that he has this document in some form if an appeal
+
+[06:50.400 --> 06:56.680]  is taken from my decision here.
+
+[06:56.680 --> 07:04.720]  Once that is done, I think I can rule on the discovery issues as well because the only
+
+[07:04.720 --> 07:10.560]  issue and discovery that I can see here really is this document.
+
+[07:10.560 --> 07:15.360]  And to the extent there are any other discovery issues, I think they actually are resolved
+
+[07:15.360 --> 07:17.360]  by my rulings here today.
+
+[07:17.360 --> 07:18.360]  Thank you.
+
+[07:18.360 --> 07:19.360]  Anything further, Mr. Hertz?
+
+[07:19.360 --> 07:20.360]  No.
+
+[07:20.360 --> 07:21.360]  Thank you, Your Honor.
+
+[07:21.360 --> 07:26.360]  I just wanted to grab the custodial agreement off.
+
+[07:26.360 --> 07:36.800]  Yes, Mr. Shatz, if you would provide that agreement back now, sir.
+
+[07:36.800 --> 07:43.840]  If you all reach an agreement regarding the confidential nature of that document, you
+
+[07:43.840 --> 07:49.840]  can provide it to me without the motion and then Mr. Shatz can get this document.
+
+[07:49.840 --> 07:51.840]  Understood, Your Honor.
+
+[07:51.840 --> 07:52.840]  Thank you.
+
+[07:52.840 --> 07:55.840]  Without me making a decision on it.
+
+[07:56.840 --> 08:04.840]  Your Honor, could we talk about the bailee letter that would need to be with that and
+
+[08:04.840 --> 08:10.840]  the qualification of those documents as evidence?
+
+[08:10.840 --> 08:12.840]  Can I ask you something, Mr. Hertz?
+
+[08:12.840 --> 08:15.840]  And I'm just curious.
+
+[08:15.840 --> 08:21.840]  Do you all have, I imagine there would be something separate because this does appear
+
+[08:21.840 --> 08:23.840]  to be a general agreement.
+
+[08:23.840 --> 08:32.840]  It's not specific to Mr. Shatz.
+
+[08:32.840 --> 08:34.840]  I'm sorry, Your Honor.
+
+[08:34.840 --> 08:39.840]  There would have had to have been something for George Bank to accept this specific note.
+
+[08:39.840 --> 08:42.840]  It would be the bailee letter, Your Honor.
+
+[08:42.840 --> 08:44.840]  I don't believe so, Your Honor.
+
+[08:44.840 --> 08:48.840]  It would be transferred via, there would be like a spreadsheet of documents.
+
+[08:48.840 --> 08:52.840]  I mean, it would be like thousands of loans in a document that was not included in the
+
+[08:52.840 --> 08:56.840]  materials that I received.
+
+[08:56.840 --> 09:00.840]  I'm not sure I completely understand your question.
+
+[09:00.840 --> 09:08.840]  So, in looking at this particular document here, there's nothing in here telling me that
+
+[09:08.840 --> 09:21.840]  George Bank accepted the specific note for this property.
+
+[09:21.840 --> 09:24.840]  I don't believe there would be such a specific document.
+
+[09:24.840 --> 09:26.840]  There would be an acknowledgement of the transfer of the loans.
+
+[09:26.840 --> 09:31.840]  I believe the bailee document Mr. Shatz is referring to is a specific document.
+
+[09:31.840 --> 09:36.840]  If the loan is being transferred from Wells Cargo to someone else, that is not the circumstance here.
+
+[09:36.840 --> 09:38.840]  So, there's no need for a bailee letter.
+
+[09:38.840 --> 09:42.840]  This would have been a bulk, like, physical transfer of files.
+
+[09:42.840 --> 09:49.840]  And I don't believe there would be an acknowledgement beyond just the receipt of it pursuant to the letter.
+
+[09:49.840 --> 09:55.840]  I'm providing something that would show when this specific note was transferred.
+
+[09:55.840 --> 09:56.840]  I'm sorry.
+
+[09:56.840 --> 09:58.840]  Let's not do that.
+
+[09:58.840 --> 09:59.840]  On this specific note.
+
+C:\Users\sasha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+[00:00.000 --> 00:04.000]  was placed in the custody of Dolce Bank.
+
+[00:04.000 --> 00:08.000]  That information was provided already with a custodial law where the loan was transferred,
+
+[00:08.000 --> 00:10.000]  which sort of generated this whole...
+
+[00:10.000 --> 00:12.000]  So we're kind of going in circles here, Your Honor?
+
+[00:12.000 --> 00:14.000]  I mean, I think in light of the court's ruling for the second time...
+
+[00:14.000 --> 00:15.000]  I just need...
+
+[00:15.000 --> 00:16.000]  Listen.
+
+[00:16.000 --> 00:17.000]  Sorry, I hear you.
+
+[00:17.000 --> 00:23.000]  At some point, this probably isn't going to be the last stop for this case.
+
+[00:23.000 --> 00:27.000]  So I don't want it to go up to another court,
+
+[00:27.000 --> 00:29.000]  and then I get an order saying,
+
+[00:29.000 --> 00:34.000]  take additional measures to make sure X, Y, and Z was done.
+
+[00:34.000 --> 00:35.000]  Understood.
+
+[00:35.000 --> 00:37.000]  I'll look into that, Your Honor.
+
+[00:37.000 --> 00:41.000]  I don't know that there would be anything specific to this particular note.
+
+[00:41.000 --> 00:44.000]  I will see if there's a...
+
+[00:44.000 --> 00:48.000]  some sort of Excel spreadsheet of the list of loans that were included in this.
+
+[00:48.000 --> 00:49.000]  Yes, I mean...
+
+[00:49.000 --> 00:50.000]  And I could just...
+
+[00:50.000 --> 00:52.000]  Don't.
+
+[00:52.000 --> 00:57.000]  And if I could, you know, redact all the loans except for the...
+
+[00:57.000 --> 01:00.000]  I don't know if that exists, but I'll see what I can find.
+
+[01:00.000 --> 01:12.000]  I imagine at some point when Wells Fargo sent the different documents over for Deusch to hold,
+
+[01:12.000 --> 01:15.000]  there had to be something.
+
+[01:15.000 --> 01:18.000]  Sometimes there are electronic transfer records.
+
+[01:18.000 --> 01:20.000]  I just don't know what that would look like.
+
+[01:20.000 --> 01:28.000]  How would Wells Fargo then even know that they sent something to Deusch if there's no record of it?
+
+[01:28.000 --> 01:31.000]  We're sending you 50 different notes.
+
+[01:31.000 --> 01:33.000]  Your Honor, I'm sure there's a record of it.
+
+[01:33.000 --> 01:35.000]  I just don't know that it is like a...
+
+[01:35.000 --> 01:37.000]  just a wine item on a...
+
+[01:37.000 --> 01:39.000]  I think that may be all there is.
+
+[01:39.000 --> 01:40.000]  Okay.
+
+[01:40.000 --> 01:42.000]  All I'm saying is there should be something saying that,
+
+[01:42.000 --> 01:51.000]  hey, when we signed this agreement, we sent these 50 notes and documents over here
+
+[01:51.000 --> 01:57.000]  for this particular property with all the other properties blackened out or whatever you wish to do with them.
+
+[01:57.000 --> 02:02.000]  And just for the record, this agreement was dated June 27, 2022,
+
+[02:02.000 --> 02:07.000]  and I believe the law has a semi around the same time that we provided,
+
+[02:07.000 --> 02:09.000]  which I think is circumstantial,
+
+[02:09.000 --> 02:13.000]  but I'll see if I can find a specific record.
+
+[02:13.000 --> 02:15.000]  Okay.
+
+[02:15.000 --> 02:19.000]  Your Honor.
+
+[02:19.000 --> 02:21.000]  Who said your Honor?
+
+[02:21.000 --> 02:23.000]  I did, Your Honor.
+
+[02:23.000 --> 02:26.000]  You know why I can't hear you?
+
+[02:26.000 --> 02:27.000]  Thank you.
+
+[02:27.000 --> 02:30.000]  Your Honor.
+
+[02:30.000 --> 02:32.000]  They can provide a baili letter,
+
+[02:32.000 --> 02:34.000]  and that is the document that you're looking for.
+
+[02:34.000 --> 02:38.000]  Okay, I'm not requiring them to provide something that they don't have, sir.
+
+[02:38.000 --> 02:40.000]  But they do have one.
+
+[02:40.000 --> 02:44.000]  They would have one when they got the note from Deutsche Bank.
+
+[02:44.000 --> 02:46.000]  They would have gotten a baili letter with it.
+
+[02:46.000 --> 02:47.000]  Okay.
+
+[02:47.000 --> 02:49.000]  Do you have something to say they did, sir?
+
+[02:49.000 --> 02:52.000]  Your Honor, one last thing.
+
+[02:52.000 --> 02:59.000]  The motion to alter or amend the 14-11 was depending, so I...
+
+[02:59.000 --> 03:01.000]  That motion is denied.
+
+[03:01.000 --> 03:03.000]  Thank you for my ruling.
+
+[03:03.000 --> 03:05.000]  That was my question.
+
+[03:05.000 --> 03:07.000]  There's all these motions that...
+
+[03:07.000 --> 03:10.000]  Are they all denied now?
+
+[03:10.000 --> 03:12.000]  Or do you want a written order?
+
+[03:12.000 --> 03:14.000]  Can you provide an order?
+
+[03:14.000 --> 03:15.000]  Please.
+
+[03:15.000 --> 03:16.000]  Provide an order.
+
+[03:16.000 --> 03:21.000]  I am denying all motions consistent with my rulings here today.
+
+[03:21.000 --> 03:22.000]  Thank you.
+
+[03:22.000 --> 03:24.000]  We'll submit an order by any means.
+
+[03:24.000 --> 03:31.000]  I do, however, need to grant one, which I believe is yours,
+
+[03:31.000 --> 03:36.000]  regarding the counter complaints.
+
+[03:36.000 --> 03:37.000]  Correct?
+
+[03:37.000 --> 03:38.000]  Correct.
+
+[03:38.000 --> 03:40.000]  That motion is still pending.
+
+[03:40.000 --> 03:43.000]  I believe the order that you entered said that it would be discussed
+
+[03:43.000 --> 03:47.000]  with or without hearing after the hearing today.
+
+[03:47.000 --> 03:48.000]  Okay.
+
+[03:48.000 --> 03:50.000]  So I need an order on yours.
+
+[03:50.000 --> 03:52.000]  Would you mind submitting an order?
+
+[03:52.000 --> 03:53.000]  Yes, Your Honor.
+
+[03:53.000 --> 03:59.000]  As well.
+
+[03:59.000 --> 04:00.000]  Okay.
+
+[04:00.000 --> 04:02.000]  We'll see you in the afternoon.
+
+[04:30.000 --> 04:32.000]  May I be excused, Your Honor?
+
+[04:32.000 --> 04:33.000]  Yes, sir.
+
+[04:33.000 --> 04:34.000]  Thank you very much.
+
+[04:34.000 --> 04:35.000]  Thank you.
+
+[04:59.000 --> 05:14.000]  Oh, thank goodness.
+
+[05:14.000 --> 05:18.000]  Oh, I guess the motion that was granted.
+
+[05:18.000 --> 05:20.000]  The motion to...
+
+[05:20.000 --> 05:38.000]  I'm sorry, that might have been a motion to dismiss that assembly.
+
+[05:38.000 --> 05:39.000]  I'm sorry.
+
+[05:39.000 --> 05:43.000]  I'm sorry.
+
+[05:43.000 --> 05:44.000]  So Gordon's...
+
+[05:44.000 --> 05:49.000]  Gordon's death case was not crossed.
+
+[05:49.000 --> 05:50.000]  Okay.
+
+[06:14.000 --> 06:24.000]  Okay.
+
+[06:24.000 --> 06:34.000]  Okay.
+
+[06:34.000 --> 06:44.000]  Okay.
+
+[06:44.000 --> 07:05.000]  Good afternoon, Your Honor.
+
+[07:05.000 --> 07:34.000]  Good afternoon, Your Honor.
+
+[07:34.000 --> 07:35.000]  This is that case with...
+
+[07:35.000 --> 07:36.000]  Is this the retrial?
+
+[07:36.000 --> 07:37.000]  Yeah.
+
+[07:37.000 --> 07:46.000]  I don't see anything that has Verrussi's appearance removed.
+
+[07:46.000 --> 07:47.000]  So...
+
+[07:47.000 --> 07:48.000]  Nope.
+
+[07:48.000 --> 08:00.000]  I'm not going to consider this motion.
+
+[08:00.000 --> 08:05.000]  Thank you, Your Honor.
+
+[08:30.000 --> 08:35.000]  Thank you, Your Honor.
+
+[09:00.000 --> 09:05.000]  Thank you, Your Honor.
+
+[09:30.000 --> 09:35.000]  Thank you, Your Honor.
+
+PS C:\Users\sasha\OneDrive\Desktop\Brenner v Schatz 1-13-26 Rhodes 120min\Brenner v Schatz 1-13-26 Rhodes 120min\Transcription Package 1\00000000>
+
+PS C:\Users\sasha\OneDrive\Desktop\Brenner v Schatz 1-13-26 Rhodes 120min\Brenner v Schatz 1-13-26 Rhodes 120min\Transcription Package 1\00000000>
+
