@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { LayoutDashboard, FileText, Scale, Sparkles, Calendar, File, BookOpen, Gavel, TrendingUp } from 'lucide-react'
+import { LayoutDashboard, FileText, Scale, Sparkles, Calendar, File, BookOpen, Gavel, TrendingUp, LogOut } from 'lucide-react'
 import { ResearchView } from './components/ResearchView'
 import { TimelineComponent } from './components/TimelineComponent'
 import { DiscoveryBuilder } from './components/DiscoveryBuilder'
@@ -8,11 +8,18 @@ import { AssistantView } from './components/AssistantView'
 import { MotionDrafter } from './components/MotionDrafter'
 import { CaseAnalytics } from './components/CaseAnalytics'
 import { SearchView } from './components/SearchView'
+import { CaseSelector } from './components/CaseSelector'
 import { Bot } from 'lucide-react'
+import { useCase } from './context/CaseContext'
 
 
 function App() {
   const [activeTab, setActiveTab] = useState('assistant')
+  const { selectedCase, setSelectedCase, availableCases, caseName } = useCase()
+
+  if (!selectedCase) {
+    return <CaseSelector cases={availableCases} onSelect={setSelectedCase} />
+  }
 
   return (
     <div className="min-h-screen bg-background text-foreground flex">
@@ -22,7 +29,7 @@ function App() {
           <Scale className="w-8 h-8 text-primary" />
           <div>
             <h1 className="text-xl font-bold tracking-tight">LegalMind</h1>
-            <div className="text-xs text-muted-foreground">Brenner v. Schatz</div>
+            <div className="text-xs text-muted-foreground">{caseName}</div>
           </div>
         </div>
 
@@ -78,7 +85,7 @@ function App() {
         </nav>
 
         <div className="mt-auto pt-6 border-t border-white/10">
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 mb-4">
             <div className="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center text-xs font-bold text-primary">
               JS
             </div>
@@ -87,6 +94,13 @@ function App() {
               <div className="text-muted-foreground text-xs">Plaintiff</div>
             </div>
           </div>
+          <button
+            onClick={() => setSelectedCase(null)}
+            className="w-full flex items-center gap-2 px-3 py-2 text-xs font-medium text-muted-foreground hover:text-white transition-colors"
+          >
+            <LogOut className="w-3 h-3" />
+            Switch Case
+          </button>
         </div>
       </aside>
 

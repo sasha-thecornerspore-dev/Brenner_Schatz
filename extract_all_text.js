@@ -10,8 +10,13 @@ const mammoth = require('mammoth');
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Scan the entire Foreclosure directory
-const rootDir = path.resolve(__dirname, '..');
+// Scan the parent directory (Foreclosure) to find case documents
+// Security: Verify the parent directory is 'Foreclosure' to prevent scanning the entire filesystem
+let rootDir = path.resolve(__dirname, '..');
+if (path.basename(rootDir) !== 'Foreclosure') {
+    console.warn(`[WARNING] Parent directory is '${path.basename(rootDir)}', expected 'Foreclosure'. defaulting to current directory for safety.`);
+    rootDir = __dirname;
+}
 
 const outputPath = path.join(__dirname, 'bulk_extracted_all.txt');
 const outputStream = fs.createWriteStream(outputPath, { flags: 'w' });

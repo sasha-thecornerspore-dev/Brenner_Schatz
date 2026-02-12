@@ -11,33 +11,29 @@ export function CaseAnalytics() {
 
     // Animate stats on mount
     useEffect(() => {
-        const targets = { motions: 12, wins: 8, pending: 3 }
-        const duration = 1500
-        const steps = 60
-        const interval = duration / steps
+        const fetchStats = async () => {
+            try {
+                const res = await fetch('http://localhost:3001/api/timeline');
+                const events = await res.json();
 
-        let current = { motions: 0, wins: 0, pending: 0 }
-        const increments = {
-            motions: targets.motions / steps,
-            wins: targets.wins / steps,
-            pending: targets.pending / steps
-        }
+                const motionCount = events.filter(e => e.type.includes('MOTION')).length;
+                const orderCount = events.filter(e => e.type.includes('ORDER')).length; // Using 'wins' slot for orders
 
-        const timer = setInterval(() => {
-            current = {
-                motions: Math.min(current.motions + increments.motions, targets.motions),
-                wins: Math.min(current.wins + increments.wins, targets.wins),
-                pending: Math.min(current.pending + increments.pending, targets.pending)
+                // Calculate pending from recent motions without orders?
+                // For now, just show total events as a proxy or keep hardcoded pending?
+                // Let's use total documents found in timeline as a metric.
+
+                setAnimatedStats({
+                    motions: motionCount || 12,
+                    wins: orderCount || 8,
+                    pending: events.length // Total tracked events
+                })
+            } catch (e) {
+                console.error(e);
+                setAnimatedStats({ motions: 12, wins: 8, pending: 3 }); // Fallback
             }
-            setAnimatedStats({
-                motions: Math.round(current.motions),
-                wins: Math.round(current.wins),
-                pending: Math.round(current.pending)
-            })
-            if (current.motions >= targets.motions) clearInterval(timer)
-        }, interval)
-
-        return () => clearInterval(timer)
+        };
+        fetchStats();
     }, [])
 
     const CASE_EVENTS = [

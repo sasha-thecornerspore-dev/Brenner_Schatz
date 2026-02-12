@@ -1,36 +1,74 @@
 import { useState, useRef, useEffect } from 'react'
-import { Bot, Send, AlertTriangle, CheckCircle, BrainCircuit, ArrowRight } from 'lucide-react'
+import { Send, Bot, User, Sparkles, Paperclip, X, AlertTriangle, CheckCircle, BrainCircuit, ArrowRight } from 'lucide-react'
 import { useCase } from '../context/CaseContext'
 
 export function AssistantView({ onNavigate }) {
-    const { aiAnalysis, notes, addNote, caseName } = useCase()
-    const [input, setInput] = useState('')
-    const scrollRef = useRef(null)
+    const { selectedCase, addNote, aiAnalysis, notes, caseName } = useCase()
+    const [messages, setMessages] = useState([
+        { id: 1, text: "Hello. I've analyzed your case files. How can I help you?", sender: 'AI', time: new Date() }
+    ])
+    const [inputValue, setInputValue] = useState('')
+    const [isTyping, setIsTyping] = useState(false)
+    const messagesEndRef = useRef(null)
+
+    const scrollToBottom = () => {
+        messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
+    }
 
     useEffect(() => {
-        if (scrollRef.current) {
-            scrollRef.current.scrollTop = scrollRef.current.scrollHeight
+        scrollToBottom()
+    }, [messages])
+
+    // Original notes effect, kept for context integration
+    useEffect(() => {
+        if (messagesEndRef.current) { // Renamed from scrollRef
+            messagesEndRef.current.scrollTop = messagesEndRef.current.scrollHeight
         }
     }, [notes])
 
-    const handleSend = () => {
-        if (!input.trim()) return
-        addNote(input, 'User')
 
-        // Simulate AI response based on context
-        setTimeout(() => {
-            let response = "I've logged that."
-            if (input.toLowerCase().includes('motion')) {
-                response = `Based on your selection of "${aiAnalysis.nextAction}", I recommend drafting a Motion to Compel regarding the ${aiAnalysis.missingEvidence.join(' and ')}.`
-            } else if (input.toLowerCase().includes('deadline')) {
-                response = `Your most urgent deadline is ${aiAnalysis.nextAction}.`
-            } else {
-                response = "I am monitoring the case file. Currently, my analysis suggests concentrating on discovery deficiencies."
+    const handleSend = async () => {
+        if (!inputValue.trim()) return
+
+        const userQuery = inputValue
+        setMessages(prev => [...prev, { id: Date.now(), text: userQuery, sender: 'User', time: new Date() }])
+        addNote(userQuery, 'User') // Keep original addNote for context
+        setInputValue('')
+        setIsTyping(true)
+
+        try {
+            // Call Search API
+            const res = await fetch(`http://localhost:3001/api/search?q=${encodeURIComponent(userQuery)}&caseId=${selectedCase.id}`) // Assuming selectedCase has an 'id' property
+            const data = await res.json()
+
+            let responseText = "I couldn't find any specific documents matching that query in the case file."
+
+            if (data.results && data.results.length > 0) {
+                const topResult = data.results[0]
+                const count = data.count
+
+                // Construct a helpful response based on search results
+                responseText = `I found ${count} matching documents. \n\n` +
+                    `Top match: **${topResult.sourceFile || topResult.file}** (Line ${topResult.line})\n` +
+                    `> "...${topResult.content}..."\n\n` +
+                    `You can view full details in the Document Search tab.`
             }
-            addNote(response, 'AI')
-        }, 1000)
 
-        setInput('')
+            // Artificial delay for "thinking" feel
+            setTimeout(() => {
+                setMessages(prev => [...prev, { id: Date.now() + 1, text: responseText, sender: 'AI', time: new Date() }])
+                setIsTyping(false)
+                addNote(responseText, 'AI') // Keep original addNote for context
+            }, 600)
+
+        } catch (error) {
+            console.error(error)
+            setTimeout(() => {
+                setMessages(prev => [...prev, { id: Date.now() + 1, text: "I'm having trouble accessing the case files right now.", sender: 'AI', time: new Date() }])
+                setIsTyping(false)
+                addNote("I encountered an error searching the case file. Please try again.", 'AI') // Keep original addNote for context
+            }, 600)
+        }
     }
 
     return (

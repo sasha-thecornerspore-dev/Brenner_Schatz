@@ -1,13 +1,39 @@
 {
   "name": "legal-ai-assistant",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Legal AI Assistant for Foreclosure Defense",
+  "author": "Antigravity",
+  "main": "electron-main.js",
+  "homepage": "./",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "electron:start": "electron .",
+    "electron:pack": "electron-builder --win --x64"
+  },
+  "build": {
+    "appId": "com.legalmind.app",
+    "productName": "LegalMind",
+    "directories": {
+      "output": "dist-release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron-main.js",
+      "server.js",
+      "package.json"
+    ],
+    "win": {
+      "icon": "public/logo.svg"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.18",
@@ -30,6 +56,8 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
     "autoprefixer": "^10.4.22",
+    "electron": "^40.3.0",
+    "electron-builder": "^26.7.0",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",

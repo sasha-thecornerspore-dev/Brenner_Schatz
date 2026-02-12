@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { FileText, Copy, Check, Info } from 'lucide-react'
+import { FileText, Copy, Check, Info, Download } from 'lucide-react'
 
 export function DiscoveryBuilder() {
     const [activeTheory, setActiveTheory] = useState('')
@@ -64,8 +64,8 @@ export function DiscoveryBuilder() {
                             key={theory.id}
                             onClick={() => setActiveTheory(theory.id)}
                             className={`text-left p-4 rounded-lg border transition-all ${activeTheory === theory.id
-                                    ? 'bg-primary/20 border-primary text-primary'
-                                    : 'bg-white/5 border-white/10 hover:bg-white/10 hover:border-white/20'
+                                ? 'bg-primary/20 border-primary text-primary'
+                                : 'bg-white/5 border-white/10 hover:bg-white/10 hover:border-white/20'
                                 }`}
                         >
                             <div className="font-semibold mb-2">{theory.name}</div>
@@ -83,7 +83,22 @@ export function DiscoveryBuilder() {
                                 className="flex items-center gap-2 text-sm bg-white/10 hover:bg-white/20 px-3 py-1.5 rounded-md transition-colors"
                             >
                                 {copied ? <Check className="w-4 h-4 text-green-400" /> : <Copy className="w-4 h-4" />}
-                                {copied ? 'Copied' : 'Copy Text'}
+                                {copied ? 'Copied' : 'Copy'}
+                            </button>
+                            <button
+                                onClick={() => {
+                                    const blob = new Blob([selectedTheory.requests], { type: 'text/plain' })
+                                    const url = URL.createObjectURL(blob)
+                                    const a = document.createElement('a')
+                                    a.href = url
+                                    a.download = `${selectedTheory.name.replace(/\s+/g, '_')}_Discovery.txt`
+                                    a.click()
+                                    URL.revokeObjectURL(url)
+                                }}
+                                className="flex items-center gap-2 text-sm bg-primary/20 text-primary hover:bg-primary/30 px-3 py-1.5 rounded-md transition-colors"
+                            >
+                                <Download className="w-4 h-4" />
+                                Export
                             </button>
                         </div>
 

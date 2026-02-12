@@ -1,26 +1,29 @@
 import { useState } from 'react'
-import { Search, FileText, Image as ImageIcon, X, File } from 'lucide-react'
+import { Search, FileText, ArrowRight, Loader2 } from 'lucide-react'
+import { useCase } from '../context/CaseContext'
 
 export function SearchView() {
     const [query, setQuery] = useState('')
     const [results, setResults] = useState([])
     const [loading, setLoading] = useState(false)
+    const { selectedCase } = useCase()
     const [error, setError] = useState(null)
     const [selectedFile, setSelectedFile] = useState(null)
 
     const handleSearch = async (e) => {
         e.preventDefault()
-        if (query.length < 3) return
+        if (!query.trim()) return
 
         setLoading(true)
         setError(null)
         try {
-            const res = await fetch(`http://localhost:3001/api/search?q=${encodeURIComponent(query)}`)
+            const res = await fetch(`http://localhost:3001/api/search?q=${encodeURIComponent(query)}&caseId=${selectedCase}`)
             const data = await res.json()
             if (data.error) throw new Error(data.error)
             setResults(data.results || [])
-        } catch (err) {
-            setError(err.message)
+        } catch (error) {
+            console.error("Search failed:", error)
+            setError(error.message)
         } finally {
             setLoading(false)
         }
@@ -71,8 +74,8 @@ export function SearchView() {
                             key={idx}
                             onClick={() => setSelectedFile(result)}
                             className={`p-4 rounded-xl border cursor-pointer transition-all ${selectedFile === result
-                                    ? 'bg-primary/10 border-primary'
-                                    : 'bg-card border-white/5 hover:bg-white/5 hover:border-white/10'
+                                ? 'bg-primary/10 border-primary'
+                                : 'bg-card border-white/5 hover:bg-white/5 hover:border-white/10'
                                 }`}
                         >
                             <div className="flex items-center gap-2 mb-2">

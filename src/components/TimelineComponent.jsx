@@ -4,9 +4,8 @@ import { Calendar, AlertCircle, CheckCircle2 } from 'lucide-react'
 import { useCase } from '../context/CaseContext'
 
 export function TimelineComponent() {
-    const { setDeadlines: setContextDeadlines } = useCase()
-    const [serviceDate, setServiceDate] = useState('')
-    const [deadlines, setDeadlines] = useState([])
+    const { serviceDate, setServiceDate, deadlines, setDeadlines, selectedCase } = useCase()
+    const [viewMode, setViewMode] = useState('upcoming') // 'upcoming' or 'history'
 
     // Default rules (customizable later)
     const RULES = [
@@ -17,20 +16,46 @@ export function TimelineComponent() {
     ]
 
     useEffect(() => {
-        if (!serviceDate) {
-            setDeadlines([])
-            return
+        // Fetch real case events
+        const fetchEvents = async () => {
+            try {
+                const res = await fetch(`http://localhost:3001/api/timeline?caseId=${selectedCase}`)
+                const realEvents = await res.json()
+
+                // Transform real events to timeline format
+                const formattedRealEvents = realEvents.map(e => ({
+                    name: e.title,
+                    date: new Date(e.date),
+                    type: 'history', // New type for past events
+                    days: differenceInDays(new Date(e.date), new Date()), // Days ago/until
+                    isPast: true
+                }))
+
+                if (!serviceDate) {
+                    // If no service date, just show real history
+                    setDeadlines(formattedRealEvents.sort((a, b) => b.date - a.date)) // Newest first for history
+                    return
+                }
+
+                // If service date exists, calculate future deadlines
+                const start = new Date(serviceDate)
+                const calculated = RULES.map(rule => ({
+                    ...rule,
+                    date: addDays(start, rule.days),
+                    isPast: differenceInDays(new Date(), addDays(start, rule.days)) > 0
+                }))
+
+                // Merge and sort
+                const combined = [...formattedRealEvents, ...calculated].sort((a, b) => b.date - a.date)
+                setDeadlines(combined)
+                setContextDeadlines(combined)
+
+            } catch (err) {
+                console.error("Failed to fetch timeline", err)
+            }
         }
 
-        const start = new Date(serviceDate)
-        const calculated = RULES.map(rule => ({
-            ...rule,
-            date: addDays(start, rule.days),
-            isPast: differenceInDays(new Date(), addDays(start, rule.days)) > 0
-        })).sort((a, b) => a.date - b.date)
-
-        setDeadlines(calculated)
-        setContextDeadlines(calculated)
+        fetchEvents()
     }, [serviceDate, setContextDeadlines])
 
     return (

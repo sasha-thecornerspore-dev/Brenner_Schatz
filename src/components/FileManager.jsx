@@ -3,7 +3,7 @@ import { Upload, File, Folder, ArrowLeft, CheckCircle, Loader2 } from 'lucide-re
 import { useCase } from '../context/CaseContext'
 
 export function FileManager() {
-    const { setFiles: setContextFiles } = useCase()
+    const { setFiles: setContextFiles, selectedCase } = useCase()
     const [files, setFiles] = useState([])
     const [currentPath, setCurrentPath] = useState('')
     const [uploading, setUploading] = useState(false)
@@ -11,7 +11,7 @@ export function FileManager() {
 
     useEffect(() => {
         fetchFiles()
-    }, [currentPath])
+    }, [currentPath, selectedCase])
 
     useEffect(() => {
         setContextFiles(files)
@@ -19,7 +19,7 @@ export function FileManager() {
 
     const fetchFiles = async () => {
         try {
-            const res = await fetch(`http://localhost:3001/api/files?path=${encodeURIComponent(currentPath)}`)
+            const res = await fetch(`http://localhost:3001/api/files?path=${encodeURIComponent(currentPath)}&caseId=${selectedCase}`)
             const data = await res.json()
 
             if (Array.isArray(data)) {
@@ -58,6 +58,7 @@ export function FileManager() {
         const formData = new FormData()
         formData.append('file', file)
         formData.append('path', currentPath)
+        formData.append('caseId', selectedCase)
 
         try {
             const response = await fetch('http://localhost:3001/api/upload', {

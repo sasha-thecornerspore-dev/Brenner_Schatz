@@ -3,12 +3,32 @@ import { createContext, useContext, useState, useEffect } from 'react'
 const CaseContext = createContext()
 
 export function CaseProvider({ children }) {
-    const [caseName, setCaseName] = useState('Smith v. Big Bank')
+    const [selectedCase, setSelectedCase] = useState(null)
+    const [availableCases, setAvailableCases] = useState([])
+
+    // Case Data
+    const [caseName, setCaseName] = useState('')
     const [serviceDate, setServiceDate] = useState('')
     const [deadlines, setDeadlines] = useState([])
     const [files, setFiles] = useState([])
     const [defenseTheory, setDefenseTheory] = useState('')
     const [notes, setNotes] = useState([])
+
+    // Load available cases on mount
+    useEffect(() => {
+        fetch('http://localhost:3001/api/cases')
+            .then(res => res.json())
+            .then(data => setAvailableCases(data))
+            .catch(err => console.error("Failed to load cases", err))
+    }, [])
+
+    // Reset state when case changes
+    useEffect(() => {
+        if (selectedCase) {
+            setCaseName(selectedCase.replace(/_/g, ' '))
+            // Here you could also load case-specific settings if they existed
+        }
+    }, [selectedCase])
 
     // AI "Brain" - Analysis of current state
     const [aiAnalysis, setAiAnalysis] = useState({
@@ -61,6 +81,8 @@ export function CaseProvider({ children }) {
 
     return (
         <CaseContext.Provider value={{
+            selectedCase, setSelectedCase,
+            availableCases,
             caseName, setCaseName,
             serviceDate, setServiceDate,
             deadlines, setDeadlines,
