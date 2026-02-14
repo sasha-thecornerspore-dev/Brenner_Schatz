@@ -14,7 +14,7 @@ function createWindow() {
     mainWindow = new BrowserWindow({
         width: 1280,
         height: 800,
-        icon: path.join(__dirname, 'public', 'logo.svg'), // Use logo if available, or ico
+        icon: path.join(__dirname, 'build', 'icon.png'), // Use png for cross-platform compatibility
         webPreferences: {
             nodeIntegration: false,
             contextIsolation: true,
