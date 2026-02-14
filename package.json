@@ -29,7 +29,7 @@
       "package.json"
     ],
     "win": {
-      "icon": "public/logo.svg"
+      "target": "nsis"
     },
     "nsis": {
       "oneClick": false,
