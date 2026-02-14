@@ -22,6 +22,12 @@
     "directories": {
       "output": "dist-release"
     },
+    "mac": {
+      "icon": "public/icon.png"
+    },
+    "linux": {
+      "icon": "public/icon.png"
+    },
     "files": [
       "dist/**/*",
       "electron-main.js",
@@ -29,6 +35,7 @@
       "package.json"
     ],
     "win": {
+      "icon": "public/icon.ico",
       "target": "nsis"
     },
     "nsis": {
