@@ -13,7 +13,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "electron:start": "electron .",
-    "electron:pack": "electron-builder --win --x64"
+    "electron:pack": "electron-builder --win --x64",
+    "electron:pack:mac": "electron-builder --mac"
   },
   "build": {
     "appId": "com.legalmind.app",
