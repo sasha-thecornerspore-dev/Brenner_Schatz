@@ -32,7 +32,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: LegalMind-Windows
-          path: dist-release/*.zip
+          path: |
+            dist-release/*.exe
+            dist-release/*.zip
           retention-days: 5
 
   build-mac:
@@ -61,5 +63,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: LegalMind-Mac
-          path: dist-release/*.dmg
+          path: |
+            dist-release/*.dmg
+            dist-release/*.zip
           retention-days: 5
