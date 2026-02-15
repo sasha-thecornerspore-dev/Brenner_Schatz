@@ -30,7 +30,8 @@ app.use((req, res, next) => {
     next();
 });
 
-app.get('/', (req, res) => {
+// Health check endpoint
+app.get('/api/health', (req, res) => {
     res.send('LegalMind Backend Running. Multi-Case Architecture Active.');
 });
 
