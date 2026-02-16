@@ -17,7 +17,7 @@ export function SearchView() {
         setLoading(true)
         setError(null)
         try {
-            const res = await fetch(`http://localhost:3001/api/search?q=${encodeURIComponent(query)}&caseId=${selectedCase}`)
+            const res = await fetch(`/api/search?q=${encodeURIComponent(query)}&caseId=${selectedCase}`)
             const data = await res.json()
             if (data.error) throw new Error(data.error)
             setResults(data.results || [])

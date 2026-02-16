@@ -19,7 +19,7 @@ export function FileManager() {
 
     const fetchFiles = async () => {
         try {
-            const res = await fetch(`http://localhost:3001/api/files?path=${encodeURIComponent(currentPath)}&caseId=${selectedCase}`)
+            const res = await fetch(`/api/files?path=${encodeURIComponent(currentPath)}&caseId=${selectedCase}`)
             const data = await res.json()
 
             if (Array.isArray(data)) {
@@ -61,7 +61,7 @@ export function FileManager() {
         formData.append('caseId', selectedCase)
 
         try {
-            const response = await fetch('http://localhost:3001/api/upload', {
+            const response = await fetch('/api/upload', {
                 method: 'POST',
                 body: formData,
             })

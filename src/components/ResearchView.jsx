@@ -12,7 +12,7 @@ export function ResearchView() {
         setLoading(true)
         setActiveTab(type)
         try {
-            const res = await fetch(`http://localhost:3001/api/research?type=${type}&caseId=${selectedCase}`)
+            const res = await fetch(`/api/research?type=${type}&caseId=${selectedCase}`)
             const data = await res.json()
             setResearch(data.report)
         } catch (err) {

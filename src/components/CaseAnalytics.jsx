@@ -5,7 +5,10 @@ import {
     Scale, FileText, Users, DollarSign
 } from 'lucide-react'
 
+import { useCase } from '../context/CaseContext'
+
 export function CaseAnalytics() {
+    const { selectedCase } = useCase()
     const [timeRange, setTimeRange] = useState('all')
     const [animatedStats, setAnimatedStats] = useState({ motions: 0, wins: 0, pending: 0 })
 
@@ -13,7 +16,8 @@ export function CaseAnalytics() {
     useEffect(() => {
         const fetchStats = async () => {
             try {
-                const res = await fetch('http://localhost:3001/api/timeline');
+                if (!selectedCase) return;
+                const res = await fetch(`/api/timeline?caseId=${selectedCase}`);
                 const events = await res.json();
 
                 const motionCount = events.filter(e => e.type.includes('MOTION')).length;
@@ -34,7 +38,7 @@ export function CaseAnalytics() {
             }
         };
         fetchStats();
-    }, [])
+    }, [selectedCase])
 
     const CASE_EVENTS = [
         { date: '2026-01-13', type: 'hearing', title: 'Hearing on MSJ', status: 'completed', icon: Gavel },

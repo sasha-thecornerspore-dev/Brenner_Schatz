@@ -38,7 +38,7 @@ export function AssistantView({ onNavigate }) {
 
         try {
             // Call Search API
-            const res = await fetch(`http://localhost:3001/api/search?q=${encodeURIComponent(userQuery)}&caseId=${selectedCase.id}`) // Assuming selectedCase has an 'id' property
+            const res = await fetch(`/api/search?q=${encodeURIComponent(userQuery)}&caseId=${selectedCase}`)
             const data = await res.json()
 
             let responseText = "I couldn't find any specific documents matching that query in the case file."

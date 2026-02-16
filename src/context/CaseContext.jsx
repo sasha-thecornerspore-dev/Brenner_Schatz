@@ -14,12 +14,23 @@ export function CaseProvider({ children }) {
     const [defenseTheory, setDefenseTheory] = useState('')
     const [notes, setNotes] = useState([])
 
+    const [error, setError] = useState(null)
+
     // Load available cases on mount
     useEffect(() => {
-        fetch('http://localhost:3001/api/cases')
-            .then(res => res.json())
-            .then(data => setAvailableCases(data))
-            .catch(err => console.error("Failed to load cases", err))
+        fetch('/api/cases')
+            .then(res => {
+                if (!res.ok) throw new Error("Failed to connect to backend")
+                return res.json()
+            })
+            .then(data => {
+                setAvailableCases(data)
+                setError(null)
+            })
+            .catch(err => {
+                console.error("Failed to load cases", err)
+                setError("Backend connection failed. Is the server running?")
+            })
     }, [])
 
     // Reset state when case changes
@@ -89,7 +100,8 @@ export function CaseProvider({ children }) {
             files, setFiles,
             defenseTheory, setDefenseTheory,
             aiAnalysis,
-            notes, addNote
+            notes, addNote,
+            error
         }}>
             {children}
         </CaseContext.Provider>

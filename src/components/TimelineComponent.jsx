@@ -19,7 +19,7 @@ export function TimelineComponent() {
         // Fetch real case events
         const fetchEvents = async () => {
             try {
-                const res = await fetch(`http://localhost:3001/api/timeline?caseId=${selectedCase}`)
+                const res = await fetch(`/api/timeline?caseId=${selectedCase}`)
                 const realEvents = await res.json()
 
                 // Transform real events to timeline format
