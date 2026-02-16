@@ -341,7 +341,9 @@ const PORT = 3001;
 app.use(express.static(path.join(__dirname, 'dist')));
 
 // Catch-all route to serve React's index.html
-app.get(/.*/, (req, res) => {
+app.use((req, res, next) => {
+    if (req.method !== 'GET') return next();
+
     // Check if request is for API, if so, 404
     if (req.path.startsWith('/api')) {
         return res.status(404).json({ error: "API Endpoint not found" });
