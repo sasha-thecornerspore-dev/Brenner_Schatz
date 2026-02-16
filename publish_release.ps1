@@ -43,19 +43,24 @@ if ($releaseFiles.Count -eq 0) {
 Write-Host "Found files to upload:"
 $releaseFiles.Name
 
-# Check if release v1.0.0 exists
-$existing = & $gh release view v1.0.0 --repo $DestRepo 2>$null
+# Get version from package.json
+$pkg = Get-Content package.json | ConvertFrom-Json
+$version = "v" + $pkg.version
+Write-Host "Detected version from package.json: $version"
+
+# Check if release exists
+$existing = & $gh release view $version --repo $DestRepo 2>$null
 if ($LASTEXITCODE -eq 0) {
-    Write-Warning "Release v1.0.0 already exists. Deleting it to re-upload..."
-    & $gh release delete v1.0.0 --repo $DestRepo --yes --cleanup-tag
+    Write-Warning "Release $version already exists. Deleting it to re-upload..."
+    & $gh release delete $version --repo $DestRepo --yes --cleanup-tag
     Start-Sleep -Seconds 2
 }
 
-Write-Host "Creating Release v1.0.0 in $DestRepo..."
+Write-Host "Creating Release $version in $DestRepo..."
 # Create release and upload files
 # Join paths with space is not enough for arguments, pass as array matching gh syntax
 $fileArgs = $releaseFiles.FullName
-& $gh release create v1.0.0 $fileArgs --repo $DestRepo --title "LegalMind v1.0 Release" --notes "First standalone release of LegalMind AI Assistant."
+& $gh release create $version $fileArgs --repo $DestRepo --title "LegalMind $version Release" --notes "Release version $version"
 
 if ($LASTEXITCODE -eq 0) {
     Write-Host "Success! Release v1.0.0 created."

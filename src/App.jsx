@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { LayoutDashboard, FileText, Scale, Sparkles, Calendar, File, BookOpen, Gavel, TrendingUp, LogOut } from 'lucide-react'
+import { LayoutDashboard, FileText, Scale, Sparkles, Calendar, File, BookOpen, Gavel, TrendingUp, LogOut, Search } from 'lucide-react'
 import { ResearchView } from './components/ResearchView'
 import { TimelineComponent } from './components/TimelineComponent'
 import { DiscoveryBuilder } from './components/DiscoveryBuilder'

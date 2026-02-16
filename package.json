@@ -1,7 +1,7 @@
 {
   "name": "legal-ai-assistant",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Legal AI Assistant for Foreclosure Defense",
   "author": "Antigravity",
   "main": "electron-main.js",
