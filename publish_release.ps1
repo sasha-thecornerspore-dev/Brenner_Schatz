@@ -49,7 +49,7 @@ $version = "v" + $pkg.version
 Write-Host "Detected version from package.json: $version"
 
 # Check if release exists
-$existing = & $gh release view $version --repo $DestRepo 2>$null
+& $gh release view $version --repo $DestRepo 2>$null | Out-Null
 if ($LASTEXITCODE -eq 0) {
     Write-Warning "Release $version already exists. Deleting it to re-upload..."
     & $gh release delete $version --repo $DestRepo --yes --cleanup-tag
