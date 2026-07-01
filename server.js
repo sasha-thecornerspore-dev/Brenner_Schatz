@@ -4,6 +4,7 @@ import cors from 'cors';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { searchCaseData, getTimelineEvents, generateResearchReport } from './foreclosureDataModule.js';
 
 import os from 'os';
 
@@ -145,7 +146,7 @@ app.get('/api/files', (req, res) => {
 });
 
 // Search Endpoint
-app.get('/api/search', (req, res) => {
+app.get('/api/search', async (req, res) => {
     const caseId = req.query.caseId;
     const query = req.query.q;
 
@@ -171,36 +172,8 @@ app.get('/api/search', (req, res) => {
         return res.status(500).json({ error: "No extracted text files found for this case" });
     }
 
-    const results = [];
-    const MAX_RESULTS = 50;
-    let matchCount = 0;
-
     try {
-        filesToSearch.forEach(file => {
-            if (matchCount >= MAX_RESULTS) return;
-
-            const content = fs.readFileSync(file, 'utf-8');
-            const lines = content.split('\n');
-
-            lines.forEach((line, index) => {
-                if (matchCount >= MAX_RESULTS) return;
-
-                if (line.toLowerCase().includes(query.toLowerCase())) {
-                    const start = Math.max(0, index - 2);
-                    const end = Math.min(lines.length, index + 3);
-                    const snippet = lines.slice(start, end).join('\n');
-
-                    results.push({
-                        file: path.basename(file),
-                        line: index + 1,
-                        content: line.trim(),
-                        context: snippet
-                    });
-                    matchCount++;
-                }
-            });
-        });
-
+        const results = await searchCaseData(filesToSearch, query, 50);
         res.json({ count: results.length, results });
     } catch (err) {
         console.error("Search error:", err);
@@ -209,7 +182,7 @@ app.get('/api/search', (req, res) => {
 });
 
 // Timeline Endpoint
-app.get('/api/timeline', (req, res) => {
+app.get('/api/timeline', async (req, res) => {
     const caseId = req.query.caseId;
     const casePath = getCasePath(caseId);
     if (!casePath || !fs.existsSync(casePath)) {
@@ -227,46 +200,9 @@ app.get('/api/timeline', (req, res) => {
         return res.json([]);
     }
 
-    const events = [];
-
     try {
-        filesToSearch.forEach(file => {
-            const content = fs.readFileSync(file, 'utf-8');
-            const lines = content.split('\n');
-            const dateRegex = /\[Detected Date: (.*?)\]/;
-
-            let currentDoc = "Unknown Document";
-            let currentType = "UNKNOWN";
-
-            lines.forEach(line => {
-                const headerMatch = line.match(/^=== \[(.*?)\] (.*?) ===$/);
-                if (headerMatch) {
-                    currentType = headerMatch[1];
-                    currentDoc = headerMatch[2];
-                    return;
-                }
-
-                const dateMatch = line.match(dateRegex);
-                if (dateMatch) {
-                    const dateStr = dateMatch[1];
-                    const dateObj = new Date(dateStr);
-                    if (!isNaN(dateObj.getTime())) {
-                        events.push({
-                            date: dateObj.toISOString().split('T')[0],
-                            title: path.basename(currentDoc),
-                            type: currentType,
-                            docPath: currentDoc
-                        });
-                    }
-                }
-            });
-        });
-
-        const uniqueEvents = Array.from(new Set(events.map(e => JSON.stringify(e)))).map(e => JSON.parse(e));
-        uniqueEvents.sort((a, b) => new Date(a.date) - new Date(b.date));
-
+        const uniqueEvents = await getTimelineEvents(filesToSearch);
         res.json(uniqueEvents);
-
     } catch (err) {
         console.error("Timeline error:", err);
         res.status(500).json({ error: "Failed to generate timeline" });
@@ -274,7 +210,7 @@ app.get('/api/timeline', (req, res) => {
 });
 
 // Research Endpoint
-app.get('/api/research', (req, res) => {
+app.get('/api/research', async (req, res) => {
     const caseId = req.query.caseId;
     const type = req.query.type || 'general';
 
@@ -292,45 +228,11 @@ app.get('/api/research', (req, res) => {
 
     if (filesToSearch.length === 0) return res.status(500).json({ error: "No data found" });
 
-    let report = `# Deep Research Report: ${type.toUpperCase()}\n\n`;
-    let findings = [];
-
     try {
-        filesToSearch.forEach(file => {
-            const content = fs.readFileSync(file, 'utf-8');
-            const lines = content.split('\n');
-            let currentDoc = "Unknown";
-
-            lines.forEach((line, i) => {
-                const headerMatch = line.match(/^=== \[(.*?)\] (.*?) ===$/);
-                if (headerMatch) currentDoc = headerMatch[2];
-
-                if (type === 'standing') {
-                    if (line.match(/(assignment|allonge|indorse|holder|possession)/i)) {
-                        findings.push(`- **${currentDoc}**: "${line.trim()}"`);
-                    }
-                } else if (type === 'limitations') {
-                    if (line.match(/(default|breach|accelerat|due date)/i)) {
-                        findings.push(`- **${currentDoc}**: "${line.trim()}"`);
-                    }
-                } else {
-                    if (line.match(/(foreclos|judgment|order)/i)) {
-                        findings.push(`- **${currentDoc}**: "${line.trim()}"`);
-                    }
-                }
-            });
-        });
-
-        if (findings.length === 0) {
-            report += "No specific evidence found matching this criteria.";
-        } else {
-            report += `Found ${findings.length} relevant citations.\n\n` + findings.slice(0, 50).join('\n');
-        }
-
+        const report = await generateResearchReport(filesToSearch, type);
         res.json({ report });
-
     } catch (err) {
-        console.error(err);
+        console.error("Research error:", err);
         res.status(500).json({ error: "Research failed" });
     }
 });
